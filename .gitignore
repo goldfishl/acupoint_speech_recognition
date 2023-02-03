@@ -1,0 +1,7 @@
+*.pth
+.ipynb_checkpoints
+__pycache__
+*.wav
+*.seg
+*.txt
+data/
