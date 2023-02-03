@@ -1,0 +1,8002 @@
+[
+  {
+    "wav": "../data/vad/2/MWWaoRyM/\u7d20\u9ace.mp3",
+    "length": 3.708,
+    "label": "\u7d20\u9ace"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mqkL/\u7d20\u9ace.mp3",
+    "length": 2.844,
+    "label": "\u7d20\u9ace"
+  },
+  {
+    "wav": "../data/vad/2/Lz9p0X17/\u7d20\u9ace.mp3",
+    "length": 2.736,
+    "label": "\u7d20\u9ace"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u7d20\u9ace.mp3",
+    "length": 2.916,
+    "label": "\u7d20\u9ace"
+  },
+  {
+    "wav": "../data/vad/8/M1KXk9nL/\u9677\u8c37.mp3",
+    "length": 2.232,
+    "label": "\u9677\u8c37"
+  },
+  {
+    "wav": "../data/vad/8/M1KXZVyL/\u9677\u8c37.mp3",
+    "length": 2.916,
+    "label": "\u9677\u8c37"
+  },
+  {
+    "wav": "../data/vad/8/e4BkZPx7/\u9677\u8c37.mp3",
+    "length": 2.7,
+    "label": "\u9677\u8c37"
+  },
+  {
+    "wav": "../data/vad/4/7AxDZGAM/\u5c11\u5546.mp3",
+    "length": 2.412,
+    "label": "\u5c11\u5546"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u5c11\u5546.mp3",
+    "length": 1.728,
+    "label": "\u5c11\u5546"
+  },
+  {
+    "wav": "../data/vad/4/MWWavVyM/\u5c11\u5546.mp3",
+    "length": 3.096,
+    "label": "\u5c11\u5546"
+  },
+  {
+    "wav": "../data/vad/4/e3Bwk52L/\u542c\u4f1a.mp3",
+    "length": 2.16,
+    "label": "\u542c\u4f1a"
+  },
+  {
+    "wav": "../data/vad/4/7Ypajq0M/\u542c\u4f1a.mp3",
+    "length": 0.936,
+    "label": "\u542c\u4f1a"
+  },
+  {
+    "wav": "../data/vad/4/LVJadYaL/\u542c\u4f1a.mp3",
+    "length": 1.908,
+    "label": "\u542c\u4f1a"
+  },
+  {
+    "wav": "../data/vad/4/en9JxaAL/\u9634\u5305.mp3",
+    "length": 3.6,
+    "label": "\u9634\u5305"
+  },
+  {
+    "wav": "../data/vad/4/7XAPpVoL/\u9634\u5305.mp3",
+    "length": 3.528,
+    "label": "\u9634\u5305"
+  },
+  {
+    "wav": "../data/vad/4/7XAPp8oL/\u9634\u5305.mp3",
+    "length": 2.412,
+    "label": "\u9634\u5305"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89QL/\u592a\u9633.mp3",
+    "length": 2.232,
+    "label": "\u592a\u9633"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u592a\u9633.mp3",
+    "length": 3.276,
+    "label": "\u592a\u9633"
+  },
+  {
+    "wav": "../data/vad/1/eP2a2AX7/\u592a\u9633.mp3",
+    "length": 1.296,
+    "label": "\u592a\u9633"
+  },
+  {
+    "wav": "../data/vad/1/MRDAK1DL/\u592a\u9633.mp3",
+    "length": 3.168,
+    "label": "\u592a\u9633"
+  },
+  {
+    "wav": "../data/vad/2/e3BxnlbL/\u5173\u5143.mp3",
+    "length": 3.096,
+    "label": "\u5173\u5143"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u5173\u5143.mp3",
+    "length": 2.16,
+    "label": "\u5173\u5143"
+  },
+  {
+    "wav": "../data/vad/2/MDPdk0lM/\u5173\u5143.mp3",
+    "length": 2.592,
+    "label": "\u5173\u5143"
+  },
+  {
+    "wav": "../data/vad/2/7XA0XxjL/\u5173\u5143.mp3",
+    "length": 2.412,
+    "label": "\u5173\u5143"
+  },
+  {
+    "wav": "../data/vad/3/M6By6aBM/\u9885\u606f.mp3",
+    "length": 1.908,
+    "label": "\u9885\u606f"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u9885\u606f.mp3",
+    "length": 1.908,
+    "label": "\u9885\u606f"
+  },
+  {
+    "wav": "../data/vad/3/MRDaJl6L/\u9885\u606f.mp3",
+    "length": 2.232,
+    "label": "\u9885\u606f"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u627f\u6d46.mp3",
+    "length": 3.276,
+    "label": "\u627f\u6d46"
+  },
+  {
+    "wav": "../data/vad/2/ekqrB1Y7/\u627f\u6d46.mp3",
+    "length": 1.98,
+    "label": "\u627f\u6d46"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVz2e/\u627f\u6d46.mp3",
+    "length": 1.656,
+    "label": "\u627f\u6d46"
+  },
+  {
+    "wav": "../data/vad/2/M6BKO93M/\u627f\u6d46.mp3",
+    "length": 1.98,
+    "label": "\u627f\u6d46"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u76ee\u7a97.mp3",
+    "length": 1.476,
+    "label": "\u76ee\u7a97"
+  },
+  {
+    "wav": "../data/vad/5/e8YqvvwM/\u76ee\u7a97.mp3",
+    "length": 1.908,
+    "label": "\u76ee\u7a97"
+  },
+  {
+    "wav": "../data/vad/5/LwPb8Zpe/\u76ee\u7a97.mp3",
+    "length": 2.916,
+    "label": "\u76ee\u7a97"
+  },
+  {
+    "wav": "../data/vad/5/7qXGBB5M/\u76ee\u7a97.mp3",
+    "length": 1.548,
+    "label": "\u76ee\u7a97"
+  },
+  {
+    "wav": "../data/vad/7/LVJayQzL/\u516c\u5b59.mp3",
+    "length": 2.16,
+    "label": "\u516c\u5b59"
+  },
+  {
+    "wav": "../data/vad/7/ekqNl0Q7/\u516c\u5b59.mp3",
+    "length": 1.224,
+    "label": "\u516c\u5b59"
+  },
+  {
+    "wav": "../data/vad/7/7j9JKOKM/\u516c\u5b59.mp3",
+    "length": 2.916,
+    "label": "\u516c\u5b59"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u5929\u67f1.mp3",
+    "length": 1.476,
+    "label": "\u5929\u67f1"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO4EL/\u5929\u67f1.mp3",
+    "length": 2.052,
+    "label": "\u5929\u67f1"
+  },
+  {
+    "wav": "../data/vad/6/Lz91l237/\u5929\u67f1.mp3",
+    "length": 2.736,
+    "label": "\u5929\u67f1"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u5929\u67f1.mp3",
+    "length": 2.304,
+    "label": "\u5929\u67f1"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u5b89\u7720.mp3",
+    "length": 2.304,
+    "label": "\u5b89\u7720"
+  },
+  {
+    "wav": "../data/vad/1/M6BKxE0M/\u5b89\u7720.mp3",
+    "length": 2.484,
+    "label": "\u5b89\u7720"
+  },
+  {
+    "wav": "../data/vad/1/7XA0Kz8L/\u5b89\u7720.mp3",
+    "length": 2.664,
+    "label": "\u5b89\u7720"
+  },
+  {
+    "wav": "../data/vad/1/LOyAKp4M/\u5b89\u7720.mp3",
+    "length": 2.016,
+    "label": "\u5b89\u7720"
+  },
+  {
+    "wav": "../data/vad/5/MgEpPO5L/\u4eac\u95e8.mp3",
+    "length": 1.44,
+    "label": "\u4eac\u95e8"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u4eac\u95e8.mp3",
+    "length": 1.656,
+    "label": "\u4eac\u95e8"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u4eac\u95e8.mp3",
+    "length": 1.548,
+    "label": "\u4eac\u95e8"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BPmzL/\u4eac\u95e8.mp3",
+    "length": 1.728,
+    "label": "\u4eac\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/e3BwAB2L/\u66f2\u5dee.mp3",
+    "length": 2.16,
+    "label": "\u66f2\u5dee"
+  },
+  {
+    "wav": "../data/vad/6/7Ypag6zM/\u66f2\u5dee.mp3",
+    "length": 1.908,
+    "label": "\u66f2\u5dee"
+  },
+  {
+    "wav": "../data/vad/6/MWWawoBM/\u66f2\u5dee.mp3",
+    "length": 2.52,
+    "label": "\u66f2\u5dee"
+  },
+  {
+    "wav": "../data/vad/6/eEKDAR97/\u66f2\u5dee.mp3",
+    "length": 1.8,
+    "label": "\u66f2\u5dee"
+  },
+  {
+    "wav": "../data/vad/3/MDPDrxgM/\u5929\u5b97.mp3",
+    "length": 1.548,
+    "label": "\u5929\u5b97"
+  },
+  {
+    "wav": "../data/vad/3/LwPbRJYe/\u5929\u5b97.mp3",
+    "length": 1.548,
+    "label": "\u5929\u5b97"
+  },
+  {
+    "wav": "../data/vad/3/Lm9BoaAL/\u5929\u5b97.mp3",
+    "length": 3.096,
+    "label": "\u5929\u5b97"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u5916\u4e18.mp3",
+    "length": 1.908,
+    "label": "\u5916\u4e18"
+  },
+  {
+    "wav": "../data/vad/5/LVJa6WpL/\u5916\u4e18.mp3",
+    "length": 2.232,
+    "label": "\u5916\u4e18"
+  },
+  {
+    "wav": "../data/vad/5/M9Xgry4e/\u5916\u4e18.mp3",
+    "length": 1.296,
+    "label": "\u5916\u4e18"
+  },
+  {
+    "wav": "../data/vad/3/Lm9BoaAL/\u5185\u5173.mp3",
+    "length": 2.844,
+    "label": "\u5185\u5173"
+  },
+  {
+    "wav": "../data/vad/3/7qXGz9gM/\u5185\u5173.mp3",
+    "length": 3.168,
+    "label": "\u5185\u5173"
+  },
+  {
+    "wav": "../data/vad/3/M6BywPxM/\u5185\u5173.mp3",
+    "length": 2.664,
+    "label": "\u5185\u5173"
+  },
+  {
+    "wav": "../data/vad/3/7XAP6QBL/\u5185\u5173.mp3",
+    "length": 1.368,
+    "label": "\u5185\u5173"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u5185\u5173.mp3",
+    "length": 3.78,
+    "label": "\u5185\u5173"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgXO7/\u5185\u5173.mp3",
+    "length": 3.168,
+    "label": "\u5185\u5173"
+  },
+  {
+    "wav": "../data/vad/3/7lOKdqJM/\u5185\u5173.mp3",
+    "length": 2.988,
+    "label": "\u5185\u5173"
+  },
+  {
+    "wav": "../data/vad/8/LVJal4RL/\u9ac0\u5173.mp3",
+    "length": 2.232,
+    "label": "\u9ac0\u5173"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u9ac0\u5173.mp3",
+    "length": 2.232,
+    "label": "\u9ac0\u5173"
+  },
+  {
+    "wav": "../data/vad/8/7j9JlrnM/\u9ac0\u5173.mp3",
+    "length": 2.052,
+    "label": "\u9ac0\u5173"
+  },
+  {
+    "wav": "../data/vad/8/MJnD5xdM/\u9ac0\u5173.mp3",
+    "length": 2.052,
+    "label": "\u9ac0\u5173"
+  },
+  {
+    "wav": "../data/vad/7/LGBD0Wp7/\u9b44\u6237.mp3",
+    "length": 2.16,
+    "label": "\u9b44\u6237"
+  },
+  {
+    "wav": "../data/vad/7/M6By2WVM/\u9b44\u6237.mp3",
+    "length": 3.42,
+    "label": "\u9b44\u6237"
+  },
+  {
+    "wav": "../data/vad/7/7XAPqmdL/\u9b44\u6237.mp3",
+    "length": 1.728,
+    "label": "\u9b44\u6237"
+  },
+  {
+    "wav": "../data/vad/4/7XAP6nwL/\u4e2d\u5e9c.mp3",
+    "length": 1.152,
+    "label": "\u4e2d\u5e9c"
+  },
+  {
+    "wav": "../data/vad/4/ekqN3Yb7/\u4e2d\u5e9c.mp3",
+    "length": 2.736,
+    "label": "\u4e2d\u5e9c"
+  },
+  {
+    "wav": "../data/vad/4/ev9Jy2VL/\u4e2d\u5e9c.mp3",
+    "length": 2.592,
+    "label": "\u4e2d\u5e9c"
+  },
+  {
+    "wav": "../data/vad/2/7j9J00dM/\u81f3\u9633.mp3",
+    "length": 2.304,
+    "label": "\u81f3\u9633"
+  },
+  {
+    "wav": "../data/vad/2/MDPdk0lM/\u81f3\u9633.mp3",
+    "length": 2.16,
+    "label": "\u81f3\u9633"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mqkL/\u81f3\u9633.mp3",
+    "length": 2.412,
+    "label": "\u81f3\u9633"
+  },
+  {
+    "wav": "../data/vad/2/7qXGO3gM/\u81f3\u9633.mp3",
+    "length": 2.232,
+    "label": "\u81f3\u9633"
+  },
+  {
+    "wav": "../data/vad/2/ekqN94A7/\u4e0b\u8118.mp3",
+    "length": 0.864,
+    "label": "\u4e0b\u8118"
+  },
+  {
+    "wav": "../data/vad/2/Mx2mP3rL/\u4e0b\u8118.mp3",
+    "length": 1.296,
+    "label": "\u4e0b\u8118"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mmzL/\u4e0b\u8118.mp3",
+    "length": 3.096,
+    "label": "\u4e0b\u8118"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u4e0b\u8118.mp3",
+    "length": 3.348,
+    "label": "\u4e0b\u8118"
+  },
+  {
+    "wav": "../data/vad/3/MdPAWkXM/\u7075\u9053.mp3",
+    "length": 2.052,
+    "label": "\u7075\u9053"
+  },
+  {
+    "wav": "../data/vad/3/LwPbRJYe/\u7075\u9053.mp3",
+    "length": 1.656,
+    "label": "\u7075\u9053"
+  },
+  {
+    "wav": "../data/vad/3/e3BwmDEL/\u7075\u9053.mp3",
+    "length": 2.304,
+    "label": "\u7075\u9053"
+  },
+  {
+    "wav": "../data/vad/2/Lm9kYXAL/\u5929\u7a81.mp3",
+    "length": 2.484,
+    "label": "\u5929\u7a81"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAd9L/\u5929\u7a81.mp3",
+    "length": 1.98,
+    "label": "\u5929\u7a81"
+  },
+  {
+    "wav": "../data/vad/2/ev9Jn0AL/\u5929\u7a81.mp3",
+    "length": 1.908,
+    "label": "\u5929\u7a81"
+  },
+  {
+    "wav": "../data/vad/2/Mx2mP3rL/\u5929\u7a81.mp3",
+    "length": 1.296,
+    "label": "\u5929\u7a81"
+  },
+  {
+    "wav": "../data/vad/6/en9Jg5WL/\u9634\u90c4.mp3",
+    "length": 1.908,
+    "label": "\u9634\u90c4"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u9634\u90c4.mp3",
+    "length": 1.728,
+    "label": "\u9634\u90c4"
+  },
+  {
+    "wav": "../data/vad/3/LwPbRJYe/\u9634\u90c4.mp3",
+    "length": 1.548,
+    "label": "\u9634\u90c4"
+  },
+  {
+    "wav": "../data/vad/6/Mo1J214L/\u9634\u90c4.mp3",
+    "length": 1.8,
+    "label": "\u9634\u90c4"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u9634\u90c4.mp3",
+    "length": 1.548,
+    "label": "\u9634\u90c4"
+  },
+  {
+    "wav": "../data/vad/6/MRDa6dxL/\u9634\u90c4.mp3",
+    "length": 2.052,
+    "label": "\u9634\u90c4"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u9634\u90c4.mp3",
+    "length": 1.548,
+    "label": "\u9634\u90c4"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u5916\u5173.mp3",
+    "length": 1.728,
+    "label": "\u5916\u5173"
+  },
+  {
+    "wav": "../data/vad/3/ev9JolNL/\u5916\u5173.mp3",
+    "length": 2.232,
+    "label": "\u5916\u5173"
+  },
+  {
+    "wav": "../data/vad/3/7KvaxvYM/\u5916\u5173.mp3",
+    "length": 2.304,
+    "label": "\u5916\u5173"
+  },
+  {
+    "wav": "../data/vad/3/7qXGlmqM/\u540e\u6eaa.mp3",
+    "length": 2.412,
+    "label": "\u540e\u6eaa"
+  },
+  {
+    "wav": "../data/vad/3/7XAPJBoL/\u540e\u6eaa.mp3",
+    "length": 1.8,
+    "label": "\u540e\u6eaa"
+  },
+  {
+    "wav": "../data/vad/3/eNQ0G6gL/\u540e\u6eaa.mp3",
+    "length": 1.368,
+    "label": "\u540e\u6eaa"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u5c3a\u6cfd.mp3",
+    "length": 2.7,
+    "label": "\u5c3a\u6cfd"
+  },
+  {
+    "wav": "../data/vad/4/7AxD14QM/\u5c3a\u6cfd.mp3",
+    "length": 2.916,
+    "label": "\u5c3a\u6cfd"
+  },
+  {
+    "wav": "../data/vad/4/ebqD5pkL/\u5c3a\u6cfd.mp3",
+    "length": 3.096,
+    "label": "\u5c3a\u6cfd"
+  },
+  {
+    "wav": "../data/vad/2/e3BxnlbL/\u5efa\u91cc.mp3",
+    "length": 1.98,
+    "label": "\u5efa\u91cc"
+  },
+  {
+    "wav": "../data/vad/2/7XA0XxjL/\u5efa\u91cc.mp3",
+    "length": 2.052,
+    "label": "\u5efa\u91cc"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mqkL/\u5efa\u91cc.mp3",
+    "length": 2.592,
+    "label": "\u5efa\u91cc"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u5efa\u91cc.mp3",
+    "length": 2.052,
+    "label": "\u5efa\u91cc"
+  },
+  {
+    "wav": "../data/vad/3/MJnDYn3M/\u652f\u6b63.mp3",
+    "length": 3.204,
+    "label": "\u652f\u6b63"
+  },
+  {
+    "wav": "../data/vad/3/7YpaGDbM/\u652f\u6b63.mp3",
+    "length": 1.98,
+    "label": "\u652f\u6b63"
+  },
+  {
+    "wav": "../data/vad/3/e4BkgZx7/\u652f\u6b63.mp3",
+    "length": 2.412,
+    "label": "\u652f\u6b63"
+  },
+  {
+    "wav": "../data/vad/2/Lz9p0X17/\u7d2b\u5bab.mp3",
+    "length": 3.096,
+    "label": "\u7d2b\u5bab"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u7d2b\u5bab.mp3",
+    "length": 1.728,
+    "label": "\u7d2b\u5bab"
+  },
+  {
+    "wav": "../data/vad/2/MdP0NwzM/\u7d2b\u5bab.mp3",
+    "length": 1.368,
+    "label": "\u7d2b\u5bab"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u7d2b\u5bab.mp3",
+    "length": 2.844,
+    "label": "\u7d2b\u5bab"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgXO7/\u9e20\u5c3e.mp3",
+    "length": 2.844,
+    "label": "\u9e20\u5c3e"
+  },
+  {
+    "wav": "../data/vad/2/MdPAkB6M/\u9e20\u5c3e.mp3",
+    "length": 1.476,
+    "label": "\u9e20\u5c3e"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u9e20\u5c3e.mp3",
+    "length": 1.728,
+    "label": "\u9e20\u5c3e"
+  },
+  {
+    "wav": "../data/vad/2/7KvA53PM/\u9e20\u5c3e.mp3",
+    "length": 2.232,
+    "label": "\u9e20\u5c3e"
+  },
+  {
+    "wav": "../data/vad/6/eEKDAR97/\u80be\u4fde.mp3",
+    "length": 1.548,
+    "label": "\u80be\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u80be\u4fde.mp3",
+    "length": 1.908,
+    "label": "\u80be\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/M6By2O8M/\u80be\u4fde.mp3",
+    "length": 1.8,
+    "label": "\u80be\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO4EL/\u80be\u4fde.mp3",
+    "length": 1.656,
+    "label": "\u80be\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/LwPbDA9e/\u4e2d\u8182\u4fde.mp3",
+    "length": 1.98,
+    "label": "\u4e2d\u8182\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7aQpn867/\u4e2d\u8182\u4fde.mp3",
+    "length": 2.16,
+    "label": "\u4e2d\u8182\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqOzL/\u4e2d\u8182\u4fde.mp3",
+    "length": 2.412,
+    "label": "\u4e2d\u8182\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/epDJ4D8e/\u4e2d\u8182\u4fde.mp3",
+    "length": 2.304,
+    "label": "\u4e2d\u8182\u4fde"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0bzM/\u59d4\u9633.mp3",
+    "length": 2.232,
+    "label": "\u59d4\u9633"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0BPM/\u59d4\u9633.mp3",
+    "length": 1.044,
+    "label": "\u59d4\u9633"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u59d4\u9633.mp3",
+    "length": 2.232,
+    "label": "\u59d4\u9633"
+  },
+  {
+    "wav": "../data/vad/7/L0mYk3Je/\u80c3\u4ed3.mp3",
+    "length": 1.548,
+    "label": "\u80c3\u4ed3"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u80c3\u4ed3.mp3",
+    "length": 1.8,
+    "label": "\u80c3\u4ed3"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0BPM/\u80c3\u4ed3.mp3",
+    "length": 1.008,
+    "label": "\u80c3\u4ed3"
+  },
+  {
+    "wav": "../data/vad/3/Mx2m9l5L/\u80a9\u4e2d\u4fde.mp3",
+    "length": 1.98,
+    "label": "\u80a9\u4e2d\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/e8YqZxxM/\u80a9\u4e2d\u4fde.mp3",
+    "length": 1.98,
+    "label": "\u80a9\u4e2d\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/M6BywPxM/\u80a9\u4e2d\u4fde.mp3",
+    "length": 2.16,
+    "label": "\u80a9\u4e2d\u4fde"
+  },
+  {
+    "wav": "../data/vad/4/7AxD14QM/\u4fa0\u767d.mp3",
+    "length": 3.348,
+    "label": "\u4fa0\u767d"
+  },
+  {
+    "wav": "../data/vad/4/LVJadYaL/\u4fa0\u767d.mp3",
+    "length": 1.8,
+    "label": "\u4fa0\u767d"
+  },
+  {
+    "wav": "../data/vad/4/7KvaRXlM/\u4fa0\u767d.mp3",
+    "length": 2.484,
+    "label": "\u4fa0\u767d"
+  },
+  {
+    "wav": "../data/vad/4/M28rkaAL/\u4fa0\u767d.mp3",
+    "length": 1.62,
+    "label": "\u4fa0\u767d"
+  },
+  {
+    "wav": "../data/vad/6/Mo1J214L/\u8188\u4fde.mp3",
+    "length": 1.764,
+    "label": "\u8188\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MRDabVQL/\u8188\u4fde.mp3",
+    "length": 1.368,
+    "label": "\u8188\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/Mr5JnxBe/\u8188\u4fde.mp3",
+    "length": 1.728,
+    "label": "\u8188\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e4Bkq1x7/\u8188\u4fde.mp3",
+    "length": 1.656,
+    "label": "\u8188\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/Mx2mzO9L/\u56db\u6ee1.mp3",
+    "length": 1.368,
+    "label": "\u56db\u6ee1"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u56db\u6ee1.mp3",
+    "length": 1.944,
+    "label": "\u56db\u6ee1"
+  },
+  {
+    "wav": "../data/vad/6/e3BwAB2L/\u56db\u6ee1.mp3",
+    "length": 2.196,
+    "label": "\u56db\u6ee1"
+  },
+  {
+    "wav": "../data/vad/6/MdPA1y6M/\u56db\u6ee1.mp3",
+    "length": 1.368,
+    "label": "\u56db\u6ee1"
+  },
+  {
+    "wav": "../data/vad/2/M6BKO93M/\u5370\u5802.mp3",
+    "length": 2.412,
+    "label": "\u5370\u5802"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykrRL/\u5370\u5802.mp3",
+    "length": 2.16,
+    "label": "\u5370\u5802"
+  },
+  {
+    "wav": "../data/vad/2/Lm9kYXAL/\u5370\u5802.mp3",
+    "length": 2.304,
+    "label": "\u5370\u5802"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u5370\u5802.mp3",
+    "length": 1.98,
+    "label": "\u5370\u5802"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u8180\u80f1\u4fde.mp3",
+    "length": 2.304,
+    "label": "\u8180\u80f1\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/en9Jg5WL/\u8180\u80f1\u4fde.mp3",
+    "length": 2.16,
+    "label": "\u8180\u80f1\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u8180\u80f1\u4fde.mp3",
+    "length": 1.8,
+    "label": "\u8180\u80f1\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqOzL/\u8180\u80f1\u4fde.mp3",
+    "length": 2.304,
+    "label": "\u8180\u80f1\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u516b\u98ce.mp3",
+    "length": 2.16,
+    "label": "\u516b\u98ce"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89QL/\u516b\u98ce.mp3",
+    "length": 1.296,
+    "label": "\u516b\u98ce"
+  },
+  {
+    "wav": "../data/vad/1/M1KD8x2L/\u516b\u98ce.mp3",
+    "length": 2.916,
+    "label": "\u516b\u98ce"
+  },
+  {
+    "wav": "../data/vad/1/LOyAXj1M/\u516b\u98ce.mp3",
+    "length": 2.412,
+    "label": "\u516b\u98ce"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u5185\u8fce\u9999.mp3",
+    "length": 2.736,
+    "label": "\u5185\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/1/ev9pmJNL/\u5185\u8fce\u9999.mp3",
+    "length": 2.844,
+    "label": "\u5185\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89WL/\u5185\u8fce\u9999.mp3",
+    "length": 2.664,
+    "label": "\u5185\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89QL/\u5185\u8fce\u9999.mp3",
+    "length": 1.728,
+    "label": "\u5185\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/2/MgEpgr8L/\u5de8\u9619.mp3",
+    "length": 3.888,
+    "label": "\u5de8\u9619"
+  },
+  {
+    "wav": "../data/vad/2/7qXGO3gM/\u5de8\u9619.mp3",
+    "length": 2.16,
+    "label": "\u5de8\u9619"
+  },
+  {
+    "wav": "../data/vad/2/7j9J00dM/\u5de8\u9619.mp3",
+    "length": 2.484,
+    "label": "\u5de8\u9619"
+  },
+  {
+    "wav": "../data/vad/2/MWWaoRyM/\u5de8\u9619.mp3",
+    "length": 2.16,
+    "label": "\u5de8\u9619"
+  },
+  {
+    "wav": "../data/vad/3/ekqNzpQ7/\u80a9\u9ace.mp3",
+    "length": 1.548,
+    "label": "\u80a9\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u80a9\u9ace.mp3",
+    "length": 1.728,
+    "label": "\u80a9\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/M6BywPxM/\u80a9\u9ace.mp3",
+    "length": 1.908,
+    "label": "\u80a9\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/eNQ0kWqL/\u5b54\u6700.mp3",
+    "length": 2.304,
+    "label": "\u5b54\u6700"
+  },
+  {
+    "wav": "../data/vad/4/7Ypao4mM/\u5b54\u6700.mp3",
+    "length": 2.34,
+    "label": "\u5b54\u6700"
+  },
+  {
+    "wav": "../data/vad/4/LVJadYaL/\u5b54\u6700.mp3",
+    "length": 1.98,
+    "label": "\u5b54\u6700"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2GxL/\u5b54\u6700.mp3",
+    "length": 3.6,
+    "label": "\u5b54\u6700"
+  },
+  {
+    "wav": "../data/vad/5/LwPb8Zpe/\u5b8c\u9aa8.mp3",
+    "length": 2.232,
+    "label": "\u5b8c\u9aa8"
+  },
+  {
+    "wav": "../data/vad/5/MdPA25AM/\u5b8c\u9aa8.mp3",
+    "length": 1.8,
+    "label": "\u5b8c\u9aa8"
+  },
+  {
+    "wav": "../data/vad/5/e4Bkvxq7/\u5b8c\u9aa8.mp3",
+    "length": 2.412,
+    "label": "\u5b8c\u9aa8"
+  },
+  {
+    "wav": "../data/vad/5/LGBDrqE7/\u5b8c\u9aa8.mp3",
+    "length": 1.728,
+    "label": "\u5b8c\u9aa8"
+  },
+  {
+    "wav": "../data/vad/1/ekqrVQk7/\u72ec\u9634.mp3",
+    "length": 2.232,
+    "label": "\u72ec\u9634"
+  },
+  {
+    "wav": "../data/vad/1/7AxvdnyM/\u72ec\u9634.mp3",
+    "length": 1.656,
+    "label": "\u72ec\u9634"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u72ec\u9634.mp3",
+    "length": 3.096,
+    "label": "\u72ec\u9634"
+  },
+  {
+    "wav": "../data/vad/1/LQ8NzjG7/\u72ec\u9634.mp3",
+    "length": 1.98,
+    "label": "\u72ec\u9634"
+  },
+  {
+    "wav": "../data/vad/5/LVJa6WpL/\u7387\u8c37.mp3",
+    "length": 2.412,
+    "label": "\u7387\u8c37"
+  },
+  {
+    "wav": "../data/vad/5/eNQ05AJL/\u7387\u8c37.mp3",
+    "length": 2.232,
+    "label": "\u7387\u8c37"
+  },
+  {
+    "wav": "../data/vad/5/7j9JPGOM/\u7387\u8c37.mp3",
+    "length": 2.664,
+    "label": "\u7387\u8c37"
+  },
+  {
+    "wav": "../data/vad/5/MZqpNkDe/\u7387\u8c37.mp3",
+    "length": 1.044,
+    "label": "\u7387\u8c37"
+  },
+  {
+    "wav": "../data/vad/3/7BGDP9zL/\u6781\u6cc9.mp3",
+    "length": 2.052,
+    "label": "\u6781\u6cc9"
+  },
+  {
+    "wav": "../data/vad/3/LVJaoPZL/\u6781\u6cc9.mp3",
+    "length": 2.052,
+    "label": "\u6781\u6cc9"
+  },
+  {
+    "wav": "../data/vad/3/7YpaGDbM/\u6781\u6cc9.mp3",
+    "length": 1.728,
+    "label": "\u6781\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u5c0f\u9aa8\u7a7a.mp3",
+    "length": 2.592,
+    "label": "\u5c0f\u9aa8\u7a7a"
+  },
+  {
+    "wav": "../data/vad/1/Mx2bdg5L/\u5c0f\u9aa8\u7a7a.mp3",
+    "length": 2.052,
+    "label": "\u5c0f\u9aa8\u7a7a"
+  },
+  {
+    "wav": "../data/vad/1/M28PmDAL/\u5c0f\u9aa8\u7a7a.mp3",
+    "length": 2.844,
+    "label": "\u5c0f\u9aa8\u7a7a"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u5c0f\u9aa8\u7a7a.mp3",
+    "length": 3.852,
+    "label": "\u5c0f\u9aa8\u7a7a"
+  },
+  {
+    "wav": "../data/vad/8/MJnD5xdM/\u6881\u95e8.mp3",
+    "length": 2.16,
+    "label": "\u6881\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u6881\u95e8.mp3",
+    "length": 2.052,
+    "label": "\u6881\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/7AxDyrDM/\u6881\u95e8.mp3",
+    "length": 1.98,
+    "label": "\u6881\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/7AxD9mDM/\u6881\u95e8.mp3",
+    "length": 3.924,
+    "label": "\u6881\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/eNQ0n8bL/\u90c4\u95e8.mp3",
+    "length": 2.592,
+    "label": "\u90c4\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/MDPDRdQM/\u90c4\u95e8.mp3",
+    "length": 2.304,
+    "label": "\u90c4\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u90c4\u95e8.mp3",
+    "length": 1.728,
+    "label": "\u90c4\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/MWWa8yBM/\u90c4\u95e8.mp3",
+    "length": 1.296,
+    "label": "\u90c4\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u90c4\u95e8.mp3",
+    "length": 1.908,
+    "label": "\u90c4\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/M28rAj8L/\u90c4\u95e8.mp3",
+    "length": 1.98,
+    "label": "\u90c4\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqDgL/\u90c4\u95e8.mp3",
+    "length": 1.368,
+    "label": "\u90c4\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/epDJ4D8e/\u6c14\u6d77\u4fde.mp3",
+    "length": 2.232,
+    "label": "\u6c14\u6d77\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e3BwAB2L/\u6c14\u6d77\u4fde.mp3",
+    "length": 2.592,
+    "label": "\u6c14\u6d77\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MDPDx8gM/\u6c14\u6d77\u4fde.mp3",
+    "length": 2.484,
+    "label": "\u6c14\u6d77\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u6c14\u6d77\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u6c14\u6d77\u4fde"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mqkL/\u5f3a\u95f4.mp3",
+    "length": 2.484,
+    "label": "\u5f3a\u95f4"
+  },
+  {
+    "wav": "../data/vad/2/Mx2bJ85L/\u5f3a\u95f4.mp3",
+    "length": 2.736,
+    "label": "\u5f3a\u95f4"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u5f3a\u95f4.mp3",
+    "length": 2.592,
+    "label": "\u5f3a\u95f4"
+  },
+  {
+    "wav": "../data/vad/2/Lm9kYXAL/\u5f3a\u95f4.mp3",
+    "length": 2.304,
+    "label": "\u5f3a\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/7BGD2VjL/\u53e3\u79be\u9ace.mp3",
+    "length": 1.8,
+    "label": "\u53e3\u79be\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/M28rkaAL/\u53e3\u79be\u9ace.mp3",
+    "length": 4.032,
+    "label": "\u53e3\u79be\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/7Ypao4mM/\u53e3\u79be\u9ace.mp3",
+    "length": 2.808,
+    "label": "\u53e3\u79be\u9ace"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mmzL/\u9f88\u4ea4.mp3",
+    "length": 3.348,
+    "label": "\u9f88\u4ea4"
+  },
+  {
+    "wav": "../data/vad/2/7KvA53PM/\u9f88\u4ea4.mp3",
+    "length": 2.052,
+    "label": "\u9f88\u4ea4"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgqZ7/\u9f88\u4ea4.mp3",
+    "length": 2.484,
+    "label": "\u9f88\u4ea4"
+  },
+  {
+    "wav": "../data/vad/2/e3BwdqRL/\u9f88\u4ea4.mp3",
+    "length": 3.42,
+    "label": "\u9f88\u4ea4"
+  },
+  {
+    "wav": "../data/vad/4/7XAPp8oL/\u5546\u9633.mp3",
+    "length": 3.42,
+    "label": "\u5546\u9633"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u5546\u9633.mp3",
+    "length": 1.8,
+    "label": "\u5546\u9633"
+  },
+  {
+    "wav": "../data/vad/4/M1KXGEDL/\u5546\u9633.mp3",
+    "length": 3.78,
+    "label": "\u5546\u9633"
+  },
+  {
+    "wav": "../data/vad/4/M6ByNaVM/\u5546\u9633.mp3",
+    "length": 2.592,
+    "label": "\u5546\u9633"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u5ec9\u6cc9.mp3",
+    "length": 1.8,
+    "label": "\u5ec9\u6cc9"
+  },
+  {
+    "wav": "../data/vad/6/7KvaOvnM/\u5ec9\u6cc9.mp3",
+    "length": 2.304,
+    "label": "\u5ec9\u6cc9"
+  },
+  {
+    "wav": "../data/vad/6/M6By2O8M/\u5ec9\u6cc9.mp3",
+    "length": 1.8,
+    "label": "\u5ec9\u6cc9"
+  },
+  {
+    "wav": "../data/vad/2/M6BKO93M/\u5ec9\u6cc9.mp3",
+    "length": 1.98,
+    "label": "\u5ec9\u6cc9"
+  },
+  {
+    "wav": "../data/vad/6/MdPA1y6M/\u5ec9\u6cc9.mp3",
+    "length": 1.296,
+    "label": "\u5ec9\u6cc9"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAd9L/\u5ec9\u6cc9.mp3",
+    "length": 1.98,
+    "label": "\u5ec9\u6cc9"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqOzL/\u5ec9\u6cc9.mp3",
+    "length": 2.592,
+    "label": "\u5ec9\u6cc9"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u54d1\u95e8.mp3",
+    "length": 1.404,
+    "label": "\u54d1\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAd9L/\u54d1\u95e8.mp3",
+    "length": 1.8,
+    "label": "\u54d1\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u54d1\u95e8.mp3",
+    "length": 2.304,
+    "label": "\u54d1\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/Lm9kYXAL/\u54d1\u95e8.mp3",
+    "length": 2.664,
+    "label": "\u54d1\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0lRM/\u8179\u7ed3.mp3",
+    "length": 2.916,
+    "label": "\u8179\u7ed3"
+  },
+  {
+    "wav": "../data/vad/7/eEKD0xJ7/\u8179\u7ed3.mp3",
+    "length": 1.296,
+    "label": "\u8179\u7ed3"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0VnM/\u8179\u7ed3.mp3",
+    "length": 1.728,
+    "label": "\u8179\u7ed3"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u6f0f\u8c37.mp3",
+    "length": 1.728,
+    "label": "\u6f0f\u8c37"
+  },
+  {
+    "wav": "../data/vad/7/e4BkZN17/\u6f0f\u8c37.mp3",
+    "length": 2.052,
+    "label": "\u6f0f\u8c37"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2Qje/\u6f0f\u8c37.mp3",
+    "length": 1.98,
+    "label": "\u6f0f\u8c37"
+  },
+  {
+    "wav": "../data/vad/8/eP2aNk97/\u963f\u662f\u7a74.mp3",
+    "length": 2.412,
+    "label": "\u963f\u662f\u7a74"
+  },
+  {
+    "wav": "../data/vad/8/epDJK28e/\u963f\u662f\u7a74.mp3",
+    "length": 2.664,
+    "label": "\u963f\u662f\u7a74"
+  },
+  {
+    "wav": "../data/vad/8/MgEpQ85L/\u963f\u662f\u7a74.mp3",
+    "length": 1.8,
+    "label": "\u963f\u662f\u7a74"
+  },
+  {
+    "wav": "../data/vad/8/LwPbKlne/\u5927\u8fce.mp3",
+    "length": 2.664,
+    "label": "\u5927\u8fce"
+  },
+  {
+    "wav": "../data/vad/8/e4BkRKW7/\u5927\u8fce.mp3",
+    "length": 2.16,
+    "label": "\u5927\u8fce"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JYWOL/\u5927\u8fce.mp3",
+    "length": 1.728,
+    "label": "\u5927\u8fce"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u5b50\u5bab.mp3",
+    "length": 2.232,
+    "label": "\u5b50\u5bab"
+  },
+  {
+    "wav": "../data/vad/1/M1KD8x2L/\u5b50\u5bab.mp3",
+    "length": 2.916,
+    "label": "\u5b50\u5bab"
+  },
+  {
+    "wav": "../data/vad/1/e8YBR90M/\u5b50\u5bab.mp3",
+    "length": 2.16,
+    "label": "\u5b50\u5bab"
+  },
+  {
+    "wav": "../data/vad/1/Lm9kXRAL/\u5b50\u5bab.mp3",
+    "length": 3.42,
+    "label": "\u5b50\u5bab"
+  },
+  {
+    "wav": "../data/vad/3/7YpaGDbM/\u6e05\u51b7\u6e0a.mp3",
+    "length": 2.052,
+    "label": "\u6e05\u51b7\u6e0a"
+  },
+  {
+    "wav": "../data/vad/3/7KvaxvYM/\u6e05\u51b7\u6e0a.mp3",
+    "length": 2.844,
+    "label": "\u6e05\u51b7\u6e0a"
+  },
+  {
+    "wav": "../data/vad/3/7qXGz9gM/\u6e05\u51b7\u6e0a.mp3",
+    "length": 3.312,
+    "label": "\u6e05\u51b7\u6e0a"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u6c34\u6cc9.mp3",
+    "length": 2.052,
+    "label": "\u6c34\u6cc9"
+  },
+  {
+    "wav": "../data/vad/5/M6By1qVM/\u6c34\u6cc9.mp3",
+    "length": 1.908,
+    "label": "\u6c34\u6cc9"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u6c34\u6cc9.mp3",
+    "length": 2.664,
+    "label": "\u6c34\u6cc9"
+  },
+  {
+    "wav": "../data/vad/4/7XAP6nwL/\u8821\u6c9f.mp3",
+    "length": 1.044,
+    "label": "\u8821\u6c9f"
+  },
+  {
+    "wav": "../data/vad/4/7Ypajq0M/\u8821\u6c9f.mp3",
+    "length": 1.008,
+    "label": "\u8821\u6c9f"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u8821\u6c9f.mp3",
+    "length": 2.772,
+    "label": "\u8821\u6c9f"
+  },
+  {
+    "wav": "../data/vad/5/7YpaNdwM/\u9634\u8c37.mp3",
+    "length": 2.988,
+    "label": "\u9634\u8c37"
+  },
+  {
+    "wav": "../data/vad/5/7aQpnXV7/\u9634\u8c37.mp3",
+    "length": 1.368,
+    "label": "\u9634\u8c37"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u9634\u8c37.mp3",
+    "length": 1.98,
+    "label": "\u9634\u8c37"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u805a\u6cc9.mp3",
+    "length": 2.052,
+    "label": "\u805a\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u805a\u6cc9.mp3",
+    "length": 2.304,
+    "label": "\u805a\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/M1KD8x2L/\u805a\u6cc9.mp3",
+    "length": 2.412,
+    "label": "\u805a\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4Xqe/\u805a\u6cc9.mp3",
+    "length": 2.052,
+    "label": "\u805a\u6cc9"
+  },
+  {
+    "wav": "../data/vad/3/M6BywPxM/\u795e\u95e8.mp3",
+    "length": 1.8,
+    "label": "\u795e\u95e8"
+  },
+  {
+    "wav": "../data/vad/3/7XAPJBoL/\u795e\u95e8.mp3",
+    "length": 2.412,
+    "label": "\u795e\u95e8"
+  },
+  {
+    "wav": "../data/vad/3/e3BwmDEL/\u795e\u95e8.mp3",
+    "length": 2.592,
+    "label": "\u795e\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JY8OL/\u56db\u767d.mp3",
+    "length": 3.6,
+    "label": "\u56db\u767d"
+  },
+  {
+    "wav": "../data/vad/8/LOyDGJpM/\u56db\u767d.mp3",
+    "length": 1.656,
+    "label": "\u56db\u767d"
+  },
+  {
+    "wav": "../data/vad/8/LwPbKlne/\u56db\u767d.mp3",
+    "length": 2.52,
+    "label": "\u56db\u767d"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4w2e/\u9e64\u9876.mp3",
+    "length": 1.728,
+    "label": "\u9e64\u9876"
+  },
+  {
+    "wav": "../data/vad/1/Mo1ywxOL/\u9e64\u9876.mp3",
+    "length": 2.412,
+    "label": "\u9e64\u9876"
+  },
+  {
+    "wav": "../data/vad/1/en9Q31mL/\u9e64\u9876.mp3",
+    "length": 1.8,
+    "label": "\u9e64\u9876"
+  },
+  {
+    "wav": "../data/vad/1/LOyDN1NM/\u9e64\u9876.mp3",
+    "length": 2.664,
+    "label": "\u9e64\u9876"
+  },
+  {
+    "wav": "../data/vad/2/eyPpA59L/\u4f1a\u9634.mp3",
+    "length": 2.16,
+    "label": "\u4f1a\u9634"
+  },
+  {
+    "wav": "../data/vad/2/ev9Jn0AL/\u4f1a\u9634.mp3",
+    "length": 2.592,
+    "label": "\u4f1a\u9634"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykrRL/\u4f1a\u9634.mp3",
+    "length": 1.908,
+    "label": "\u4f1a\u9634"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u4f1a\u9634.mp3",
+    "length": 2.664,
+    "label": "\u4f1a\u9634"
+  },
+  {
+    "wav": "../data/vad/7/eyP6aBBL/\u8188\u5173.mp3",
+    "length": 2.592,
+    "label": "\u8188\u5173"
+  },
+  {
+    "wav": "../data/vad/7/e3Bw8WbL/\u8188\u5173.mp3",
+    "length": 1.728,
+    "label": "\u8188\u5173"
+  },
+  {
+    "wav": "../data/vad/7/Mr5JKrVe/\u8188\u5173.mp3",
+    "length": 2.16,
+    "label": "\u8188\u5173"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u795e\u5c01.mp3",
+    "length": 2.592,
+    "label": "\u795e\u5c01"
+  },
+  {
+    "wav": "../data/vad/6/M6By2O8M/\u795e\u5c01.mp3",
+    "length": 1.98,
+    "label": "\u795e\u5c01"
+  },
+  {
+    "wav": "../data/vad/6/LwPbDA9e/\u795e\u5c01.mp3",
+    "length": 2.412,
+    "label": "\u795e\u5c01"
+  },
+  {
+    "wav": "../data/vad/6/7BGDOjKL/\u795e\u5c01.mp3",
+    "length": 3.168,
+    "label": "\u795e\u5c01"
+  },
+  {
+    "wav": "../data/vad/7/ekqNl0Q7/\u627f\u7b4b.mp3",
+    "length": 3.312,
+    "label": "\u627f\u7b4b"
+  },
+  {
+    "wav": "../data/vad/7/eyP6aBBL/\u627f\u7b4b.mp3",
+    "length": 2.412,
+    "label": "\u627f\u7b4b"
+  },
+  {
+    "wav": "../data/vad/7/M6By2WVM/\u627f\u7b4b.mp3",
+    "length": 3.924,
+    "label": "\u627f\u7b4b"
+  },
+  {
+    "wav": "../data/vad/7/L0mYk3Je/\u8dd7\u9633.mp3",
+    "length": 1.98,
+    "label": "\u8dd7\u9633"
+  },
+  {
+    "wav": "../data/vad/7/7lOK0l4M/\u8dd7\u9633.mp3",
+    "length": 2.88,
+    "label": "\u8dd7\u9633"
+  },
+  {
+    "wav": "../data/vad/7/e4BkqO17/\u8dd7\u9633.mp3",
+    "length": 1.476,
+    "label": "\u8dd7\u9633"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u98ce\u5e02.mp3",
+    "length": 2.052,
+    "label": "\u98ce\u5e02"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u98ce\u5e02.mp3",
+    "length": 2.484,
+    "label": "\u98ce\u5e02"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aD8b7/\u98ce\u5e02.mp3",
+    "length": 1.656,
+    "label": "\u98ce\u5e02"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u98ce\u5e02.mp3",
+    "length": 2.592,
+    "label": "\u98ce\u5e02"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JYWOL/\u4e0b\u5173.mp3",
+    "length": 1.656,
+    "label": "\u4e0b\u5173"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u4e0b\u5173.mp3",
+    "length": 2.592,
+    "label": "\u4e0b\u5173"
+  },
+  {
+    "wav": "../data/vad/8/7AxDyrDM/\u4e0b\u5173.mp3",
+    "length": 1.8,
+    "label": "\u4e0b\u5173"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u5927\u949f.mp3",
+    "length": 1.224,
+    "label": "\u5927\u949f"
+  },
+  {
+    "wav": "../data/vad/5/MdPA25AM/\u5927\u949f.mp3",
+    "length": 1.656,
+    "label": "\u5927\u949f"
+  },
+  {
+    "wav": "../data/vad/5/LwPb51pe/\u5927\u949f.mp3",
+    "length": 1.656,
+    "label": "\u5927\u949f"
+  },
+  {
+    "wav": "../data/vad/2/7Ypa5RaM/\u7075\u53f0.mp3",
+    "length": 1.908,
+    "label": "\u7075\u53f0"
+  },
+  {
+    "wav": "../data/vad/2/Mx2bJ85L/\u7075\u53f0.mp3",
+    "length": 2.592,
+    "label": "\u7075\u53f0"
+  },
+  {
+    "wav": "../data/vad/2/MDPdk0lM/\u7075\u53f0.mp3",
+    "length": 1.908,
+    "label": "\u7075\u53f0"
+  },
+  {
+    "wav": "../data/vad/2/Mx2mP3rL/\u7075\u53f0.mp3",
+    "length": 1.728,
+    "label": "\u7075\u53f0"
+  },
+  {
+    "wav": "../data/vad/6/M28rAj8L/\u4e09\u7126\u4fde.mp3",
+    "length": 3.276,
+    "label": "\u4e09\u7126\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/Mo1J214L/\u4e09\u7126\u4fde.mp3",
+    "length": 2.304,
+    "label": "\u4e09\u7126\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7Ypag6zM/\u4e09\u7126\u4fde.mp3",
+    "length": 1.908,
+    "label": "\u4e09\u7126\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/LVJarjzL/\u4e09\u7126\u4fde.mp3",
+    "length": 1.656,
+    "label": "\u4e09\u7126\u4fde"
+  },
+  {
+    "wav": "../data/vad/7/e4BkqO17/\u592a\u767d.mp3",
+    "length": 1.98,
+    "label": "\u592a\u767d"
+  },
+  {
+    "wav": "../data/vad/7/7lOK0l4M/\u592a\u767d.mp3",
+    "length": 3.852,
+    "label": "\u592a\u767d"
+  },
+  {
+    "wav": "../data/vad/7/MgEpolwL/\u592a\u767d.mp3",
+    "length": 2.592,
+    "label": "\u592a\u767d"
+  },
+  {
+    "wav": "../data/vad/3/Lm9BoaAL/\u5c11\u6d77.mp3",
+    "length": 2.592,
+    "label": "\u5c11\u6d77"
+  },
+  {
+    "wav": "../data/vad/3/ekqNDvA7/\u5c11\u6d77.mp3",
+    "length": 2.736,
+    "label": "\u5c11\u6d77"
+  },
+  {
+    "wav": "../data/vad/3/en9JDnAL/\u5c11\u6d77.mp3",
+    "length": 3.096,
+    "label": "\u5c11\u6d77"
+  },
+  {
+    "wav": "../data/vad/8/7j9JlrnM/\u4f0f\u5154.mp3",
+    "length": 1.98,
+    "label": "\u4f0f\u5154"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u4f0f\u5154.mp3",
+    "length": 2.412,
+    "label": "\u4f0f\u5154"
+  },
+  {
+    "wav": "../data/vad/8/e4BkRKW7/\u4f0f\u5154.mp3",
+    "length": 2.664,
+    "label": "\u4f0f\u5154"
+  },
+  {
+    "wav": "../data/vad/7/7XAPqmdL/\u8093\u95e8.mp3",
+    "length": 1.728,
+    "label": "\u8093\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/eP2aYXA7/\u8093\u95e8.mp3",
+    "length": 2.916,
+    "label": "\u8093\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0lRM/\u8093\u95e8.mp3",
+    "length": 2.736,
+    "label": "\u8093\u95e8"
+  },
+  {
+    "wav": "../data/vad/5/M6By1qVM/\u4ea4\u4fe1.mp3",
+    "length": 2.16,
+    "label": "\u4ea4\u4fe1"
+  },
+  {
+    "wav": "../data/vad/5/MWWa020M/\u4ea4\u4fe1.mp3",
+    "length": 3.096,
+    "label": "\u4ea4\u4fe1"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u4ea4\u4fe1.mp3",
+    "length": 1.656,
+    "label": "\u4ea4\u4fe1"
+  },
+  {
+    "wav": "../data/vad/6/LwPbDA9e/\u809d\u5939\u810a.mp3",
+    "length": 2.412,
+    "label": "\u809d\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/LVJarjzL/\u809d\u5939\u810a.mp3",
+    "length": 2.232,
+    "label": "\u809d\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/7KvaOvnM/\u809d\u5939\u810a.mp3",
+    "length": 2.592,
+    "label": "\u809d\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/MWWa8yBM/\u809d\u5939\u810a.mp3",
+    "length": 1.656,
+    "label": "\u809d\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/4/7AxDZGAM/\u4e09\u95f4.mp3",
+    "length": 2.16,
+    "label": "\u4e09\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/MJnDRQdM/\u4e09\u95f4.mp3",
+    "length": 2.052,
+    "label": "\u4e09\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/ebqD5pkL/\u4e09\u95f4.mp3",
+    "length": 3.168,
+    "label": "\u4e09\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/7KvaPWnM/\u4e09\u95f4.mp3",
+    "length": 3.168,
+    "label": "\u4e09\u95f4"
+  },
+  {
+    "wav": "../data/vad/8/e4BkRKW7/\u627f\u6ce3.mp3",
+    "length": 2.412,
+    "label": "\u627f\u6ce3"
+  },
+  {
+    "wav": "../data/vad/8/Lm9BbZOL/\u627f\u6ce3.mp3",
+    "length": 2.16,
+    "label": "\u627f\u6ce3"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u627f\u6ce3.mp3",
+    "length": 2.664,
+    "label": "\u627f\u6ce3"
+  },
+  {
+    "wav": "../data/vad/7/7lOK0l4M/\u7b51\u5bbe.mp3",
+    "length": 3.96,
+    "label": "\u7b51\u5bbe"
+  },
+  {
+    "wav": "../data/vad/5/LGBDrqE7/\u7b51\u5bbe.mp3",
+    "length": 1.476,
+    "label": "\u7b51\u5bbe"
+  },
+  {
+    "wav": "../data/vad/5/M28rNalL/\u7b51\u5bbe.mp3",
+    "length": 2.88,
+    "label": "\u7b51\u5bbe"
+  },
+  {
+    "wav": "../data/vad/5/Mx2mwRKL/\u7b51\u5bbe.mp3",
+    "length": 1.224,
+    "label": "\u7b51\u5bbe"
+  },
+  {
+    "wav": "../data/vad/7/Mr5JKrVe/\u7b51\u5bbe.mp3",
+    "length": 2.412,
+    "label": "\u7b51\u5bbe"
+  },
+  {
+    "wav": "../data/vad/7/MRDalnQL/\u7b51\u5bbe.mp3",
+    "length": 1.908,
+    "label": "\u7b51\u5bbe"
+  },
+  {
+    "wav": "../data/vad/5/e8YqvvwM/\u7b51\u5bbe.mp3",
+    "length": 2.052,
+    "label": "\u7b51\u5bbe"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u7b51\u5bbe.mp3",
+    "length": 2.844,
+    "label": "\u7b51\u5bbe"
+  },
+  {
+    "wav": "../data/vad/4/7Ypao4mM/\u884c\u95f4.mp3",
+    "length": 2.628,
+    "label": "\u884c\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/LVJad4pL/\u884c\u95f4.mp3",
+    "length": 1.728,
+    "label": "\u884c\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/MgEp81wL/\u884c\u95f4.mp3",
+    "length": 2.412,
+    "label": "\u884c\u95f4"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u6c14\u6237.mp3",
+    "length": 2.664,
+    "label": "\u6c14\u6237"
+  },
+  {
+    "wav": "../data/vad/8/eEKD23J7/\u6c14\u6237.mp3",
+    "length": 2.052,
+    "label": "\u6c14\u6237"
+  },
+  {
+    "wav": "../data/vad/8/Mr5JKdYe/\u6c14\u6237.mp3",
+    "length": 1.656,
+    "label": "\u6c14\u6237"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u7403\u540e.mp3",
+    "length": 2.304,
+    "label": "\u7403\u540e"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u7403\u540e.mp3",
+    "length": 2.484,
+    "label": "\u7403\u540e"
+  },
+  {
+    "wav": "../data/vad/1/7Axvd8AM/\u7403\u540e.mp3",
+    "length": 2.232,
+    "label": "\u7403\u540e"
+  },
+  {
+    "wav": "../data/vad/1/ev9pmJNL/\u7403\u540e.mp3",
+    "length": 2.592,
+    "label": "\u7403\u540e"
+  },
+  {
+    "wav": "../data/vad/3/e8YqrkzM/\u5c11\u51b2.mp3",
+    "length": 1.476,
+    "label": "\u5c11\u51b2"
+  },
+  {
+    "wav": "../data/vad/3/7lOKdqJM/\u5c11\u51b2.mp3",
+    "length": 2.484,
+    "label": "\u5c11\u51b2"
+  },
+  {
+    "wav": "../data/vad/3/e8YqZxxM/\u5c11\u51b2.mp3",
+    "length": 1.548,
+    "label": "\u5c11\u51b2"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KQ1e/\u6d77\u6cc9.mp3",
+    "length": 2.988,
+    "label": "\u6d77\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/Mo1yDg0L/\u6d77\u6cc9.mp3",
+    "length": 2.304,
+    "label": "\u6d77\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/M6BKxE0M/\u6d77\u6cc9.mp3",
+    "length": 2.484,
+    "label": "\u6d77\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4w2e/\u6d77\u6cc9.mp3",
+    "length": 1.98,
+    "label": "\u6d77\u6cc9"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u8179\u901a\u8c37.mp3",
+    "length": 2.124,
+    "label": "\u8179\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/6/7BGDmYZL/\u8179\u901a\u8c37.mp3",
+    "length": 2.592,
+    "label": "\u8179\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u8179\u901a\u8c37.mp3",
+    "length": 3.276,
+    "label": "\u8179\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u8179\u901a\u8c37.mp3",
+    "length": 2.592,
+    "label": "\u8179\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u77f3\u5173.mp3",
+    "length": 2.484,
+    "label": "\u77f3\u5173"
+  },
+  {
+    "wav": "../data/vad/6/LwPbDA9e/\u77f3\u5173.mp3",
+    "length": 2.592,
+    "label": "\u77f3\u5173"
+  },
+  {
+    "wav": "../data/vad/6/7KvaOvnM/\u77f3\u5173.mp3",
+    "length": 1.98,
+    "label": "\u77f3\u5173"
+  },
+  {
+    "wav": "../data/vad/6/Mx2mzO9L/\u77f3\u5173.mp3",
+    "length": 2.448,
+    "label": "\u77f3\u5173"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4w2e/\u8170\u5b9c.mp3",
+    "length": 1.98,
+    "label": "\u8170\u5b9c"
+  },
+  {
+    "wav": "../data/vad/1/7BGdAAKL/\u8170\u5b9c.mp3",
+    "length": 3.78,
+    "label": "\u8170\u5b9c"
+  },
+  {
+    "wav": "../data/vad/1/7XA0Kz8L/\u8170\u5b9c.mp3",
+    "length": 2.844,
+    "label": "\u8170\u5b9c"
+  },
+  {
+    "wav": "../data/vad/1/Mo1ywxOL/\u8170\u5b9c.mp3",
+    "length": 2.232,
+    "label": "\u8170\u5b9c"
+  },
+  {
+    "wav": "../data/vad/7/LwPbKEve/\u51b2\u95e8.mp3",
+    "length": 1.656,
+    "label": "\u51b2\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/M1KXZv2L/\u51b2\u95e8.mp3",
+    "length": 2.052,
+    "label": "\u51b2\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/MgEpolwL/\u51b2\u95e8.mp3",
+    "length": 1.908,
+    "label": "\u51b2\u95e8"
+  },
+  {
+    "wav": "../data/vad/5/7aQpGnN7/\u73af\u8df3.mp3",
+    "length": 2.232,
+    "label": "\u73af\u8df3"
+  },
+  {
+    "wav": "../data/vad/5/MWWa020M/\u73af\u8df3.mp3",
+    "length": 3.78,
+    "label": "\u73af\u8df3"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u73af\u8df3.mp3",
+    "length": 2.16,
+    "label": "\u73af\u8df3"
+  },
+  {
+    "wav": "../data/vad/5/ev9JXdxL/\u73af\u8df3.mp3",
+    "length": 1.908,
+    "label": "\u73af\u8df3"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u4e2d\u6cc9.mp3",
+    "length": 1.836,
+    "label": "\u4e2d\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/Mo1yDg0L/\u4e2d\u6cc9.mp3",
+    "length": 2.736,
+    "label": "\u4e2d\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/ebqzpPYL/\u4e2d\u6cc9.mp3",
+    "length": 1.98,
+    "label": "\u4e2d\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/LOyDN1NM/\u4e2d\u6cc9.mp3",
+    "length": 2.916,
+    "label": "\u4e2d\u6cc9"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4Xqe/\u4e0b\u6781\u4fde.mp3",
+    "length": 1.98,
+    "label": "\u4e0b\u6781\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/7BGdAAKL/\u4e0b\u6781\u4fde.mp3",
+    "length": 2.268,
+    "label": "\u4e0b\u6781\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/eP2a2AX7/\u4e0b\u6781\u4fde.mp3",
+    "length": 2.916,
+    "label": "\u4e0b\u6781\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u4e0b\u6781\u4fde.mp3",
+    "length": 1.908,
+    "label": "\u4e0b\u6781\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/eyP64QBL/\u7ff3\u98ce.mp3",
+    "length": 1.656,
+    "label": "\u7ff3\u98ce"
+  },
+  {
+    "wav": "../data/vad/3/7YpaGDbM/\u7ff3\u98ce.mp3",
+    "length": 1.98,
+    "label": "\u7ff3\u98ce"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u7ff3\u98ce.mp3",
+    "length": 1.656,
+    "label": "\u7ff3\u98ce"
+  },
+  {
+    "wav": "../data/vad/5/e4BkvPq7/\u4e2d\u6e0e.mp3",
+    "length": 1.8,
+    "label": "\u4e2d\u6e0e"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJ6dM/\u4e2d\u6e0e.mp3",
+    "length": 2.736,
+    "label": "\u4e2d\u6e0e"
+  },
+  {
+    "wav": "../data/vad/5/7qXGBB5M/\u4e2d\u6e0e.mp3",
+    "length": 1.476,
+    "label": "\u4e2d\u6e0e"
+  },
+  {
+    "wav": "../data/vad/5/7aQpnXV7/\u4e2d\u6e0e.mp3",
+    "length": 1.224,
+    "label": "\u4e2d\u6e0e"
+  },
+  {
+    "wav": "../data/vad/5/7j9JPGOM/\u7167\u6d77.mp3",
+    "length": 2.484,
+    "label": "\u7167\u6d77"
+  },
+  {
+    "wav": "../data/vad/5/MgEpPO5L/\u7167\u6d77.mp3",
+    "length": 2.088,
+    "label": "\u7167\u6d77"
+  },
+  {
+    "wav": "../data/vad/5/7AxDkVDM/\u7167\u6d77.mp3",
+    "length": 1.8,
+    "label": "\u7167\u6d77"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u4e0a\u661f.mp3",
+    "length": 1.8,
+    "label": "\u4e0a\u661f"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u4e0a\u661f.mp3",
+    "length": 2.844,
+    "label": "\u4e0a\u661f"
+  },
+  {
+    "wav": "../data/vad/2/7qXGO3gM/\u4e0a\u661f.mp3",
+    "length": 2.052,
+    "label": "\u4e0a\u661f"
+  },
+  {
+    "wav": "../data/vad/2/Mx2mP3rL/\u4e0a\u661f.mp3",
+    "length": 1.476,
+    "label": "\u4e0a\u661f"
+  },
+  {
+    "wav": "../data/vad/2/MdP0NwzM/\u6c14\u6d77.mp3",
+    "length": 1.224,
+    "label": "\u6c14\u6d77"
+  },
+  {
+    "wav": "../data/vad/2/M6BKO93M/\u6c14\u6d77.mp3",
+    "length": 1.548,
+    "label": "\u6c14\u6d77"
+  },
+  {
+    "wav": "../data/vad/2/eNQ0n8bL/\u6c14\u6d77.mp3",
+    "length": 2.412,
+    "label": "\u6c14\u6d77"
+  },
+  {
+    "wav": "../data/vad/2/epDJYW3e/\u6c14\u6d77.mp3",
+    "length": 2.232,
+    "label": "\u6c14\u6d77"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u4e8c\u95f4.mp3",
+    "length": 2.628,
+    "label": "\u4e8c\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/MgEp81wL/\u4e8c\u95f4.mp3",
+    "length": 2.916,
+    "label": "\u4e8c\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2ZKL/\u4e8c\u95f4.mp3",
+    "length": 1.98,
+    "label": "\u4e8c\u95f4"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2GxL/\u4e8c\u95f4.mp3",
+    "length": 2.916,
+    "label": "\u4e8c\u95f4"
+  },
+  {
+    "wav": "../data/vad/2/7qXGO3gM/\u810a\u4e2d.mp3",
+    "length": 3.096,
+    "label": "\u810a\u4e2d"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u810a\u4e2d.mp3",
+    "length": 2.052,
+    "label": "\u810a\u4e2d"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u810a\u4e2d.mp3",
+    "length": 1.764,
+    "label": "\u810a\u4e2d"
+  },
+  {
+    "wav": "../data/vad/6/MWWawoBM/\u810a\u4e2d.mp3",
+    "length": 2.7,
+    "label": "\u810a\u4e2d"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u810a\u4e2d.mp3",
+    "length": 1.728,
+    "label": "\u810a\u4e2d"
+  },
+  {
+    "wav": "../data/vad/2/epDJYW3e/\u810a\u4e2d.mp3",
+    "length": 2.304,
+    "label": "\u810a\u4e2d"
+  },
+  {
+    "wav": "../data/vad/6/MRDa6dxL/\u810a\u4e2d.mp3",
+    "length": 2.412,
+    "label": "\u810a\u4e2d"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJ6dM/\u8111\u7a7a.mp3",
+    "length": 2.484,
+    "label": "\u8111\u7a7a"
+  },
+  {
+    "wav": "../data/vad/5/e4BkvPq7/\u8111\u7a7a.mp3",
+    "length": 2.16,
+    "label": "\u8111\u7a7a"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u8111\u7a7a.mp3",
+    "length": 4.032,
+    "label": "\u8111\u7a7a"
+  },
+  {
+    "wav": "../data/vad/5/LGBDrqE7/\u8111\u7a7a.mp3",
+    "length": 1.728,
+    "label": "\u8111\u7a7a"
+  },
+  {
+    "wav": "../data/vad/8/LVJal4RL/\u957f\u86c7\u7078.mp3",
+    "length": 2.988,
+    "label": "\u957f\u86c7\u7078"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JYWOL/\u957f\u86c7\u7078.mp3",
+    "length": 2.052,
+    "label": "\u957f\u86c7\u7078"
+  },
+  {
+    "wav": "../data/vad/8/e3Bwb92L/\u957f\u86c7\u7078.mp3",
+    "length": 2.916,
+    "label": "\u957f\u86c7\u7078"
+  },
+  {
+    "wav": "../data/vad/3/7BGDP9zL/\u4e2d\u6e1a.mp3",
+    "length": 2.628,
+    "label": "\u4e2d\u6e1a"
+  },
+  {
+    "wav": "../data/vad/3/e8YqrkzM/\u4e2d\u6e1a.mp3",
+    "length": 1.728,
+    "label": "\u4e2d\u6e1a"
+  },
+  {
+    "wav": "../data/vad/3/e3BwmDEL/\u4e2d\u6e1a.mp3",
+    "length": 2.844,
+    "label": "\u4e2d\u6e1a"
+  },
+  {
+    "wav": "../data/vad/3/7qXGz9gM/\u9633\u6c60.mp3",
+    "length": 3.6,
+    "label": "\u9633\u6c60"
+  },
+  {
+    "wav": "../data/vad/3/LVJaoPZL/\u9633\u6c60.mp3",
+    "length": 1.98,
+    "label": "\u9633\u6c60"
+  },
+  {
+    "wav": "../data/vad/3/Lm9B0qzL/\u9633\u6c60.mp3",
+    "length": 2.052,
+    "label": "\u9633\u6c60"
+  },
+  {
+    "wav": "../data/vad/2/e3BxnlbL/\u795e\u9619.mp3",
+    "length": 2.592,
+    "label": "\u795e\u9619"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u795e\u9619.mp3",
+    "length": 2.232,
+    "label": "\u795e\u9619"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVz2e/\u795e\u9619.mp3",
+    "length": 1.656,
+    "label": "\u795e\u9619"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAqEL/\u795e\u9619.mp3",
+    "length": 1.656,
+    "label": "\u795e\u9619"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u6c14\u7aef.mp3",
+    "length": 2.592,
+    "label": "\u6c14\u7aef"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KQ1e/\u6c14\u7aef.mp3",
+    "length": 2.412,
+    "label": "\u6c14\u7aef"
+  },
+  {
+    "wav": "../data/vad/5/MWWa020M/\u6c14\u7aef.mp3",
+    "length": 3.672,
+    "label": "\u6c14\u7aef"
+  },
+  {
+    "wav": "../data/vad/1/ekqrx5k7/\u6c14\u7aef.mp3",
+    "length": 2.988,
+    "label": "\u6c14\u7aef"
+  },
+  {
+    "wav": "../data/vad/1/7AxvdnyM/\u6c14\u7aef.mp3",
+    "length": 1.656,
+    "label": "\u6c14\u7aef"
+  },
+  {
+    "wav": "../data/vad/1/LOyAKp4M/\u6c14\u7aef.mp3",
+    "length": 1.98,
+    "label": "\u6c14\u7aef"
+  },
+  {
+    "wav": "../data/vad/1/7XA0Kz8L/\u6c14\u7aef.mp3",
+    "length": 2.844,
+    "label": "\u6c14\u7aef"
+  },
+  {
+    "wav": "../data/vad/4/7XAPp8oL/\u9c7c\u9645.mp3",
+    "length": 3.276,
+    "label": "\u9c7c\u9645"
+  },
+  {
+    "wav": "../data/vad/4/7KvaPWnM/\u9c7c\u9645.mp3",
+    "length": 2.664,
+    "label": "\u9c7c\u9645"
+  },
+  {
+    "wav": "../data/vad/4/LVJadYaL/\u9c7c\u9645.mp3",
+    "length": 1.908,
+    "label": "\u9c7c\u9645"
+  },
+  {
+    "wav": "../data/vad/6/M28rAj8L/\u795e\u85cf.mp3",
+    "length": 2.304,
+    "label": "\u795e\u85cf"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u795e\u85cf.mp3",
+    "length": 2.484,
+    "label": "\u795e\u85cf"
+  },
+  {
+    "wav": "../data/vad/6/eEKDAR97/\u795e\u85cf.mp3",
+    "length": 1.98,
+    "label": "\u795e\u85cf"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u795e\u85cf.mp3",
+    "length": 1.656,
+    "label": "\u795e\u85cf"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u4e73\u6839.mp3",
+    "length": 2.232,
+    "label": "\u4e73\u6839"
+  },
+  {
+    "wav": "../data/vad/8/e3Bwb92L/\u4e73\u6839.mp3",
+    "length": 2.412,
+    "label": "\u4e73\u6839"
+  },
+  {
+    "wav": "../data/vad/8/7j9JlrnM/\u4e73\u6839.mp3",
+    "length": 2.664,
+    "label": "\u4e73\u6839"
+  },
+  {
+    "wav": "../data/vad/1/Mx2bdg5L/\u8033\u5c16.mp3",
+    "length": 1.728,
+    "label": "\u8033\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/e8YBR90M/\u8033\u5c16.mp3",
+    "length": 2.736,
+    "label": "\u8033\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/M1KD8x2L/\u8033\u5c16.mp3",
+    "length": 3.168,
+    "label": "\u8033\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/eyP6Z9vL/\u8033\u5c16.mp3",
+    "length": 2.304,
+    "label": "\u8033\u5c16"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJ6dM/\u4f1a\u5b97.mp3",
+    "length": 3.096,
+    "label": "\u4f1a\u5b97"
+  },
+  {
+    "wav": "../data/vad/5/MgEpPO5L/\u4f1a\u5b97.mp3",
+    "length": 1.44,
+    "label": "\u4f1a\u5b97"
+  },
+  {
+    "wav": "../data/vad/5/7aQpnXV7/\u4f1a\u5b97.mp3",
+    "length": 1.8,
+    "label": "\u4f1a\u5b97"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aD8b7/\u4f1a\u5b97.mp3",
+    "length": 3.42,
+    "label": "\u4f1a\u5b97"
+  },
+  {
+    "wav": "../data/vad/3/Lm9BoaAL/\u524d\u8c37.mp3",
+    "length": 2.592,
+    "label": "\u524d\u8c37"
+  },
+  {
+    "wav": "../data/vad/3/7qXGz9gM/\u524d\u8c37.mp3",
+    "length": 2.484,
+    "label": "\u524d\u8c37"
+  },
+  {
+    "wav": "../data/vad/3/e4BkgZx7/\u524d\u8c37.mp3",
+    "length": 2.304,
+    "label": "\u524d\u8c37"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0lRM/\u6512\u7af9.mp3",
+    "length": 1.692,
+    "label": "\u6512\u7af9"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u6512\u7af9.mp3",
+    "length": 1.8,
+    "label": "\u6512\u7af9"
+  },
+  {
+    "wav": "../data/vad/7/ev9JD1xL/\u6512\u7af9.mp3",
+    "length": 2.16,
+    "label": "\u6512\u7af9"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u6512\u7af9.mp3",
+    "length": 1.98,
+    "label": "\u6512\u7af9"
+  },
+  {
+    "wav": "../data/vad/6/7qXGdDlM/\u6512\u7af9.mp3",
+    "length": 2.232,
+    "label": "\u6512\u7af9"
+  },
+  {
+    "wav": "../data/vad/7/LGBD0Wp7/\u6512\u7af9.mp3",
+    "length": 2.052,
+    "label": "\u6512\u7af9"
+  },
+  {
+    "wav": "../data/vad/7/MRDalnQL/\u6512\u7af9.mp3",
+    "length": 2.232,
+    "label": "\u6512\u7af9"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u6512\u7af9.mp3",
+    "length": 1.908,
+    "label": "\u6512\u7af9"
+  },
+  {
+    "wav": "../data/vad/7/MJnDjkBM/\u6bb7\u95e8.mp3",
+    "length": 2.232,
+    "label": "\u6bb7\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/e4BkqO17/\u6bb7\u95e8.mp3",
+    "length": 1.98,
+    "label": "\u6bb7\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/Mo1Jl56L/\u6bb7\u95e8.mp3",
+    "length": 2.052,
+    "label": "\u6bb7\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/MDPDx8gM/\u5c0f\u80a0\u4fde.mp3",
+    "length": 2.232,
+    "label": "\u5c0f\u80a0\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u5c0f\u80a0\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u5c0f\u80a0\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7BGDOjKL/\u5c0f\u80a0\u4fde.mp3",
+    "length": 2.736,
+    "label": "\u5c0f\u80a0\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u5c0f\u80a0\u4fde.mp3",
+    "length": 1.908,
+    "label": "\u5c0f\u80a0\u4fde"
+  },
+  {
+    "wav": "../data/vad/2/ev9Jn0AL/\u6c34\u5206.mp3",
+    "length": 2.664,
+    "label": "\u6c34\u5206"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVz2e/\u6c34\u5206.mp3",
+    "length": 1.728,
+    "label": "\u6c34\u5206"
+  },
+  {
+    "wav": "../data/vad/2/Mx2bJ85L/\u6c34\u5206.mp3",
+    "length": 2.16,
+    "label": "\u6c34\u5206"
+  },
+  {
+    "wav": "../data/vad/2/ekqrB1Y7/\u6c34\u5206.mp3",
+    "length": 1.656,
+    "label": "\u6c34\u5206"
+  },
+  {
+    "wav": "../data/vad/8/7AxD9mDM/\u4e0d\u5bb9.mp3",
+    "length": 3.636,
+    "label": "\u4e0d\u5bb9"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u4e0d\u5bb9.mp3",
+    "length": 2.232,
+    "label": "\u4e0d\u5bb9"
+  },
+  {
+    "wav": "../data/vad/8/7AxDyrDM/\u4e0d\u5bb9.mp3",
+    "length": 1.476,
+    "label": "\u4e0d\u5bb9"
+  },
+  {
+    "wav": "../data/vad/8/epDJK28e/\u56db\u5173\u7a74.mp3",
+    "length": 2.592,
+    "label": "\u56db\u5173\u7a74"
+  },
+  {
+    "wav": "../data/vad/8/Mr5JKdYe/\u56db\u5173\u7a74.mp3",
+    "length": 2.16,
+    "label": "\u56db\u5173\u7a74"
+  },
+  {
+    "wav": "../data/vad/8/Lm9BbZOL/\u56db\u5173\u7a74.mp3",
+    "length": 2.16,
+    "label": "\u56db\u5173\u7a74"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u59d4\u4e2d.mp3",
+    "length": 2.052,
+    "label": "\u59d4\u4e2d"
+  },
+  {
+    "wav": "../data/vad/7/LVJayQzL/\u59d4\u4e2d.mp3",
+    "length": 2.988,
+    "label": "\u59d4\u4e2d"
+  },
+  {
+    "wav": "../data/vad/7/e3Bw8WbL/\u59d4\u4e2d.mp3",
+    "length": 2.052,
+    "label": "\u59d4\u4e2d"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJ6dM/\u590d\u6e9c.mp3",
+    "length": 2.232,
+    "label": "\u590d\u6e9c"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u590d\u6e9c.mp3",
+    "length": 2.592,
+    "label": "\u590d\u6e9c"
+  },
+  {
+    "wav": "../data/vad/5/MZqpNkDe/\u590d\u6e9c.mp3",
+    "length": 1.368,
+    "label": "\u590d\u6e9c"
+  },
+  {
+    "wav": "../data/vad/7/L0mYk3Je/\u8840\u6d77.mp3",
+    "length": 2.304,
+    "label": "\u8840\u6d77"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0bzM/\u8840\u6d77.mp3",
+    "length": 1.476,
+    "label": "\u8840\u6d77"
+  },
+  {
+    "wav": "../data/vad/7/M1KXZv2L/\u8840\u6d77.mp3",
+    "length": 2.304,
+    "label": "\u8840\u6d77"
+  },
+  {
+    "wav": "../data/vad/6/en9Jg5WL/\u4e0a\u9ace.mp3",
+    "length": 1.728,
+    "label": "\u4e0a\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/7BGDOjKL/\u4e0a\u9ace.mp3",
+    "length": 3.42,
+    "label": "\u4e0a\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/epDJ4D8e/\u4e0a\u9ace.mp3",
+    "length": 1.98,
+    "label": "\u4e0a\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/M28rAj8L/\u4e0a\u9ace.mp3",
+    "length": 2.736,
+    "label": "\u4e0a\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/MJnDYn3M/\u5173\u51b2.mp3",
+    "length": 1.512,
+    "label": "\u5173\u51b2"
+  },
+  {
+    "wav": "../data/vad/3/7BGDP9zL/\u5173\u51b2.mp3",
+    "length": 2.448,
+    "label": "\u5173\u51b2"
+  },
+  {
+    "wav": "../data/vad/3/M6BywBBM/\u5173\u51b2.mp3",
+    "length": 2.412,
+    "label": "\u5173\u51b2"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgXO7/\u7487\u7391.mp3",
+    "length": 2.664,
+    "label": "\u7487\u7391"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mqkL/\u7487\u7391.mp3",
+    "length": 2.412,
+    "label": "\u7487\u7391"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u7487\u7391.mp3",
+    "length": 3.096,
+    "label": "\u7487\u7391"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgqZ7/\u7487\u7391.mp3",
+    "length": 2.16,
+    "label": "\u7487\u7391"
+  },
+  {
+    "wav": "../data/vad/5/LVJa6WpL/\u7136\u8c37.mp3",
+    "length": 2.16,
+    "label": "\u7136\u8c37"
+  },
+  {
+    "wav": "../data/vad/5/M6By1qVM/\u7136\u8c37.mp3",
+    "length": 2.16,
+    "label": "\u7136\u8c37"
+  },
+  {
+    "wav": "../data/vad/5/MgEpPO5L/\u7136\u8c37.mp3",
+    "length": 1.404,
+    "label": "\u7136\u8c37"
+  },
+  {
+    "wav": "../data/vad/7/MRDalnQL/\u795e\u5802.mp3",
+    "length": 1.656,
+    "label": "\u795e\u5802"
+  },
+  {
+    "wav": "../data/vad/7/Mr5JKrVe/\u795e\u5802.mp3",
+    "length": 2.304,
+    "label": "\u795e\u5802"
+  },
+  {
+    "wav": "../data/vad/7/LQ8alv47/\u795e\u5802.mp3",
+    "length": 2.16,
+    "label": "\u795e\u5802"
+  },
+  {
+    "wav": "../data/vad/1/LOyAXj1M/\u5341\u5ba3.mp3",
+    "length": 2.592,
+    "label": "\u5341\u5ba3"
+  },
+  {
+    "wav": "../data/vad/1/Mx2bdg5L/\u5341\u5ba3.mp3",
+    "length": 1.656,
+    "label": "\u5341\u5ba3"
+  },
+  {
+    "wav": "../data/vad/1/M1KD8x2L/\u5341\u5ba3.mp3",
+    "length": 2.664,
+    "label": "\u5341\u5ba3"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u5341\u5ba3.mp3",
+    "length": 2.592,
+    "label": "\u5341\u5ba3"
+  },
+  {
+    "wav": "../data/vad/8/LwPbKlne/\u728a\u9f3b.mp3",
+    "length": 2.304,
+    "label": "\u728a\u9f3b"
+  },
+  {
+    "wav": "../data/vad/8/7KvaodnM/\u728a\u9f3b.mp3",
+    "length": 1.656,
+    "label": "\u728a\u9f3b"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JY8OL/\u728a\u9f3b.mp3",
+    "length": 3.528,
+    "label": "\u728a\u9f3b"
+  },
+  {
+    "wav": "../data/vad/2/M6BKO93M/\u540e\u9876.mp3",
+    "length": 2.412,
+    "label": "\u540e\u9876"
+  },
+  {
+    "wav": "../data/vad/2/7XA0XxjL/\u540e\u9876.mp3",
+    "length": 2.232,
+    "label": "\u540e\u9876"
+  },
+  {
+    "wav": "../data/vad/2/MdPAkB6M/\u540e\u9876.mp3",
+    "length": 1.908,
+    "label": "\u540e\u9876"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgXO7/\u540e\u9876.mp3",
+    "length": 3.42,
+    "label": "\u540e\u9876"
+  },
+  {
+    "wav": "../data/vad/1/7BGdAAKL/\u5939\u810a.mp3",
+    "length": 2.124,
+    "label": "\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/1/ekqrVQk7/\u5939\u810a.mp3",
+    "length": 2.304,
+    "label": "\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/1/e8YBR90M/\u5939\u810a.mp3",
+    "length": 3.096,
+    "label": "\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/1/7XA0KQ8L/\u5939\u810a.mp3",
+    "length": 1.548,
+    "label": "\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/5/M28rNalL/\u65e5\u6708.mp3",
+    "length": 2.808,
+    "label": "\u65e5\u6708"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u65e5\u6708.mp3",
+    "length": 1.98,
+    "label": "\u65e5\u6708"
+  },
+  {
+    "wav": "../data/vad/5/MgEpPO5L/\u65e5\u6708.mp3",
+    "length": 1.332,
+    "label": "\u65e5\u6708"
+  },
+  {
+    "wav": "../data/vad/5/MZqpNkDe/\u65e5\u6708.mp3",
+    "length": 1.368,
+    "label": "\u65e5\u6708"
+  },
+  {
+    "wav": "../data/vad/1/7AxvdnyM/\u5916\u8e1d\u5c16.mp3",
+    "length": 1.728,
+    "label": "\u5916\u8e1d\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4Xqe/\u5916\u8e1d\u5c16.mp3",
+    "length": 2.304,
+    "label": "\u5916\u8e1d\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/7Axvd8AM/\u5916\u8e1d\u5c16.mp3",
+    "length": 2.484,
+    "label": "\u5916\u8e1d\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/MRDAW3QL/\u5916\u8e1d\u5c16.mp3",
+    "length": 2.484,
+    "label": "\u5916\u8e1d\u5c16"
+  },
+  {
+    "wav": "../data/vad/8/eP2aNk97/\u4eba\u8fce.mp3",
+    "length": 1.656,
+    "label": "\u4eba\u8fce"
+  },
+  {
+    "wav": "../data/vad/8/Lm9B4PxL/\u4eba\u8fce.mp3",
+    "length": 3.312,
+    "label": "\u4eba\u8fce"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u4eba\u8fce.mp3",
+    "length": 2.232,
+    "label": "\u4eba\u8fce"
+  },
+  {
+    "wav": "../data/vad/8/MJnD5xdM/\u4eba\u8fce.mp3",
+    "length": 2.052,
+    "label": "\u4eba\u8fce"
+  },
+  {
+    "wav": "../data/vad/4/eNQ0kWqL/\u7ae0\u95e8.mp3",
+    "length": 1.908,
+    "label": "\u7ae0\u95e8"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u7ae0\u95e8.mp3",
+    "length": 2.52,
+    "label": "\u7ae0\u95e8"
+  },
+  {
+    "wav": "../data/vad/4/MWWavjGM/\u7ae0\u95e8.mp3",
+    "length": 2.304,
+    "label": "\u7ae0\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/eNQ06mgL/\u4f1a\u9633.mp3",
+    "length": 1.728,
+    "label": "\u4f1a\u9633"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2g8e/\u4f1a\u9633.mp3",
+    "length": 2.736,
+    "label": "\u4f1a\u9633"
+  },
+  {
+    "wav": "../data/vad/7/eyP6aBBL/\u4f1a\u9633.mp3",
+    "length": 2.304,
+    "label": "\u4f1a\u9633"
+  },
+  {
+    "wav": "../data/vad/1/7XA0Kz8L/\u4e8c\u767d.mp3",
+    "length": 2.592,
+    "label": "\u4e8c\u767d"
+  },
+  {
+    "wav": "../data/vad/1/LOyAXj1M/\u4e8c\u767d.mp3",
+    "length": 3.348,
+    "label": "\u4e8c\u767d"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KQ1e/\u4e8c\u767d.mp3",
+    "length": 2.34,
+    "label": "\u4e8c\u767d"
+  },
+  {
+    "wav": "../data/vad/1/Mo1ywxOL/\u4e8c\u767d.mp3",
+    "length": 3.348,
+    "label": "\u4e8c\u767d"
+  },
+  {
+    "wav": "../data/vad/3/7qXGlmqM/\u9752\u7075.mp3",
+    "length": 2.304,
+    "label": "\u9752\u7075"
+  },
+  {
+    "wav": "../data/vad/3/e3BwmDEL/\u9752\u7075.mp3",
+    "length": 2.592,
+    "label": "\u9752\u7075"
+  },
+  {
+    "wav": "../data/vad/3/7XAPJBoL/\u9752\u7075.mp3",
+    "length": 2.412,
+    "label": "\u9752\u7075"
+  },
+  {
+    "wav": "../data/vad/8/Lm9B4PxL/\u5c4b\u7ff3.mp3",
+    "length": 2.592,
+    "label": "\u5c4b\u7ff3"
+  },
+  {
+    "wav": "../data/vad/8/e4BkRKW7/\u5c4b\u7ff3.mp3",
+    "length": 2.664,
+    "label": "\u5c4b\u7ff3"
+  },
+  {
+    "wav": "../data/vad/8/e4BkZPx7/\u5c4b\u7ff3.mp3",
+    "length": 2.124,
+    "label": "\u5c4b\u7ff3"
+  },
+  {
+    "wav": "../data/vad/8/MdPArymM/\u5c4b\u7ff3.mp3",
+    "length": 3.096,
+    "label": "\u5c4b\u7ff3"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u5173\u95e8.mp3",
+    "length": 3.168,
+    "label": "\u5173\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/LQ8alyW7/\u5173\u95e8.mp3",
+    "length": 1.152,
+    "label": "\u5173\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u5173\u95e8.mp3",
+    "length": 2.16,
+    "label": "\u5173\u95e8"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u5916\u52b3\u5bab.mp3",
+    "length": 2.916,
+    "label": "\u5916\u52b3\u5bab"
+  },
+  {
+    "wav": "../data/vad/1/MRDAK1DL/\u5916\u52b3\u5bab.mp3",
+    "length": 2.016,
+    "label": "\u5916\u52b3\u5bab"
+  },
+  {
+    "wav": "../data/vad/1/7AxvdnyM/\u5916\u52b3\u5bab.mp3",
+    "length": 2.304,
+    "label": "\u5916\u52b3\u5bab"
+  },
+  {
+    "wav": "../data/vad/1/Mx2bdg5L/\u5916\u52b3\u5bab.mp3",
+    "length": 1.98,
+    "label": "\u5916\u52b3\u5bab"
+  },
+  {
+    "wav": "../data/vad/3/Lm9B0qzL/\u89d2\u5b59.mp3",
+    "length": 2.736,
+    "label": "\u89d2\u5b59"
+  },
+  {
+    "wav": "../data/vad/3/e4BkgZx7/\u89d2\u5b59.mp3",
+    "length": 2.412,
+    "label": "\u89d2\u5b59"
+  },
+  {
+    "wav": "../data/vad/3/LwPbRJYe/\u89d2\u5b59.mp3",
+    "length": 1.98,
+    "label": "\u89d2\u5b59"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aD8b7/\u819d\u9633\u5173.mp3",
+    "length": 1.728,
+    "label": "\u819d\u9633\u5173"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BP0zL/\u819d\u9633\u5173.mp3",
+    "length": 2.736,
+    "label": "\u819d\u9633\u5173"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vDbL/\u819d\u9633\u5173.mp3",
+    "length": 1.98,
+    "label": "\u819d\u9633\u5173"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u819d\u9633\u5173.mp3",
+    "length": 2.16,
+    "label": "\u819d\u9633\u5173"
+  },
+  {
+    "wav": "../data/vad/1/LOyAXj1M/\u9611\u5c3e.mp3",
+    "length": 2.304,
+    "label": "\u9611\u5c3e"
+  },
+  {
+    "wav": "../data/vad/1/Mo1ywaKL/\u9611\u5c3e.mp3",
+    "length": 1.656,
+    "label": "\u9611\u5c3e"
+  },
+  {
+    "wav": "../data/vad/1/ekqrVQk7/\u9611\u5c3e.mp3",
+    "length": 1.98,
+    "label": "\u9611\u5c3e"
+  },
+  {
+    "wav": "../data/vad/1/MJnoBp1M/\u9611\u5c3e.mp3",
+    "length": 1.8,
+    "label": "\u9611\u5c3e"
+  },
+  {
+    "wav": "../data/vad/7/7XAPqmdL/\u818f\u8093.mp3",
+    "length": 1.908,
+    "label": "\u818f\u8093"
+  },
+  {
+    "wav": "../data/vad/7/7j9JKOKM/\u818f\u8093.mp3",
+    "length": 2.34,
+    "label": "\u818f\u8093"
+  },
+  {
+    "wav": "../data/vad/7/7lOK0l4M/\u818f\u8093.mp3",
+    "length": 2.844,
+    "label": "\u818f\u8093"
+  },
+  {
+    "wav": "../data/vad/1/en9Q31mL/\u516b\u90aa.mp3",
+    "length": 2.052,
+    "label": "\u516b\u90aa"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u516b\u90aa.mp3",
+    "length": 1.656,
+    "label": "\u516b\u90aa"
+  },
+  {
+    "wav": "../data/vad/5/LVJa6WpL/\u516b\u90aa.mp3",
+    "length": 2.304,
+    "label": "\u516b\u90aa"
+  },
+  {
+    "wav": "../data/vad/1/ekqrVQk7/\u516b\u90aa.mp3",
+    "length": 2.232,
+    "label": "\u516b\u90aa"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89WL/\u516b\u90aa.mp3",
+    "length": 2.052,
+    "label": "\u516b\u90aa"
+  },
+  {
+    "wav": "../data/vad/1/Lm9kXRAL/\u516b\u90aa.mp3",
+    "length": 2.844,
+    "label": "\u516b\u90aa"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u516b\u90aa.mp3",
+    "length": 2.592,
+    "label": "\u516b\u90aa"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vDbL/\u9633\u4ea4.mp3",
+    "length": 1.8,
+    "label": "\u9633\u4ea4"
+  },
+  {
+    "wav": "../data/vad/5/7AxDkVDM/\u9633\u4ea4.mp3",
+    "length": 1.98,
+    "label": "\u9633\u4ea4"
+  },
+  {
+    "wav": "../data/vad/5/M28rNalL/\u9633\u4ea4.mp3",
+    "length": 3.636,
+    "label": "\u9633\u4ea4"
+  },
+  {
+    "wav": "../data/vad/7/ev9JD1xL/\u9634\u9675\u6cc9.mp3",
+    "length": 1.224,
+    "label": "\u9634\u9675\u6cc9"
+  },
+  {
+    "wav": "../data/vad/7/eNQ06mgL/\u9634\u9675\u6cc9.mp3",
+    "length": 2.232,
+    "label": "\u9634\u9675\u6cc9"
+  },
+  {
+    "wav": "../data/vad/7/LwPbzBYe/\u9634\u9675\u6cc9.mp3",
+    "length": 1.656,
+    "label": "\u9634\u9675\u6cc9"
+  },
+  {
+    "wav": "../data/vad/7/Mr5Jblpe/\u5e9c\u820d.mp3",
+    "length": 2.304,
+    "label": "\u5e9c\u820d"
+  },
+  {
+    "wav": "../data/vad/7/Mo1Jl56L/\u5e9c\u820d.mp3",
+    "length": 1.548,
+    "label": "\u5e9c\u820d"
+  },
+  {
+    "wav": "../data/vad/7/M1KXZv2L/\u5e9c\u820d.mp3",
+    "length": 2.052,
+    "label": "\u5e9c\u820d"
+  },
+  {
+    "wav": "../data/vad/3/7KvaxvYM/\u79c9\u98ce.mp3",
+    "length": 2.052,
+    "label": "\u79c9\u98ce"
+  },
+  {
+    "wav": "../data/vad/3/7YpaGDbM/\u79c9\u98ce.mp3",
+    "length": 1.548,
+    "label": "\u79c9\u98ce"
+  },
+  {
+    "wav": "../data/vad/3/Mo1JV24L/\u79c9\u98ce.mp3",
+    "length": 2.844,
+    "label": "\u79c9\u98ce"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2g8e/\u675f\u9aa8.mp3",
+    "length": 2.052,
+    "label": "\u675f\u9aa8"
+  },
+  {
+    "wav": "../data/vad/7/LQ8alv47/\u675f\u9aa8.mp3",
+    "length": 2.304,
+    "label": "\u675f\u9aa8"
+  },
+  {
+    "wav": "../data/vad/7/LwPbKEve/\u675f\u9aa8.mp3",
+    "length": 2.232,
+    "label": "\u675f\u9aa8"
+  },
+  {
+    "wav": "../data/vad/1/e8YBR90M/\u4e0a\u8fce\u9999.mp3",
+    "length": 3.276,
+    "label": "\u4e0a\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/1/M6BKxE0M/\u4e0a\u8fce\u9999.mp3",
+    "length": 3.42,
+    "label": "\u4e0a\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/1/MRDAW3QL/\u4e0a\u8fce\u9999.mp3",
+    "length": 2.664,
+    "label": "\u4e0a\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/1/ebqzpPYL/\u4e0a\u8fce\u9999.mp3",
+    "length": 2.592,
+    "label": "\u4e0a\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u5934\u7a8d\u9634.mp3",
+    "length": 1.548,
+    "label": "\u5934\u7a8d\u9634"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u5934\u7a8d\u9634.mp3",
+    "length": 2.844,
+    "label": "\u5934\u7a8d\u9634"
+  },
+  {
+    "wav": "../data/vad/5/MdPA25AM/\u5934\u7a8d\u9634.mp3",
+    "length": 2.16,
+    "label": "\u5934\u7a8d\u9634"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BP0zL/\u5934\u7a8d\u9634.mp3",
+    "length": 3.276,
+    "label": "\u5934\u7a8d\u9634"
+  },
+  {
+    "wav": "../data/vad/8/LVJal4RL/\u7f3a\u76c6.mp3",
+    "length": 2.412,
+    "label": "\u7f3a\u76c6"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JY8OL/\u7f3a\u76c6.mp3",
+    "length": 2.16,
+    "label": "\u7f3a\u76c6"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u7f3a\u76c6.mp3",
+    "length": 2.16,
+    "label": "\u7f3a\u76c6"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u9c7c\u8170.mp3",
+    "length": 2.412,
+    "label": "\u9c7c\u8170"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KRDe/\u9c7c\u8170.mp3",
+    "length": 1.62,
+    "label": "\u9c7c\u8170"
+  },
+  {
+    "wav": "../data/vad/1/LOyDN1NM/\u9c7c\u8170.mp3",
+    "length": 2.232,
+    "label": "\u9c7c\u8170"
+  },
+  {
+    "wav": "../data/vad/1/Mo1ywaKL/\u9c7c\u8170.mp3",
+    "length": 1.728,
+    "label": "\u9c7c\u8170"
+  },
+  {
+    "wav": "../data/vad/5/ev9JXdxL/\u6d6e\u767d.mp3",
+    "length": 1.8,
+    "label": "\u6d6e\u767d"
+  },
+  {
+    "wav": "../data/vad/5/e4Bkvxq7/\u6d6e\u767d.mp3",
+    "length": 2.484,
+    "label": "\u6d6e\u767d"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u6d6e\u767d.mp3",
+    "length": 1.908,
+    "label": "\u6d6e\u767d"
+  },
+  {
+    "wav": "../data/vad/5/MgEpPO5L/\u6d6e\u767d.mp3",
+    "length": 1.872,
+    "label": "\u6d6e\u767d"
+  },
+  {
+    "wav": "../data/vad/1/MJnoBp1M/\u91d1\u6d25.mp3",
+    "length": 2.592,
+    "label": "\u91d1\u6d25"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u91d1\u6d25.mp3",
+    "length": 2.484,
+    "label": "\u91d1\u6d25"
+  },
+  {
+    "wav": "../data/vad/1/ev9pmJNL/\u91d1\u6d25.mp3",
+    "length": 1.908,
+    "label": "\u91d1\u6d25"
+  },
+  {
+    "wav": "../data/vad/1/Mo1yDg0L/\u91d1\u6d25.mp3",
+    "length": 2.916,
+    "label": "\u91d1\u6d25"
+  },
+  {
+    "wav": "../data/vad/1/ebqzpPYL/\u56db\u7f1d.mp3",
+    "length": 2.16,
+    "label": "\u56db\u7f1d"
+  },
+  {
+    "wav": "../data/vad/1/LOyDN1NM/\u56db\u7f1d.mp3",
+    "length": 2.736,
+    "label": "\u56db\u7f1d"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u56db\u7f1d.mp3",
+    "length": 2.844,
+    "label": "\u56db\u7f1d"
+  },
+  {
+    "wav": "../data/vad/5/7YpaNdwM/\u56db\u7f1d.mp3",
+    "length": 2.736,
+    "label": "\u56db\u7f1d"
+  },
+  {
+    "wav": "../data/vad/5/7j9JPGOM/\u56db\u7f1d.mp3",
+    "length": 2.664,
+    "label": "\u56db\u7f1d"
+  },
+  {
+    "wav": "../data/vad/1/Mo1yDg0L/\u56db\u7f1d.mp3",
+    "length": 2.592,
+    "label": "\u56db\u7f1d"
+  },
+  {
+    "wav": "../data/vad/5/Mx2mwRKL/\u56db\u7f1d.mp3",
+    "length": 0.864,
+    "label": "\u56db\u7f1d"
+  },
+  {
+    "wav": "../data/vad/8/7KvaodnM/\u4e0a\u5de8\u865a.mp3",
+    "length": 2.232,
+    "label": "\u4e0a\u5de8\u865a"
+  },
+  {
+    "wav": "../data/vad/8/MgEpQ85L/\u4e0a\u5de8\u865a.mp3",
+    "length": 1.656,
+    "label": "\u4e0a\u5de8\u865a"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JYWOL/\u4e0a\u5de8\u865a.mp3",
+    "length": 1.908,
+    "label": "\u4e0a\u5de8\u865a"
+  },
+  {
+    "wav": "../data/vad/3/eNQ0G6gL/\u8033\u95e8.mp3",
+    "length": 1.476,
+    "label": "\u8033\u95e8"
+  },
+  {
+    "wav": "../data/vad/3/e8YqZxxM/\u8033\u95e8.mp3",
+    "length": 1.656,
+    "label": "\u8033\u95e8"
+  },
+  {
+    "wav": "../data/vad/3/ekqNzpQ7/\u8033\u95e8.mp3",
+    "length": 1.8,
+    "label": "\u8033\u95e8"
+  },
+  {
+    "wav": "../data/vad/3/Lm9B04OL/\u6d88\u6cfa.mp3",
+    "length": 2.592,
+    "label": "\u6d88\u6cfa"
+  },
+  {
+    "wav": "../data/vad/3/MWWa5zGM/\u6d88\u6cfa.mp3",
+    "length": 1.728,
+    "label": "\u6d88\u6cfa"
+  },
+  {
+    "wav": "../data/vad/3/L0mYX8De/\u6d88\u6cfa.mp3",
+    "length": 2.484,
+    "label": "\u6d88\u6cfa"
+  },
+  {
+    "wav": "../data/vad/1/epD8ZDZe/\u9acb\u9aa8.mp3",
+    "length": 2.844,
+    "label": "\u9acb\u9aa8"
+  },
+  {
+    "wav": "../data/vad/1/ev9pmJNL/\u9acb\u9aa8.mp3",
+    "length": 1.98,
+    "label": "\u9acb\u9aa8"
+  },
+  {
+    "wav": "../data/vad/1/LQ8NzjG7/\u9acb\u9aa8.mp3",
+    "length": 1.908,
+    "label": "\u9acb\u9aa8"
+  },
+  {
+    "wav": "../data/vad/1/M1KD8x2L/\u9acb\u9aa8.mp3",
+    "length": 2.664,
+    "label": "\u9acb\u9aa8"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u4ec6\u53c2.mp3",
+    "length": 1.98,
+    "label": "\u4ec6\u53c2"
+  },
+  {
+    "wav": "../data/vad/8/MDPDgQoM/\u4ec6\u53c2.mp3",
+    "length": 2.664,
+    "label": "\u4ec6\u53c2"
+  },
+  {
+    "wav": "../data/vad/8/M1KXk9nL/\u4ec6\u53c2.mp3",
+    "length": 1.8,
+    "label": "\u4ec6\u53c2"
+  },
+  {
+    "wav": "../data/vad/8/LwPbKlne/\u4ec6\u53c2.mp3",
+    "length": 2.304,
+    "label": "\u4ec6\u53c2"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u4ec6\u53c2.mp3",
+    "length": 1.8,
+    "label": "\u4ec6\u53c2"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u4ec6\u53c2.mp3",
+    "length": 3.852,
+    "label": "\u4ec6\u53c2"
+  },
+  {
+    "wav": "../data/vad/7/M6By2E0M/\u4ec6\u53c2.mp3",
+    "length": 2.052,
+    "label": "\u4ec6\u53c2"
+  },
+  {
+    "wav": "../data/vad/6/MWWawoBM/\u80be\u5939\u810a.mp3",
+    "length": 3.168,
+    "label": "\u80be\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u80be\u5939\u810a.mp3",
+    "length": 2.304,
+    "label": "\u80be\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u80be\u5939\u810a.mp3",
+    "length": 2.412,
+    "label": "\u80be\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/MRDabVQL/\u80be\u5939\u810a.mp3",
+    "length": 1.296,
+    "label": "\u80be\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/7/L0mYk3Je/\u5408\u9633.mp3",
+    "length": 1.656,
+    "label": "\u5408\u9633"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u5408\u9633.mp3",
+    "length": 1.98,
+    "label": "\u5408\u9633"
+  },
+  {
+    "wav": "../data/vad/7/e3Bw8WbL/\u5408\u9633.mp3",
+    "length": 1.548,
+    "label": "\u5408\u9633"
+  },
+  {
+    "wav": "../data/vad/7/eNQ06mgL/\u8db3\u901a\u8c37.mp3",
+    "length": 2.412,
+    "label": "\u8db3\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/8/7AxDyrDM/\u8db3\u901a\u8c37.mp3",
+    "length": 1.908,
+    "label": "\u8db3\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/7/LVJayQzL/\u8db3\u901a\u8c37.mp3",
+    "length": 2.232,
+    "label": "\u8db3\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/8/e3Bwb92L/\u8db3\u901a\u8c37.mp3",
+    "length": 2.988,
+    "label": "\u8db3\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/8/LOyDGJpM/\u8db3\u901a\u8c37.mp3",
+    "length": 1.656,
+    "label": "\u8db3\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/8/epDJK28e/\u8db3\u901a\u8c37.mp3",
+    "length": 2.484,
+    "label": "\u8db3\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/8/eP2aNk97/\u8db3\u901a\u8c37.mp3",
+    "length": 3.096,
+    "label": "\u8db3\u901a\u8c37"
+  },
+  {
+    "wav": "../data/vad/6/Mo1J214L/\u5fc3\u4fde.mp3",
+    "length": 1.872,
+    "label": "\u5fc3\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u5fc3\u4fde.mp3",
+    "length": 1.728,
+    "label": "\u5fc3\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u5fc3\u4fde.mp3",
+    "length": 2.592,
+    "label": "\u5fc3\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MWWa8yBM/\u5fc3\u4fde.mp3",
+    "length": 1.152,
+    "label": "\u5fc3\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/Mo1ywxOL/\u80c6\u56ca.mp3",
+    "length": 2.16,
+    "label": "\u80c6\u56ca"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u80c6\u56ca.mp3",
+    "length": 2.664,
+    "label": "\u80c6\u56ca"
+  },
+  {
+    "wav": "../data/vad/1/MRDAK1DL/\u80c6\u56ca.mp3",
+    "length": 3.168,
+    "label": "\u80c6\u56ca"
+  },
+  {
+    "wav": "../data/vad/1/eP2a2AX7/\u80c6\u56ca.mp3",
+    "length": 1.728,
+    "label": "\u80c6\u56ca"
+  },
+  {
+    "wav": "../data/vad/8/MJnD5xdM/\u89e3\u6eaa.mp3",
+    "length": 1.908,
+    "label": "\u89e3\u6eaa"
+  },
+  {
+    "wav": "../data/vad/8/Lm9B4PxL/\u89e3\u6eaa.mp3",
+    "length": 3.924,
+    "label": "\u89e3\u6eaa"
+  },
+  {
+    "wav": "../data/vad/8/7Ypax0lM/\u89e3\u6eaa.mp3",
+    "length": 1.044,
+    "label": "\u89e3\u6eaa"
+  },
+  {
+    "wav": "../data/vad/4/M1KXGEDL/\u5408\u8c37.mp3",
+    "length": 2.628,
+    "label": "\u5408\u8c37"
+  },
+  {
+    "wav": "../data/vad/4/ev9Jy2VL/\u5408\u8c37.mp3",
+    "length": 2.412,
+    "label": "\u5408\u8c37"
+  },
+  {
+    "wav": "../data/vad/4/7KvaPWnM/\u5408\u8c37.mp3",
+    "length": 3.096,
+    "label": "\u5408\u8c37"
+  },
+  {
+    "wav": "../data/vad/4/M1KXGEDL/\u671f\u95e8.mp3",
+    "length": 3.276,
+    "label": "\u671f\u95e8"
+  },
+  {
+    "wav": "../data/vad/4/7BGD2VjL/\u671f\u95e8.mp3",
+    "length": 1.476,
+    "label": "\u671f\u95e8"
+  },
+  {
+    "wav": "../data/vad/4/e8YqPbWM/\u671f\u95e8.mp3",
+    "length": 1.908,
+    "label": "\u671f\u95e8"
+  },
+  {
+    "wav": "../data/vad/4/7aQp6Ap7/\u7ecf\u6e20.mp3",
+    "length": 2.988,
+    "label": "\u7ecf\u6e20"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u7ecf\u6e20.mp3",
+    "length": 2.772,
+    "label": "\u7ecf\u6e20"
+  },
+  {
+    "wav": "../data/vad/4/e3Bwk52L/\u7ecf\u6e20.mp3",
+    "length": 2.304,
+    "label": "\u7ecf\u6e20"
+  },
+  {
+    "wav": "../data/vad/4/7KvaRXlM/\u7ecf\u6e20.mp3",
+    "length": 2.412,
+    "label": "\u7ecf\u6e20"
+  },
+  {
+    "wav": "../data/vad/6/Mo1J214L/\u53a5\u9634\u4fde.mp3",
+    "length": 2.628,
+    "label": "\u53a5\u9634\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7aQpn867/\u53a5\u9634\u4fde.mp3",
+    "length": 2.412,
+    "label": "\u53a5\u9634\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7YpaQjZM/\u53a5\u9634\u4fde.mp3",
+    "length": 3.276,
+    "label": "\u53a5\u9634\u4fde"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u53a5\u9634\u4fde.mp3",
+    "length": 3.672,
+    "label": "\u53a5\u9634\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u53a5\u9634\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u53a5\u9634\u4fde"
+  },
+  {
+    "wav": "../data/vad/8/e8YqmxXM/\u53a5\u9634\u4fde.mp3",
+    "length": 1.26,
+    "label": "\u53a5\u9634\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u53a5\u9634\u4fde.mp3",
+    "length": 2.16,
+    "label": "\u53a5\u9634\u4fde"
+  },
+  {
+    "wav": "../data/vad/8/7j9J3zmM/\u53a5\u9634\u4fde.mp3",
+    "length": 2.664,
+    "label": "\u53a5\u9634\u4fde"
+  },
+  {
+    "wav": "../data/vad/8/LwPbKlne/\u5e93\u623f.mp3",
+    "length": 2.484,
+    "label": "\u5e93\u623f"
+  },
+  {
+    "wav": "../data/vad/8/LVJal4RL/\u5e93\u623f.mp3",
+    "length": 2.412,
+    "label": "\u5e93\u623f"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u5e93\u623f.mp3",
+    "length": 2.916,
+    "label": "\u5e93\u623f"
+  },
+  {
+    "wav": "../data/vad/4/7KvaRXlM/\u5217\u7f3a.mp3",
+    "length": 2.736,
+    "label": "\u5217\u7f3a"
+  },
+  {
+    "wav": "../data/vad/4/eNQ0kWqL/\u5217\u7f3a.mp3",
+    "length": 2.484,
+    "label": "\u5217\u7f3a"
+  },
+  {
+    "wav": "../data/vad/4/7XAPp8oL/\u5217\u7f3a.mp3",
+    "length": 2.988,
+    "label": "\u5217\u7f3a"
+  },
+  {
+    "wav": "../data/vad/5/7j9JPGOM/\u4e94\u67a2.mp3",
+    "length": 2.736,
+    "label": "\u4e94\u67a2"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJ6dM/\u4e94\u67a2.mp3",
+    "length": 2.412,
+    "label": "\u4e94\u67a2"
+  },
+  {
+    "wav": "../data/vad/5/Mx2mwRKL/\u4e94\u67a2.mp3",
+    "length": 1.368,
+    "label": "\u4e94\u67a2"
+  },
+  {
+    "wav": "../data/vad/5/M9Xgry4e/\u4e94\u67a2.mp3",
+    "length": 1.548,
+    "label": "\u4e94\u67a2"
+  },
+  {
+    "wav": "../data/vad/1/7BGdAAKL/\u5b9a\u5598.mp3",
+    "length": 3.096,
+    "label": "\u5b9a\u5598"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u5b9a\u5598.mp3",
+    "length": 2.916,
+    "label": "\u5b9a\u5598"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KQ1e/\u5b9a\u5598.mp3",
+    "length": 2.7,
+    "label": "\u5b9a\u5598"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KRDe/\u5b9a\u5598.mp3",
+    "length": 1.548,
+    "label": "\u5b9a\u5598"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4Xqe/\u5927\u9aa8\u7a7a.mp3",
+    "length": 3.168,
+    "label": "\u5927\u9aa8\u7a7a"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KRDe/\u5927\u9aa8\u7a7a.mp3",
+    "length": 1.8,
+    "label": "\u5927\u9aa8\u7a7a"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89QL/\u5927\u9aa8\u7a7a.mp3",
+    "length": 1.98,
+    "label": "\u5927\u9aa8\u7a7a"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u5927\u9aa8\u7a7a.mp3",
+    "length": 3.924,
+    "label": "\u5927\u9aa8\u7a7a"
+  },
+  {
+    "wav": "../data/vad/3/MDPDrxgM/\u7608\u8109.mp3",
+    "length": 2.16,
+    "label": "\u7608\u8109"
+  },
+  {
+    "wav": "../data/vad/3/7qXGz9gM/\u7608\u8109.mp3",
+    "length": 2.592,
+    "label": "\u7608\u8109"
+  },
+  {
+    "wav": "../data/vad/3/7XAPJBoL/\u7608\u8109.mp3",
+    "length": 2.052,
+    "label": "\u7608\u8109"
+  },
+  {
+    "wav": "../data/vad/6/MDPDx8gM/\u9634\u90fd.mp3",
+    "length": 2.988,
+    "label": "\u9634\u90fd"
+  },
+  {
+    "wav": "../data/vad/6/7aQpn867/\u9634\u90fd.mp3",
+    "length": 1.98,
+    "label": "\u9634\u90fd"
+  },
+  {
+    "wav": "../data/vad/6/e3BwAB2L/\u9634\u90fd.mp3",
+    "length": 2.844,
+    "label": "\u9634\u90fd"
+  },
+  {
+    "wav": "../data/vad/6/7Ypag6zM/\u9634\u90fd.mp3",
+    "length": 1.8,
+    "label": "\u9634\u90fd"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u60ac\u949f.mp3",
+    "length": 1.296,
+    "label": "\u60ac\u949f"
+  },
+  {
+    "wav": "../data/vad/5/M9Xgry4e/\u60ac\u949f.mp3",
+    "length": 1.476,
+    "label": "\u60ac\u949f"
+  },
+  {
+    "wav": "../data/vad/5/MgEpPO5L/\u60ac\u949f.mp3",
+    "length": 2.196,
+    "label": "\u60ac\u949f"
+  },
+  {
+    "wav": "../data/vad/6/MDPDx8gM/\u4e2d\u9ace.mp3",
+    "length": 2.736,
+    "label": "\u4e2d\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/en9Jg5WL/\u4e2d\u9ace.mp3",
+    "length": 1.548,
+    "label": "\u4e2d\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u4e2d\u9ace.mp3",
+    "length": 1.728,
+    "label": "\u4e2d\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/7aQpn867/\u4e2d\u9ace.mp3",
+    "length": 2.412,
+    "label": "\u4e2d\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u767d\u73af\u4fde.mp3",
+    "length": 2.484,
+    "label": "\u767d\u73af\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e4Bkq1x7/\u767d\u73af\u4fde.mp3",
+    "length": 2.592,
+    "label": "\u767d\u73af\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u767d\u73af\u4fde.mp3",
+    "length": 1.728,
+    "label": "\u767d\u73af\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MRDabVQL/\u767d\u73af\u4fde.mp3",
+    "length": 1.296,
+    "label": "\u767d\u73af\u4fde"
+  },
+  {
+    "wav": "../data/vad/7/e4BkZN17/\u80de\u8093.mp3",
+    "length": 1.98,
+    "label": "\u80de\u8093"
+  },
+  {
+    "wav": "../data/vad/7/7lOK0l4M/\u80de\u8093.mp3",
+    "length": 3.492,
+    "label": "\u80de\u8093"
+  },
+  {
+    "wav": "../data/vad/7/ekqNl0Q7/\u80de\u8093.mp3",
+    "length": 3.564,
+    "label": "\u80de\u8093"
+  },
+  {
+    "wav": "../data/vad/6/MdPA1y6M/\u775b\u660e.mp3",
+    "length": 1.656,
+    "label": "\u775b\u660e"
+  },
+  {
+    "wav": "../data/vad/6/LwPbDA9e/\u775b\u660e.mp3",
+    "length": 1.98,
+    "label": "\u775b\u660e"
+  },
+  {
+    "wav": "../data/vad/6/7BGDmYZL/\u775b\u660e.mp3",
+    "length": 2.16,
+    "label": "\u775b\u660e"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u775b\u660e.mp3",
+    "length": 1.656,
+    "label": "\u775b\u660e"
+  },
+  {
+    "wav": "../data/vad/3/M1KXryDL/\u5929\u4e95.mp3",
+    "length": 2.736,
+    "label": "\u5929\u4e95"
+  },
+  {
+    "wav": "../data/vad/3/MWWa5zGM/\u5929\u4e95.mp3",
+    "length": 1.8,
+    "label": "\u5929\u4e95"
+  },
+  {
+    "wav": "../data/vad/3/MJnDYn3M/\u5929\u4e95.mp3",
+    "length": 1.62,
+    "label": "\u5929\u4e95"
+  },
+  {
+    "wav": "../data/vad/4/e3Bwk52L/\u4e0a\u5173.mp3",
+    "length": 2.16,
+    "label": "\u4e0a\u5173"
+  },
+  {
+    "wav": "../data/vad/4/MWWavVyM/\u4e0a\u5173.mp3",
+    "length": 2.232,
+    "label": "\u4e0a\u5173"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u4e0a\u5173.mp3",
+    "length": 1.728,
+    "label": "\u4e0a\u5173"
+  },
+  {
+    "wav": "../data/vad/5/7YpaNdwM/\u8db3\u7a8d\u9634.mp3",
+    "length": 3.276,
+    "label": "\u8db3\u7a8d\u9634"
+  },
+  {
+    "wav": "../data/vad/5/LwPb8Zpe/\u8db3\u7a8d\u9634.mp3",
+    "length": 2.16,
+    "label": "\u8db3\u7a8d\u9634"
+  },
+  {
+    "wav": "../data/vad/5/7j9JPGOM/\u8db3\u7a8d\u9634.mp3",
+    "length": 2.844,
+    "label": "\u8db3\u7a8d\u9634"
+  },
+  {
+    "wav": "../data/vad/4/7AxD14QM/\u5de8\u9aa8.mp3",
+    "length": 2.592,
+    "label": "\u5de8\u9aa8"
+  },
+  {
+    "wav": "../data/vad/4/MWWavjGM/\u5de8\u9aa8.mp3",
+    "length": 2.304,
+    "label": "\u5de8\u9aa8"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u5de8\u9aa8.mp3",
+    "length": 2.196,
+    "label": "\u5de8\u9aa8"
+  },
+  {
+    "wav": "../data/vad/4/LVJad4pL/\u5de8\u9aa8.mp3",
+    "length": 1.8,
+    "label": "\u5de8\u9aa8"
+  },
+  {
+    "wav": "../data/vad/2/Lm9kYXAL/\u8eab\u67f1.mp3",
+    "length": 2.664,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/6/MRDa6dxL/\u8eab\u67f1.mp3",
+    "length": 1.98,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/6/Mx2mzO9L/\u8eab\u67f1.mp3",
+    "length": 2.16,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u8eab\u67f1.mp3",
+    "length": 2.304,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/4/LwPb5zpe/\u8eab\u67f1.mp3",
+    "length": 1.044,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u8eab\u67f1.mp3",
+    "length": 1.476,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/6/7YpagbzM/\u8eab\u67f1.mp3",
+    "length": 2.592,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAd9L/\u8eab\u67f1.mp3",
+    "length": 1.728,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u8eab\u67f1.mp3",
+    "length": 1.548,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/2/epDJYW3e/\u8eab\u67f1.mp3",
+    "length": 2.988,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/6/7aQpn867/\u8eab\u67f1.mp3",
+    "length": 2.052,
+    "label": "\u8eab\u67f1"
+  },
+  {
+    "wav": "../data/vad/4/7Ypa1mzM/\u66f2\u6cc9.mp3",
+    "length": 2.7,
+    "label": "\u66f2\u6cc9"
+  },
+  {
+    "wav": "../data/vad/4/e3Bwk52L/\u66f2\u6cc9.mp3",
+    "length": 1.908,
+    "label": "\u66f2\u6cc9"
+  },
+  {
+    "wav": "../data/vad/4/7BGD2VjL/\u66f2\u6cc9.mp3",
+    "length": 1.98,
+    "label": "\u66f2\u6cc9"
+  },
+  {
+    "wav": "../data/vad/2/7Ypa5RaM/\u4e2d\u67a2.mp3",
+    "length": 2.052,
+    "label": "\u4e2d\u67a2"
+  },
+  {
+    "wav": "../data/vad/2/Mx2mP3rL/\u4e2d\u67a2.mp3",
+    "length": 2.16,
+    "label": "\u4e2d\u67a2"
+  },
+  {
+    "wav": "../data/vad/2/7KvA53PM/\u4e2d\u67a2.mp3",
+    "length": 2.844,
+    "label": "\u4e2d\u67a2"
+  },
+  {
+    "wav": "../data/vad/2/MgEpgr8L/\u4e2d\u67a2.mp3",
+    "length": 3.096,
+    "label": "\u4e2d\u67a2"
+  },
+  {
+    "wav": "../data/vad/8/7AxDyrDM/\u5389\u5151.mp3",
+    "length": 1.908,
+    "label": "\u5389\u5151"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u5389\u5151.mp3",
+    "length": 2.844,
+    "label": "\u5389\u5151"
+  },
+  {
+    "wav": "../data/vad/8/M1KXk9nL/\u5389\u5151.mp3",
+    "length": 2.304,
+    "label": "\u5389\u5151"
+  },
+  {
+    "wav": "../data/vad/8/7AxD9mDM/\u5389\u5151.mp3",
+    "length": 3.528,
+    "label": "\u5389\u5151"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u5e26\u8109.mp3",
+    "length": 1.98,
+    "label": "\u5e26\u8109"
+  },
+  {
+    "wav": "../data/vad/5/7AxDkVDM/\u5e26\u8109.mp3",
+    "length": 1.8,
+    "label": "\u5e26\u8109"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u5e26\u8109.mp3",
+    "length": 1.8,
+    "label": "\u5e26\u8109"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aDJA7/\u5e26\u8109.mp3",
+    "length": 1.296,
+    "label": "\u5e26\u8109"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4w2e/\u9888\u767e\u52b3.mp3",
+    "length": 2.484,
+    "label": "\u9888\u767e\u52b3"
+  },
+  {
+    "wav": "../data/vad/1/7XA0Kz8L/\u9888\u767e\u52b3.mp3",
+    "length": 2.736,
+    "label": "\u9888\u767e\u52b3"
+  },
+  {
+    "wav": "../data/vad/1/Mo1ywaKL/\u9888\u767e\u52b3.mp3",
+    "length": 1.656,
+    "label": "\u9888\u767e\u52b3"
+  },
+  {
+    "wav": "../data/vad/1/eyP6Z9vL/\u9888\u767e\u52b3.mp3",
+    "length": 2.592,
+    "label": "\u9888\u767e\u52b3"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vRnL/\u9888\u767e\u52b3.mp3",
+    "length": 2.052,
+    "label": "\u9888\u767e\u52b3"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u9888\u767e\u52b3.mp3",
+    "length": 2.412,
+    "label": "\u9888\u767e\u52b3"
+  },
+  {
+    "wav": "../data/vad/1/M6BKxE0M/\u9888\u767e\u52b3.mp3",
+    "length": 3.096,
+    "label": "\u9888\u767e\u52b3"
+  },
+  {
+    "wav": "../data/vad/5/M28rNalL/\u60ac\u5398.mp3",
+    "length": 3.096,
+    "label": "\u60ac\u5398"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u60ac\u5398.mp3",
+    "length": 2.664,
+    "label": "\u60ac\u5398"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BPmzL/\u60ac\u5398.mp3",
+    "length": 1.908,
+    "label": "\u60ac\u5398"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u60ac\u5398.mp3",
+    "length": 2.304,
+    "label": "\u60ac\u5398"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u9690\u767d.mp3",
+    "length": 3.348,
+    "label": "\u9690\u767d"
+  },
+  {
+    "wav": "../data/vad/8/e3Bwb92L/\u9690\u767d.mp3",
+    "length": 3.168,
+    "label": "\u9690\u767d"
+  },
+  {
+    "wav": "../data/vad/8/epDJK28e/\u9690\u767d.mp3",
+    "length": 3.672,
+    "label": "\u9690\u767d"
+  },
+  {
+    "wav": "../data/vad/8/MgEpQ85L/\u6d6e\u90c4.mp3",
+    "length": 1.8,
+    "label": "\u6d6e\u90c4"
+  },
+  {
+    "wav": "../data/vad/8/LwPbKlne/\u6d6e\u90c4.mp3",
+    "length": 2.34,
+    "label": "\u6d6e\u90c4"
+  },
+  {
+    "wav": "../data/vad/8/eEKD23J7/\u6d6e\u90c4.mp3",
+    "length": 2.052,
+    "label": "\u6d6e\u90c4"
+  },
+  {
+    "wav": "../data/vad/8/MDPDgQoM/\u6d6e\u90c4.mp3",
+    "length": 2.232,
+    "label": "\u6d6e\u90c4"
+  },
+  {
+    "wav": "../data/vad/8/MdPArymM/\u6d6e\u90c4.mp3",
+    "length": 2.988,
+    "label": "\u6d6e\u90c4"
+  },
+  {
+    "wav": "../data/vad/8/MJnD5xdM/\u6d6e\u90c4.mp3",
+    "length": 2.304,
+    "label": "\u6d6e\u90c4"
+  },
+  {
+    "wav": "../data/vad/8/7AxD9mDM/\u6d6e\u90c4.mp3",
+    "length": 3.348,
+    "label": "\u6d6e\u90c4"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u8f84\u7b4b.mp3",
+    "length": 1.476,
+    "label": "\u8f84\u7b4b"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u8f84\u7b4b.mp3",
+    "length": 2.484,
+    "label": "\u8f84\u7b4b"
+  },
+  {
+    "wav": "../data/vad/5/eP2a4wN7/\u8f84\u7b4b.mp3",
+    "length": 3.672,
+    "label": "\u8f84\u7b4b"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vDbL/\u8f84\u7b4b.mp3",
+    "length": 1.98,
+    "label": "\u8f84\u7b4b"
+  },
+  {
+    "wav": "../data/vad/5/7YpaNdwM/\u8f84\u7b4b.mp3",
+    "length": 3.528,
+    "label": "\u8f84\u7b4b"
+  },
+  {
+    "wav": "../data/vad/7/7lOK0l4M/\u8f84\u7b4b.mp3",
+    "length": 2.448,
+    "label": "\u8f84\u7b4b"
+  },
+  {
+    "wav": "../data/vad/5/7aQpnXV7/\u8f84\u7b4b.mp3",
+    "length": 1.296,
+    "label": "\u8f84\u7b4b"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u8f84\u7b4b.mp3",
+    "length": 2.052,
+    "label": "\u8f84\u7b4b"
+  },
+  {
+    "wav": "../data/vad/3/M6BywBBM/\u80a9\u8d1e.mp3",
+    "length": 1.656,
+    "label": "\u80a9\u8d1e"
+  },
+  {
+    "wav": "../data/vad/3/MJnDYn3M/\u80a9\u8d1e.mp3",
+    "length": 3.312,
+    "label": "\u80a9\u8d1e"
+  },
+  {
+    "wav": "../data/vad/3/LVJaoPZL/\u80a9\u8d1e.mp3",
+    "length": 2.412,
+    "label": "\u80a9\u8d1e"
+  },
+  {
+    "wav": "../data/vad/4/LVJadYaL/\u66f2\u6c60.mp3",
+    "length": 1.908,
+    "label": "\u66f2\u6c60"
+  },
+  {
+    "wav": "../data/vad/4/7KvaPWnM/\u66f2\u6c60.mp3",
+    "length": 3.276,
+    "label": "\u66f2\u6c60"
+  },
+  {
+    "wav": "../data/vad/4/MWWavjGM/\u66f2\u6c60.mp3",
+    "length": 2.304,
+    "label": "\u66f2\u6c60"
+  },
+  {
+    "wav": "../data/vad/4/e3Bwk52L/\u9633\u6eaa.mp3",
+    "length": 2.304,
+    "label": "\u9633\u6eaa"
+  },
+  {
+    "wav": "../data/vad/4/epDJzX8e/\u9633\u6eaa.mp3",
+    "length": 1.8,
+    "label": "\u9633\u6eaa"
+  },
+  {
+    "wav": "../data/vad/4/M6ByNaVM/\u9633\u6eaa.mp3",
+    "length": 2.592,
+    "label": "\u9633\u6eaa"
+  },
+  {
+    "wav": "../data/vad/6/MWWa8yBM/\u4e94\u5904.mp3",
+    "length": 1.26,
+    "label": "\u4e94\u5904"
+  },
+  {
+    "wav": "../data/vad/6/LVJarjzL/\u4e94\u5904.mp3",
+    "length": 1.8,
+    "label": "\u4e94\u5904"
+  },
+  {
+    "wav": "../data/vad/6/7Ypag6zM/\u4e94\u5904.mp3",
+    "length": 1.98,
+    "label": "\u4e94\u5904"
+  },
+  {
+    "wav": "../data/vad/6/Lz91l237/\u4e94\u5904.mp3",
+    "length": 2.232,
+    "label": "\u4e94\u5904"
+  },
+  {
+    "wav": "../data/vad/4/e3Bwk52L/\u81c2\u81d1.mp3",
+    "length": 2.052,
+    "label": "\u81c2\u81d1"
+  },
+  {
+    "wav": "../data/vad/7/M6By2WVM/\u81c2\u81d1.mp3",
+    "length": 2.376,
+    "label": "\u81c2\u81d1"
+  },
+  {
+    "wav": "../data/vad/7/MJnDjkBM/\u81c2\u81d1.mp3",
+    "length": 1.692,
+    "label": "\u81c2\u81d1"
+  },
+  {
+    "wav": "../data/vad/4/ebqD5pkL/\u81c2\u81d1.mp3",
+    "length": 2.664,
+    "label": "\u81c2\u81d1"
+  },
+  {
+    "wav": "../data/vad/4/7AxDZGAM/\u81c2\u81d1.mp3",
+    "length": 1.98,
+    "label": "\u81c2\u81d1"
+  },
+  {
+    "wav": "../data/vad/7/7j9JKOKM/\u81c2\u81d1.mp3",
+    "length": 2.268,
+    "label": "\u81c2\u81d1"
+  },
+  {
+    "wav": "../data/vad/4/7XAPpVoL/\u81c2\u81d1.mp3",
+    "length": 3.528,
+    "label": "\u81c2\u81d1"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aDJA7/\u6b63\u8425.mp3",
+    "length": 1.368,
+    "label": "\u6b63\u8425"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BP0zL/\u6b63\u8425.mp3",
+    "length": 3.168,
+    "label": "\u6b63\u8425"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u6b63\u8425.mp3",
+    "length": 1.116,
+    "label": "\u6b63\u8425"
+  },
+  {
+    "wav": "../data/vad/5/MdPA25AM/\u6b63\u8425.mp3",
+    "length": 1.98,
+    "label": "\u6b63\u8425"
+  },
+  {
+    "wav": "../data/vad/7/MRDalnQL/\u627f\u6276.mp3",
+    "length": 1.98,
+    "label": "\u627f\u6276"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0BPM/\u627f\u6276.mp3",
+    "length": 0.936,
+    "label": "\u627f\u6276"
+  },
+  {
+    "wav": "../data/vad/7/7j9JKOKM/\u627f\u6276.mp3",
+    "length": 2.448,
+    "label": "\u627f\u6276"
+  },
+  {
+    "wav": "../data/vad/7/e4BkZN17/\u98a7\u9ace.mp3",
+    "length": 2.052,
+    "label": "\u98a7\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/MWWavVyM/\u98a7\u9ace.mp3",
+    "length": 2.916,
+    "label": "\u98a7\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/7AxD14QM/\u98a7\u9ace.mp3",
+    "length": 3.096,
+    "label": "\u98a7\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/7BGD2VjL/\u98a7\u9ace.mp3",
+    "length": 2.304,
+    "label": "\u98a7\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2GxL/\u98a7\u9ace.mp3",
+    "length": 4.032,
+    "label": "\u98a7\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/en9JxaAL/\u98a7\u9ace.mp3",
+    "length": 3.672,
+    "label": "\u98a7\u9ace"
+  },
+  {
+    "wav": "../data/vad/7/MJnDjkBM/\u98a7\u9ace.mp3",
+    "length": 2.16,
+    "label": "\u98a7\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/Mx2mjP0L/\u77b3\u5b50\u9ace.mp3",
+    "length": 2.484,
+    "label": "\u77b3\u5b50\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2ZKL/\u77b3\u5b50\u9ace.mp3",
+    "length": 2.916,
+    "label": "\u77b3\u5b50\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u77b3\u5b50\u9ace.mp3",
+    "length": 2.16,
+    "label": "\u77b3\u5b50\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/MZqpGnye/\u624b\u4e09\u91cc.mp3",
+    "length": 2.448,
+    "label": "\u624b\u4e09\u91cc"
+  },
+  {
+    "wav": "../data/vad/4/7KvaPWnM/\u624b\u4e09\u91cc.mp3",
+    "length": 2.988,
+    "label": "\u624b\u4e09\u91cc"
+  },
+  {
+    "wav": "../data/vad/4/LwPb5zpe/\u624b\u4e09\u91cc.mp3",
+    "length": 1.08,
+    "label": "\u624b\u4e09\u91cc"
+  },
+  {
+    "wav": "../data/vad/3/en9JDnAL/\u5185\u819d\u773c.mp3",
+    "length": 2.844,
+    "label": "\u5185\u819d\u773c"
+  },
+  {
+    "wav": "../data/vad/3/Lm9B04OL/\u5185\u819d\u773c.mp3",
+    "length": 2.844,
+    "label": "\u5185\u819d\u773c"
+  },
+  {
+    "wav": "../data/vad/3/Lm9BoaAL/\u5185\u819d\u773c.mp3",
+    "length": 1.836,
+    "label": "\u5185\u819d\u773c"
+  },
+  {
+    "wav": "../data/vad/3/7KvaxvYM/\u5185\u819d\u773c.mp3",
+    "length": 3.348,
+    "label": "\u5185\u819d\u773c"
+  },
+  {
+    "wav": "../data/vad/3/7XAP6QBL/\u5185\u819d\u773c.mp3",
+    "length": 1.656,
+    "label": "\u5185\u819d\u773c"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u5185\u819d\u773c.mp3",
+    "length": 2.988,
+    "label": "\u5185\u819d\u773c"
+  },
+  {
+    "wav": "../data/vad/1/eyP6Z9vL/\u5185\u819d\u773c.mp3",
+    "length": 2.736,
+    "label": "\u5185\u819d\u773c"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JYWOL/\u51b2\u9633.mp3",
+    "length": 1.908,
+    "label": "\u51b2\u9633"
+  },
+  {
+    "wav": "../data/vad/8/MdPArymM/\u51b2\u9633.mp3",
+    "length": 3.528,
+    "label": "\u51b2\u9633"
+  },
+  {
+    "wav": "../data/vad/8/MJnD5xdM/\u51b2\u9633.mp3",
+    "length": 1.908,
+    "label": "\u51b2\u9633"
+  },
+  {
+    "wav": "../data/vad/5/M9Xgry4e/\u5149\u660e.mp3",
+    "length": 1.8,
+    "label": "\u5149\u660e"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u5149\u660e.mp3",
+    "length": 1.368,
+    "label": "\u5149\u660e"
+  },
+  {
+    "wav": "../data/vad/5/MdPA25AM/\u5149\u660e.mp3",
+    "length": 1.476,
+    "label": "\u5149\u660e"
+  },
+  {
+    "wav": "../data/vad/8/LOyDGJpM/\u7b95\u95e8.mp3",
+    "length": 1.728,
+    "label": "\u7b95\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JaKOL/\u7b95\u95e8.mp3",
+    "length": 1.224,
+    "label": "\u7b95\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/Mo1Jl56L/\u7b95\u95e8.mp3",
+    "length": 1.728,
+    "label": "\u7b95\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/LQ8alv47/\u7b95\u95e8.mp3",
+    "length": 2.304,
+    "label": "\u7b95\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/7XAPqmdL/\u7b95\u95e8.mp3",
+    "length": 1.548,
+    "label": "\u7b95\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/L0mYZADe/\u7b95\u95e8.mp3",
+    "length": 2.304,
+    "label": "\u7b95\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/MJnD5xdM/\u7b95\u95e8.mp3",
+    "length": 1.98,
+    "label": "\u7b95\u95e8"
+  },
+  {
+    "wav": "../data/vad/5/MWWa3WbM/\u80c3\u8118\u4e0b\u4fde.mp3",
+    "length": 2.916,
+    "label": "\u80c3\u8118\u4e0b\u4fde"
+  },
+  {
+    "wav": "../data/vad/5/M28rNalL/\u80c3\u8118\u4e0b\u4fde.mp3",
+    "length": 3.456,
+    "label": "\u80c3\u8118\u4e0b\u4fde"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u80c3\u8118\u4e0b\u4fde.mp3",
+    "length": 1.728,
+    "label": "\u80c3\u8118\u4e0b\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u80c3\u8118\u4e0b\u4fde.mp3",
+    "length": 3.42,
+    "label": "\u80c3\u8118\u4e0b\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/7BGdAAKL/\u80c3\u8118\u4e0b\u4fde.mp3",
+    "length": 2.844,
+    "label": "\u80c3\u8118\u4e0b\u4fde"
+  },
+  {
+    "wav": "../data/vad/5/M9Xgry4e/\u80c3\u8118\u4e0b\u4fde.mp3",
+    "length": 1.908,
+    "label": "\u80c3\u8118\u4e0b\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u80c3\u8118\u4e0b\u4fde.mp3",
+    "length": 2.808,
+    "label": "\u80c3\u8118\u4e0b\u4fde"
+  },
+  {
+    "wav": "../data/vad/4/MZqpGnye/\u624b\u4e94\u91cc.mp3",
+    "length": 2.772,
+    "label": "\u624b\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/4/en9JxaAL/\u624b\u4e94\u91cc.mp3",
+    "length": 3.672,
+    "label": "\u624b\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/4/7Ypa1mzM/\u624b\u4e94\u91cc.mp3",
+    "length": 3.24,
+    "label": "\u624b\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/2/MdPAkB6M/\u5929\u6cc9.mp3",
+    "length": 1.368,
+    "label": "\u5929\u6cc9"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykrRL/\u5929\u6cc9.mp3",
+    "length": 1.98,
+    "label": "\u5929\u6cc9"
+  },
+  {
+    "wav": "../data/vad/2/eNQ0n8bL/\u5929\u6cc9.mp3",
+    "length": 2.412,
+    "label": "\u5929\u6cc9"
+  },
+  {
+    "wav": "../data/vad/2/7Ypa5RaM/\u5929\u6cc9.mp3",
+    "length": 1.728,
+    "label": "\u5929\u6cc9"
+  },
+  {
+    "wav": "../data/vad/6/7BGDmYZL/\u8db3\u4e94\u91cc.mp3",
+    "length": 3.168,
+    "label": "\u8db3\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqDgL/\u8db3\u4e94\u91cc.mp3",
+    "length": 2.592,
+    "label": "\u8db3\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u8db3\u4e94\u91cc.mp3",
+    "length": 3.672,
+    "label": "\u8db3\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/6/M28rAj8L/\u8db3\u4e94\u91cc.mp3",
+    "length": 2.664,
+    "label": "\u8db3\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/6/7qXGdDlM/\u8db3\u4e94\u91cc.mp3",
+    "length": 4.032,
+    "label": "\u8db3\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/4/7lOKNlgM/\u8db3\u4e94\u91cc.mp3",
+    "length": 2.664,
+    "label": "\u8db3\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u8db3\u4e94\u91cc.mp3",
+    "length": 1.98,
+    "label": "\u8db3\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/4/7KvaPWnM/\u8db3\u4e94\u91cc.mp3",
+    "length": 3.096,
+    "label": "\u8db3\u4e94\u91cc"
+  },
+  {
+    "wav": "../data/vad/5/LVJa6WpL/\u9633\u8f85.mp3",
+    "length": 2.304,
+    "label": "\u9633\u8f85"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u9633\u8f85.mp3",
+    "length": 1.8,
+    "label": "\u9633\u8f85"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u9633\u8f85.mp3",
+    "length": 1.476,
+    "label": "\u9633\u8f85"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JaKOL/\u627f\u6ee1.mp3",
+    "length": 1.368,
+    "label": "\u627f\u6ee1"
+  },
+  {
+    "wav": "../data/vad/8/eP2aNk97/\u627f\u6ee1.mp3",
+    "length": 2.664,
+    "label": "\u627f\u6ee1"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JY8OL/\u627f\u6ee1.mp3",
+    "length": 2.16,
+    "label": "\u627f\u6ee1"
+  },
+  {
+    "wav": "../data/vad/2/MgEpgr8L/\u66f2\u9aa8.mp3",
+    "length": 3.204,
+    "label": "\u66f2\u9aa8"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAqEL/\u66f2\u9aa8.mp3",
+    "length": 1.548,
+    "label": "\u66f2\u9aa8"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u66f2\u9aa8.mp3",
+    "length": 1.692,
+    "label": "\u66f2\u9aa8"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mmzL/\u66f2\u9aa8.mp3",
+    "length": 3.528,
+    "label": "\u66f2\u9aa8"
+  },
+  {
+    "wav": "../data/vad/6/Lz91l237/\u66f2\u9aa8.mp3",
+    "length": 2.484,
+    "label": "\u66f2\u9aa8"
+  },
+  {
+    "wav": "../data/vad/2/Mx2mP3rL/\u66f2\u9aa8.mp3",
+    "length": 1.296,
+    "label": "\u66f2\u9aa8"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u66f2\u9aa8.mp3",
+    "length": 2.232,
+    "label": "\u66f2\u9aa8"
+  },
+  {
+    "wav": "../data/vad/8/LVJal4RL/\u6c14\u820d.mp3",
+    "length": 2.736,
+    "label": "\u6c14\u820d"
+  },
+  {
+    "wav": "../data/vad/8/eP2aNk97/\u6c14\u820d.mp3",
+    "length": 1.908,
+    "label": "\u6c14\u820d"
+  },
+  {
+    "wav": "../data/vad/8/MgEpQ85L/\u6c14\u820d.mp3",
+    "length": 1.8,
+    "label": "\u6c14\u820d"
+  },
+  {
+    "wav": "../data/vad/8/7Ypax0lM/\u70e7\u9b3c\u773c.mp3",
+    "length": 1.764,
+    "label": "\u70e7\u9b3c\u773c"
+  },
+  {
+    "wav": "../data/vad/8/LVJa3qpL/\u70e7\u9b3c\u773c.mp3",
+    "length": 2.736,
+    "label": "\u70e7\u9b3c\u773c"
+  },
+  {
+    "wav": "../data/vad/8/7j9J3zmM/\u70e7\u9b3c\u773c.mp3",
+    "length": 2.736,
+    "label": "\u70e7\u9b3c\u773c"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u8170\u773c.mp3",
+    "length": 4.032,
+    "label": "\u8170\u773c"
+  },
+  {
+    "wav": "../data/vad/1/M28PmDAL/\u8170\u773c.mp3",
+    "length": 3.276,
+    "label": "\u8170\u773c"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89QL/\u8170\u773c.mp3",
+    "length": 1.656,
+    "label": "\u8170\u773c"
+  },
+  {
+    "wav": "../data/vad/1/7BGdAAKL/\u8170\u773c.mp3",
+    "length": 3.852,
+    "label": "\u8170\u773c"
+  },
+  {
+    "wav": "../data/vad/7/Mr5JKNEe/\u5fd7\u5ba4.mp3",
+    "length": 3.852,
+    "label": "\u5fd7\u5ba4"
+  },
+  {
+    "wav": "../data/vad/7/e4BkqO17/\u5fd7\u5ba4.mp3",
+    "length": 1.728,
+    "label": "\u5fd7\u5ba4"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0VnM/\u5fd7\u5ba4.mp3",
+    "length": 2.304,
+    "label": "\u5fd7\u5ba4"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BPmzL/\u7ef4\u9053.mp3",
+    "length": 2.232,
+    "label": "\u7ef4\u9053"
+  },
+  {
+    "wav": "../data/vad/5/7aQpGnN7/\u7ef4\u9053.mp3",
+    "length": 2.052,
+    "label": "\u7ef4\u9053"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u7ef4\u9053.mp3",
+    "length": 1.368,
+    "label": "\u7ef4\u9053"
+  },
+  {
+    "wav": "../data/vad/5/eNQ05AJL/\u7ef4\u9053.mp3",
+    "length": 1.656,
+    "label": "\u7ef4\u9053"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u5f67\u4e2d.mp3",
+    "length": 2.484,
+    "label": "\u5f67\u4e2d"
+  },
+  {
+    "wav": "../data/vad/6/7qXGdDlM/\u5f67\u4e2d.mp3",
+    "length": 3.06,
+    "label": "\u5f67\u4e2d"
+  },
+  {
+    "wav": "../data/vad/6/epDJ4D8e/\u5f67\u4e2d.mp3",
+    "length": 2.304,
+    "label": "\u5f67\u4e2d"
+  },
+  {
+    "wav": "../data/vad/6/eEKDAR97/\u5f67\u4e2d.mp3",
+    "length": 2.988,
+    "label": "\u5f67\u4e2d"
+  },
+  {
+    "wav": "../data/vad/4/LVJad4pL/\u60ac\u9885.mp3",
+    "length": 1.476,
+    "label": "\u60ac\u9885"
+  },
+  {
+    "wav": "../data/vad/4/MJnDRQdM/\u60ac\u9885.mp3",
+    "length": 1.728,
+    "label": "\u60ac\u9885"
+  },
+  {
+    "wav": "../data/vad/4/M28rkaAL/\u60ac\u9885.mp3",
+    "length": 3.096,
+    "label": "\u60ac\u9885"
+  },
+  {
+    "wav": "../data/vad/2/MdP0NwzM/\u8111\u6237.mp3",
+    "length": 1.368,
+    "label": "\u8111\u6237"
+  },
+  {
+    "wav": "../data/vad/2/7Ypa5RaM/\u8111\u6237.mp3",
+    "length": 1.908,
+    "label": "\u8111\u6237"
+  },
+  {
+    "wav": "../data/vad/2/MgEpgr8L/\u8111\u6237.mp3",
+    "length": 3.132,
+    "label": "\u8111\u6237"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u8111\u6237.mp3",
+    "length": 2.268,
+    "label": "\u8111\u6237"
+  },
+  {
+    "wav": "../data/vad/2/MgEpgr8L/\u795e\u9053.mp3",
+    "length": 3.132,
+    "label": "\u795e\u9053"
+  },
+  {
+    "wav": "../data/vad/2/eyPpA59L/\u795e\u9053.mp3",
+    "length": 2.664,
+    "label": "\u795e\u9053"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgXO7/\u795e\u9053.mp3",
+    "length": 3.528,
+    "label": "\u795e\u9053"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgqZ7/\u795e\u9053.mp3",
+    "length": 2.664,
+    "label": "\u795e\u9053"
+  },
+  {
+    "wav": "../data/vad/6/e4Bkq1x7/\u5927\u80a0\u4fde.mp3",
+    "length": 2.232,
+    "label": "\u5927\u80a0\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MWWa8yBM/\u5927\u80a0\u4fde.mp3",
+    "length": 1.296,
+    "label": "\u5927\u80a0\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/Mr5JnxBe/\u5927\u80a0\u4fde.mp3",
+    "length": 2.412,
+    "label": "\u5927\u80a0\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MdPA1y6M/\u5927\u80a0\u4fde.mp3",
+    "length": 1.476,
+    "label": "\u5927\u80a0\u4fde"
+  },
+  {
+    "wav": "../data/vad/4/LVJad4pL/\u592a\u51b2.mp3",
+    "length": 1.332,
+    "label": "\u592a\u51b2"
+  },
+  {
+    "wav": "../data/vad/4/7AxDZGAM/\u592a\u51b2.mp3",
+    "length": 2.052,
+    "label": "\u592a\u51b2"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2GxL/\u592a\u51b2.mp3",
+    "length": 2.736,
+    "label": "\u592a\u51b2"
+  },
+  {
+    "wav": "../data/vad/8/7KvaodnM/\u5185\u5ead.mp3",
+    "length": 2.304,
+    "label": "\u5185\u5ead"
+  },
+  {
+    "wav": "../data/vad/8/7AxDyrDM/\u5185\u5ead.mp3",
+    "length": 2.232,
+    "label": "\u5185\u5ead"
+  },
+  {
+    "wav": "../data/vad/8/7j9JlrnM/\u5185\u5ead.mp3",
+    "length": 2.592,
+    "label": "\u5185\u5ead"
+  },
+  {
+    "wav": "../data/vad/2/MDPdk0lM/\u7b4b\u7f29.mp3",
+    "length": 1.8,
+    "label": "\u7b4b\u7f29"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u7b4b\u7f29.mp3",
+    "length": 2.484,
+    "label": "\u7b4b\u7f29"
+  },
+  {
+    "wav": "../data/vad/2/ev9Jn0AL/\u7b4b\u7f29.mp3",
+    "length": 2.916,
+    "label": "\u7b4b\u7f29"
+  },
+  {
+    "wav": "../data/vad/2/e3BxnlbL/\u7b4b\u7f29.mp3",
+    "length": 3.6,
+    "label": "\u7b4b\u7f29"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u9837\u538c.mp3",
+    "length": 2.592,
+    "label": "\u9837\u538c"
+  },
+  {
+    "wav": "../data/vad/4/ebqD5pkL/\u9837\u538c.mp3",
+    "length": 2.988,
+    "label": "\u9837\u538c"
+  },
+  {
+    "wav": "../data/vad/4/M6ByNaVM/\u9837\u538c.mp3",
+    "length": 1.908,
+    "label": "\u9837\u538c"
+  },
+  {
+    "wav": "../data/vad/2/MdPAkB6M/\u7389\u5802.mp3",
+    "length": 1.728,
+    "label": "\u7389\u5802"
+  },
+  {
+    "wav": "../data/vad/2/e3BwdqRL/\u7389\u5802.mp3",
+    "length": 2.736,
+    "label": "\u7389\u5802"
+  },
+  {
+    "wav": "../data/vad/2/ekqrB1Y7/\u7389\u5802.mp3",
+    "length": 1.476,
+    "label": "\u7389\u5802"
+  },
+  {
+    "wav": "../data/vad/2/ekqN94A7/\u7389\u5802.mp3",
+    "length": 1.044,
+    "label": "\u7389\u5802"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u9633\u767d.mp3",
+    "length": 2.844,
+    "label": "\u9633\u767d"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BPmzL/\u9633\u767d.mp3",
+    "length": 1.8,
+    "label": "\u9633\u767d"
+  },
+  {
+    "wav": "../data/vad/5/MZqpNkDe/\u9633\u767d.mp3",
+    "length": 0.972,
+    "label": "\u9633\u767d"
+  },
+  {
+    "wav": "../data/vad/5/7AxDkVDM/\u9633\u767d.mp3",
+    "length": 1.908,
+    "label": "\u9633\u767d"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0BPM/\u9b42\u95e8.mp3",
+    "length": 0.864,
+    "label": "\u9b42\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/eNQ06mgL/\u9b42\u95e8.mp3",
+    "length": 1.908,
+    "label": "\u9b42\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/e4BkqO17/\u9b42\u95e8.mp3",
+    "length": 1.656,
+    "label": "\u9b42\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/Lz91l237/\u80ba\u4fde.mp3",
+    "length": 2.484,
+    "label": "\u80ba\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/Mx2mzO9L/\u80ba\u4fde.mp3",
+    "length": 2.232,
+    "label": "\u80ba\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7BGDOjKL/\u80ba\u4fde.mp3",
+    "length": 3.024,
+    "label": "\u80ba\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e4Bkq1x7/\u80ba\u4fde.mp3",
+    "length": 2.484,
+    "label": "\u80ba\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/MJnDYn3M/\u4e2d\u51b2.mp3",
+    "length": 2.808,
+    "label": "\u4e2d\u51b2"
+  },
+  {
+    "wav": "../data/vad/3/7BGDP9zL/\u4e2d\u51b2.mp3",
+    "length": 2.772,
+    "label": "\u4e2d\u51b2"
+  },
+  {
+    "wav": "../data/vad/3/e3BwmDEL/\u4e2d\u51b2.mp3",
+    "length": 3.348,
+    "label": "\u4e2d\u51b2"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u627f\u5149.mp3",
+    "length": 2.304,
+    "label": "\u627f\u5149"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u627f\u5149.mp3",
+    "length": 1.656,
+    "label": "\u627f\u5149"
+  },
+  {
+    "wav": "../data/vad/6/en9Jg5WL/\u627f\u5149.mp3",
+    "length": 1.98,
+    "label": "\u627f\u5149"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqOzL/\u627f\u5149.mp3",
+    "length": 1.98,
+    "label": "\u627f\u5149"
+  },
+  {
+    "wav": "../data/vad/2/Mx2bJn0L/\u5929\u6c60.mp3",
+    "length": 3.42,
+    "label": "\u5929\u6c60"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u5929\u6c60.mp3",
+    "length": 1.98,
+    "label": "\u5929\u6c60"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykrRL/\u5929\u6c60.mp3",
+    "length": 1.728,
+    "label": "\u5929\u6c60"
+  },
+  {
+    "wav": "../data/vad/2/MDPdk0lM/\u5929\u6c60.mp3",
+    "length": 1.908,
+    "label": "\u5929\u6c60"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u66f2\u57a3.mp3",
+    "length": 1.728,
+    "label": "\u66f2\u57a3"
+  },
+  {
+    "wav": "../data/vad/3/e8YqrkzM/\u66f2\u57a3.mp3",
+    "length": 1.728,
+    "label": "\u66f2\u57a3"
+  },
+  {
+    "wav": "../data/vad/3/Lm9BoaAL/\u66f2\u57a3.mp3",
+    "length": 2.412,
+    "label": "\u66f2\u57a3"
+  },
+  {
+    "wav": "../data/vad/7/e4BkqO17/\u7533\u8109.mp3",
+    "length": 1.728,
+    "label": "\u7533\u8109"
+  },
+  {
+    "wav": "../data/vad/7/e3Bw8WbL/\u7533\u8109.mp3",
+    "length": 1.8,
+    "label": "\u7533\u8109"
+  },
+  {
+    "wav": "../data/vad/7/MJnDjkBM/\u7533\u8109.mp3",
+    "length": 2.052,
+    "label": "\u7533\u8109"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4w2e/\u5f53\u9633.mp3",
+    "length": 1.8,
+    "label": "\u5f53\u9633"
+  },
+  {
+    "wav": "../data/vad/1/7AxvdnyM/\u5f53\u9633.mp3",
+    "length": 1.368,
+    "label": "\u5f53\u9633"
+  },
+  {
+    "wav": "../data/vad/1/ebqzpPYL/\u5f53\u9633.mp3",
+    "length": 2.16,
+    "label": "\u5f53\u9633"
+  },
+  {
+    "wav": "../data/vad/1/ev9pmJNL/\u5f53\u9633.mp3",
+    "length": 2.484,
+    "label": "\u5f53\u9633"
+  },
+  {
+    "wav": "../data/vad/7/ev9JD1xL/\u5929\u6eaa.mp3",
+    "length": 1.224,
+    "label": "\u5929\u6eaa"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0BPM/\u5929\u6eaa.mp3",
+    "length": 0.936,
+    "label": "\u5929\u6eaa"
+  },
+  {
+    "wav": "../data/vad/7/M1KXZv2L/\u5929\u6eaa.mp3",
+    "length": 2.16,
+    "label": "\u5929\u6eaa"
+  },
+  {
+    "wav": "../data/vad/3/Mx2m9l5L/\u5c0f\u6d77.mp3",
+    "length": 1.728,
+    "label": "\u5c0f\u6d77"
+  },
+  {
+    "wav": "../data/vad/3/7qXGlmqM/\u5c0f\u6d77.mp3",
+    "length": 1.98,
+    "label": "\u5c0f\u6d77"
+  },
+  {
+    "wav": "../data/vad/3/M6BywBBM/\u5c0f\u6d77.mp3",
+    "length": 2.232,
+    "label": "\u5c0f\u6d77"
+  },
+  {
+    "wav": "../data/vad/7/M6By2E0M/\u5927\u90fd.mp3",
+    "length": 1.908,
+    "label": "\u5927\u90fd"
+  },
+  {
+    "wav": "../data/vad/7/M28rylqL/\u5927\u90fd.mp3",
+    "length": 1.98,
+    "label": "\u5927\u90fd"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u5927\u90fd.mp3",
+    "length": 1.908,
+    "label": "\u5927\u90fd"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0BPM/\u5730\u673a.mp3",
+    "length": 0.828,
+    "label": "\u5730\u673a"
+  },
+  {
+    "wav": "../data/vad/7/LQ8alv47/\u5730\u673a.mp3",
+    "length": 2.844,
+    "label": "\u5730\u673a"
+  },
+  {
+    "wav": "../data/vad/7/Mr5JKNEe/\u5730\u673a.mp3",
+    "length": 2.916,
+    "label": "\u5730\u673a"
+  },
+  {
+    "wav": "../data/vad/8/7AxD9mDM/\u5929\u67a2.mp3",
+    "length": 3.348,
+    "label": "\u5929\u67a2"
+  },
+  {
+    "wav": "../data/vad/8/Lm9Bb8zL/\u5929\u67a2.mp3",
+    "length": 1.944,
+    "label": "\u5929\u67a2"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JaKOL/\u5929\u67a2.mp3",
+    "length": 1.224,
+    "label": "\u5929\u67a2"
+  },
+  {
+    "wav": "../data/vad/8/Lm9B4PxL/\u5929\u67a2.mp3",
+    "length": 2.16,
+    "label": "\u5929\u67a2"
+  },
+  {
+    "wav": "../data/vad/5/LwPb8Zpe/\u6c14\u7a74.mp3",
+    "length": 1.116,
+    "label": "\u6c14\u7a74"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u6c14\u7a74.mp3",
+    "length": 1.548,
+    "label": "\u6c14\u7a74"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u6c14\u7a74.mp3",
+    "length": 1.476,
+    "label": "\u6c14\u7a74"
+  },
+  {
+    "wav": "../data/vad/1/7XA0Kz8L/\u8170\u5947.mp3",
+    "length": 2.664,
+    "label": "\u8170\u5947"
+  },
+  {
+    "wav": "../data/vad/1/LOyDN1NM/\u8170\u5947.mp3",
+    "length": 2.664,
+    "label": "\u8170\u5947"
+  },
+  {
+    "wav": "../data/vad/1/7AxvdnyM/\u8170\u5947.mp3",
+    "length": 2.052,
+    "label": "\u8170\u5947"
+  },
+  {
+    "wav": "../data/vad/1/LQ8NzjG7/\u8170\u5947.mp3",
+    "length": 1.8,
+    "label": "\u8170\u5947"
+  },
+  {
+    "wav": "../data/vad/7/ekqNl0Q7/\u8179\u54c0.mp3",
+    "length": 3.636,
+    "label": "\u8179\u54c0"
+  },
+  {
+    "wav": "../data/vad/8/eP2aDln7/\u8179\u54c0.mp3",
+    "length": 1.116,
+    "label": "\u8179\u54c0"
+  },
+  {
+    "wav": "../data/vad/8/7AxD9mDM/\u8179\u54c0.mp3",
+    "length": 3.348,
+    "label": "\u8179\u54c0"
+  },
+  {
+    "wav": "../data/vad/7/eyP6aBBL/\u8179\u54c0.mp3",
+    "length": 2.484,
+    "label": "\u8179\u54c0"
+  },
+  {
+    "wav": "../data/vad/8/LQ8alyW7/\u8179\u54c0.mp3",
+    "length": 2.088,
+    "label": "\u8179\u54c0"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u8179\u54c0.mp3",
+    "length": 1.98,
+    "label": "\u8179\u54c0"
+  },
+  {
+    "wav": "../data/vad/7/e4BkZN17/\u8179\u54c0.mp3",
+    "length": 1.908,
+    "label": "\u8179\u54c0"
+  },
+  {
+    "wav": "../data/vad/2/eyPpA59L/\u6c34\u6c9f.mp3",
+    "length": 2.988,
+    "label": "\u6c34\u6c9f"
+  },
+  {
+    "wav": "../data/vad/2/e3BwdqRL/\u6c34\u6c9f.mp3",
+    "length": 3.168,
+    "label": "\u6c34\u6c9f"
+  },
+  {
+    "wav": "../data/vad/2/7Ypa5RaM/\u6c34\u6c9f.mp3",
+    "length": 2.412,
+    "label": "\u6c34\u6c9f"
+  },
+  {
+    "wav": "../data/vad/2/MWWaoRyM/\u6c34\u6c9f.mp3",
+    "length": 3.672,
+    "label": "\u6c34\u6c9f"
+  },
+  {
+    "wav": "../data/vad/7/7j9JKOKM/\u81f3\u9634.mp3",
+    "length": 3.564,
+    "label": "\u81f3\u9634"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u81f3\u9634.mp3",
+    "length": 1.908,
+    "label": "\u81f3\u9634"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0VnM/\u81f3\u9634.mp3",
+    "length": 2.052,
+    "label": "\u81f3\u9634"
+  },
+  {
+    "wav": "../data/vad/5/LwPb51pe/\u8db3\u4e34\u6ce3.mp3",
+    "length": 1.98,
+    "label": "\u8db3\u4e34\u6ce3"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u8db3\u4e34\u6ce3.mp3",
+    "length": 3.096,
+    "label": "\u8db3\u4e34\u6ce3"
+  },
+  {
+    "wav": "../data/vad/5/M6By1qVM/\u8db3\u4e34\u6ce3.mp3",
+    "length": 2.664,
+    "label": "\u8db3\u4e34\u6ce3"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2GxL/\u4e2d\u90fd.mp3",
+    "length": 2.916,
+    "label": "\u4e2d\u90fd"
+  },
+  {
+    "wav": "../data/vad/4/MJnDRQdM/\u4e2d\u90fd.mp3",
+    "length": 1.908,
+    "label": "\u4e2d\u90fd"
+  },
+  {
+    "wav": "../data/vad/4/7AxDZGAM/\u4e2d\u90fd.mp3",
+    "length": 1.908,
+    "label": "\u4e2d\u90fd"
+  },
+  {
+    "wav": "../data/vad/8/Lm9B4PxL/\u6c34\u9053.mp3",
+    "length": 2.484,
+    "label": "\u6c34\u9053"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u6c34\u9053.mp3",
+    "length": 2.232,
+    "label": "\u6c34\u9053"
+  },
+  {
+    "wav": "../data/vad/8/L0mYZADe/\u6c34\u9053.mp3",
+    "length": 2.232,
+    "label": "\u6c34\u9053"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BPmzL/\u627f\u7075.mp3",
+    "length": 1.548,
+    "label": "\u627f\u7075"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u627f\u7075.mp3",
+    "length": 2.664,
+    "label": "\u627f\u7075"
+  },
+  {
+    "wav": "../data/vad/5/LGBDrqE7/\u627f\u7075.mp3",
+    "length": 1.8,
+    "label": "\u627f\u7075"
+  },
+  {
+    "wav": "../data/vad/5/eNQ05AJL/\u627f\u7075.mp3",
+    "length": 1.548,
+    "label": "\u627f\u7075"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u6881\u4e18.mp3",
+    "length": 2.412,
+    "label": "\u6881\u4e18"
+  },
+  {
+    "wav": "../data/vad/8/7j9JlrnM/\u6881\u4e18.mp3",
+    "length": 1.98,
+    "label": "\u6881\u4e18"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u6881\u4e18.mp3",
+    "length": 2.16,
+    "label": "\u6881\u4e18"
+  },
+  {
+    "wav": "../data/vad/1/7AxvdnyM/\u8170\u75db\u70b9.mp3",
+    "length": 2.304,
+    "label": "\u8170\u75db\u70b9"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KQ1e/\u8170\u75db\u70b9.mp3",
+    "length": 2.88,
+    "label": "\u8170\u75db\u70b9"
+  },
+  {
+    "wav": "../data/vad/1/LOyDN1NM/\u8170\u75db\u70b9.mp3",
+    "length": 2.844,
+    "label": "\u8170\u75db\u70b9"
+  },
+  {
+    "wav": "../data/vad/1/e8YBR90M/\u8170\u75db\u70b9.mp3",
+    "length": 2.844,
+    "label": "\u8170\u75db\u70b9"
+  },
+  {
+    "wav": "../data/vad/3/Lm9B0qzL/\u5c11\u5e9c.mp3",
+    "length": 2.304,
+    "label": "\u5c11\u5e9c"
+  },
+  {
+    "wav": "../data/vad/3/Mo1JV24L/\u5c11\u5e9c.mp3",
+    "length": 2.052,
+    "label": "\u5c11\u5e9c"
+  },
+  {
+    "wav": "../data/vad/3/7XAPJBoL/\u5c11\u5e9c.mp3",
+    "length": 2.052,
+    "label": "\u5c11\u5e9c"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u547d\u95e8.mp3",
+    "length": 3.42,
+    "label": "\u547d\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/eyPpA59L/\u547d\u95e8.mp3",
+    "length": 2.736,
+    "label": "\u547d\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/ev9Jn0AL/\u547d\u95e8.mp3",
+    "length": 2.988,
+    "label": "\u547d\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/7KvA53PM/\u547d\u95e8.mp3",
+    "length": 1.548,
+    "label": "\u547d\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/7XAPqmdL/\u4eac\u9aa8.mp3",
+    "length": 1.728,
+    "label": "\u4eac\u9aa8"
+  },
+  {
+    "wav": "../data/vad/7/Mo1Jl56L/\u4eac\u9aa8.mp3",
+    "length": 1.908,
+    "label": "\u4eac\u9aa8"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2g8e/\u4eac\u9aa8.mp3",
+    "length": 1.908,
+    "label": "\u4eac\u9aa8"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAd9L/\u98ce\u5e9c.mp3",
+    "length": 1.98,
+    "label": "\u98ce\u5e9c"
+  },
+  {
+    "wav": "../data/vad/2/MDPDRdQM/\u98ce\u5e9c.mp3",
+    "length": 2.412,
+    "label": "\u98ce\u5e9c"
+  },
+  {
+    "wav": "../data/vad/2/eyPpA59L/\u98ce\u5e9c.mp3",
+    "length": 2.484,
+    "label": "\u98ce\u5e9c"
+  },
+  {
+    "wav": "../data/vad/2/Lz9p0X17/\u98ce\u5e9c.mp3",
+    "length": 2.664,
+    "label": "\u98ce\u5e9c"
+  },
+  {
+    "wav": "../data/vad/7/M6By2WVM/\u610f\u820d.mp3",
+    "length": 2.448,
+    "label": "\u610f\u820d"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u610f\u820d.mp3",
+    "length": 1.728,
+    "label": "\u610f\u820d"
+  },
+  {
+    "wav": "../data/vad/7/MRDalnQL/\u610f\u820d.mp3",
+    "length": 1.368,
+    "label": "\u610f\u820d"
+  },
+  {
+    "wav": "../data/vad/8/e4BkZPx7/\u610f\u820d.mp3",
+    "length": 2.412,
+    "label": "\u610f\u820d"
+  },
+  {
+    "wav": "../data/vad/7/M6By2E0M/\u610f\u820d.mp3",
+    "length": 1.296,
+    "label": "\u610f\u820d"
+  },
+  {
+    "wav": "../data/vad/7/LwPbzBYe/\u610f\u820d.mp3",
+    "length": 1.908,
+    "label": "\u610f\u820d"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2g8e/\u610f\u820d.mp3",
+    "length": 2.232,
+    "label": "\u610f\u820d"
+  },
+  {
+    "wav": "../data/vad/3/MWWa5zGM/\u5929\u5bb9.mp3",
+    "length": 1.728,
+    "label": "\u5929\u5bb9"
+  },
+  {
+    "wav": "../data/vad/3/e8YqZxxM/\u5929\u5bb9.mp3",
+    "length": 1.548,
+    "label": "\u5929\u5bb9"
+  },
+  {
+    "wav": "../data/vad/3/7YpaGDbM/\u5929\u5bb9.mp3",
+    "length": 1.908,
+    "label": "\u5929\u5bb9"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u7edc\u5374.mp3",
+    "length": 1.476,
+    "label": "\u7edc\u5374"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqOzL/\u7edc\u5374.mp3",
+    "length": 2.16,
+    "label": "\u7edc\u5374"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u7edc\u5374.mp3",
+    "length": 1.908,
+    "label": "\u7edc\u5374"
+  },
+  {
+    "wav": "../data/vad/6/M6By2O8M/\u7edc\u5374.mp3",
+    "length": 2.052,
+    "label": "\u7edc\u5374"
+  },
+  {
+    "wav": "../data/vad/3/7XAP6QBL/\u80a9\u5916\u4fde.mp3",
+    "length": 1.908,
+    "label": "\u80a9\u5916\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/7KvaxvYM/\u80a9\u5916\u4fde.mp3",
+    "length": 1.98,
+    "label": "\u80a9\u5916\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/e8YqZxxM/\u80a9\u5916\u4fde.mp3",
+    "length": 1.656,
+    "label": "\u80a9\u5916\u4fde"
+  },
+  {
+    "wav": "../data/vad/4/7XAPpVoL/\u4e2d\u5c01.mp3",
+    "length": 3.276,
+    "label": "\u4e2d\u5c01"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u4e2d\u5c01.mp3",
+    "length": 2.52,
+    "label": "\u4e2d\u5c01"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u4e2d\u5c01.mp3",
+    "length": 1.8,
+    "label": "\u4e2d\u5c01"
+  },
+  {
+    "wav": "../data/vad/4/MZqpGnye/\u4e2d\u5c01.mp3",
+    "length": 2.268,
+    "label": "\u4e2d\u5c01"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u6d8c\u6cc9.mp3",
+    "length": 1.728,
+    "label": "\u6d8c\u6cc9"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u6d8c\u6cc9.mp3",
+    "length": 1.476,
+    "label": "\u6d8c\u6cc9"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u6d8c\u6cc9.mp3",
+    "length": 2.304,
+    "label": "\u6d8c\u6cc9"
+  },
+  {
+    "wav": "../data/vad/8/eP2aDln7/\u5f52\u6765.mp3",
+    "length": 1.548,
+    "label": "\u5f52\u6765"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JYWOL/\u5f52\u6765.mp3",
+    "length": 1.728,
+    "label": "\u5f52\u6765"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u5f52\u6765.mp3",
+    "length": 1.98,
+    "label": "\u5f52\u6765"
+  },
+  {
+    "wav": "../data/vad/3/7lOKdqJM/\u81d1\u4f1a.mp3",
+    "length": 2.736,
+    "label": "\u81d1\u4f1a"
+  },
+  {
+    "wav": "../data/vad/3/LVJaoPZL/\u81d1\u4f1a.mp3",
+    "length": 1.908,
+    "label": "\u81d1\u4f1a"
+  },
+  {
+    "wav": "../data/vad/3/M6By6aBM/\u81d1\u4f1a.mp3",
+    "length": 1.548,
+    "label": "\u81d1\u4f1a"
+  },
+  {
+    "wav": "../data/vad/4/M6ByNaVM/\u542c\u5bab.mp3",
+    "length": 3.78,
+    "label": "\u542c\u5bab"
+  },
+  {
+    "wav": "../data/vad/4/LVJadYaL/\u542c\u5bab.mp3",
+    "length": 2.412,
+    "label": "\u542c\u5bab"
+  },
+  {
+    "wav": "../data/vad/4/ekqN3Yb7/\u542c\u5bab.mp3",
+    "length": 2.664,
+    "label": "\u542c\u5bab"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2g8e/\u6e0a\u814b.mp3",
+    "length": 1.548,
+    "label": "\u6e0a\u814b"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BP0zL/\u6e0a\u814b.mp3",
+    "length": 2.484,
+    "label": "\u6e0a\u814b"
+  },
+  {
+    "wav": "../data/vad/5/LwPb51pe/\u6e0a\u814b.mp3",
+    "length": 1.8,
+    "label": "\u6e0a\u814b"
+  },
+  {
+    "wav": "../data/vad/7/e4BkZN17/\u6e0a\u814b.mp3",
+    "length": 1.728,
+    "label": "\u6e0a\u814b"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0VnM/\u6e0a\u814b.mp3",
+    "length": 2.052,
+    "label": "\u6e0a\u814b"
+  },
+  {
+    "wav": "../data/vad/5/M9Xgry4e/\u6e0a\u814b.mp3",
+    "length": 1.296,
+    "label": "\u6e0a\u814b"
+  },
+  {
+    "wav": "../data/vad/7/7AxD0bzM/\u6e0a\u814b.mp3",
+    "length": 1.548,
+    "label": "\u6e0a\u814b"
+  },
+  {
+    "wav": "../data/vad/7/M6By2E0M/\u6e0a\u814b.mp3",
+    "length": 1.728,
+    "label": "\u6e0a\u814b"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u8db3\u4e09\u91cc.mp3",
+    "length": 2.052,
+    "label": "\u8db3\u4e09\u91cc"
+  },
+  {
+    "wav": "../data/vad/8/e4BkZPx7/\u8db3\u4e09\u91cc.mp3",
+    "length": 3.24,
+    "label": "\u8db3\u4e09\u91cc"
+  },
+  {
+    "wav": "../data/vad/8/MgEpQ85L/\u8db3\u4e09\u91cc.mp3",
+    "length": 1.476,
+    "label": "\u8db3\u4e09\u91cc"
+  },
+  {
+    "wav": "../data/vad/6/MRDabVQL/\u5e7d\u95e8.mp3",
+    "length": 1.296,
+    "label": "\u5e7d\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/7BGDOjKL/\u5e7d\u95e8.mp3",
+    "length": 2.628,
+    "label": "\u5e7d\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/7YpagbzM/\u5e7d\u95e8.mp3",
+    "length": 2.988,
+    "label": "\u5e7d\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u5e7d\u95e8.mp3",
+    "length": 1.548,
+    "label": "\u5e7d\u95e8"
+  },
+  {
+    "wav": "../data/vad/3/MDPDrxgM/\u652f\u6c9f.mp3",
+    "length": 1.548,
+    "label": "\u652f\u6c9f"
+  },
+  {
+    "wav": "../data/vad/3/M6BywBBM/\u652f\u6c9f.mp3",
+    "length": 2.232,
+    "label": "\u652f\u6c9f"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u652f\u6c9f.mp3",
+    "length": 1.908,
+    "label": "\u652f\u6c9f"
+  },
+  {
+    "wav": "../data/vad/2/MdP0NwzM/\u66f2\u6cfd.mp3",
+    "length": 1.044,
+    "label": "\u66f2\u6cfd"
+  },
+  {
+    "wav": "../data/vad/6/LwPbDA9e/\u66f2\u6cfd.mp3",
+    "length": 1.224,
+    "label": "\u66f2\u6cfd"
+  },
+  {
+    "wav": "../data/vad/2/ekqN94A7/\u66f2\u6cfd.mp3",
+    "length": 2.232,
+    "label": "\u66f2\u6cfd"
+  },
+  {
+    "wav": "../data/vad/6/epDJ4D8e/\u66f2\u6cfd.mp3",
+    "length": 1.98,
+    "label": "\u66f2\u6cfd"
+  },
+  {
+    "wav": "../data/vad/2/ekqrB1Y7/\u66f2\u6cfd.mp3",
+    "length": 1.656,
+    "label": "\u66f2\u6cfd"
+  },
+  {
+    "wav": "../data/vad/6/Mo1J214L/\u66f2\u6cfd.mp3",
+    "length": 2.016,
+    "label": "\u66f2\u6cfd"
+  },
+  {
+    "wav": "../data/vad/2/MDPDRdQM/\u66f2\u6cfd.mp3",
+    "length": 2.304,
+    "label": "\u66f2\u6cfd"
+  },
+  {
+    "wav": "../data/vad/8/eP2aDln7/\u8b69\u8b46.mp3",
+    "length": 1.476,
+    "label": "\u8b69\u8b46"
+  },
+  {
+    "wav": "../data/vad/8/7KvaodnM/\u8b69\u8b46.mp3",
+    "length": 1.908,
+    "label": "\u8b69\u8b46"
+  },
+  {
+    "wav": "../data/vad/8/MDPDgQoM/\u8b69\u8b46.mp3",
+    "length": 1.908,
+    "label": "\u8b69\u8b46"
+  },
+  {
+    "wav": "../data/vad/7/L0mYk3Je/\u8b69\u8b46.mp3",
+    "length": 2.16,
+    "label": "\u8b69\u8b46"
+  },
+  {
+    "wav": "../data/vad/8/7AxD9mDM/\u8b69\u8b46.mp3",
+    "length": 3.528,
+    "label": "\u8b69\u8b46"
+  },
+  {
+    "wav": "../data/vad/8/LOyDGJpM/\u8b69\u8b46.mp3",
+    "length": 1.728,
+    "label": "\u8b69\u8b46"
+  },
+  {
+    "wav": "../data/vad/8/e4BkRKW7/\u8b69\u8b46.mp3",
+    "length": 2.16,
+    "label": "\u8b69\u8b46"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u5927\u5305.mp3",
+    "length": 1.584,
+    "label": "\u5927\u5305"
+  },
+  {
+    "wav": "../data/vad/8/e4BkZPx7/\u5927\u5305.mp3",
+    "length": 2.34,
+    "label": "\u5927\u5305"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u5927\u5305.mp3",
+    "length": 1.404,
+    "label": "\u5927\u5305"
+  },
+  {
+    "wav": "../data/vad/4/7BGD2VjL/\u4e0b\u5ec9.mp3",
+    "length": 1.656,
+    "label": "\u4e0b\u5ec9"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u4e0b\u5ec9.mp3",
+    "length": 1.98,
+    "label": "\u4e0b\u5ec9"
+  },
+  {
+    "wav": "../data/vad/4/LVJad4pL/\u4e0b\u5ec9.mp3",
+    "length": 1.548,
+    "label": "\u4e0b\u5ec9"
+  },
+  {
+    "wav": "../data/vad/4/7AxDZGAM/\u4e0b\u5ec9.mp3",
+    "length": 2.052,
+    "label": "\u4e0b\u5ec9"
+  },
+  {
+    "wav": "../data/vad/6/MWWawoBM/\u901a\u5929.mp3",
+    "length": 2.7,
+    "label": "\u901a\u5929"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u901a\u5929.mp3",
+    "length": 2.304,
+    "label": "\u901a\u5929"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u901a\u5929.mp3",
+    "length": 2.484,
+    "label": "\u901a\u5929"
+  },
+  {
+    "wav": "../data/vad/6/7BGDmYZL/\u901a\u5929.mp3",
+    "length": 1.8,
+    "label": "\u901a\u5929"
+  },
+  {
+    "wav": "../data/vad/6/7YpagbzM/\u6b65\u5eca.mp3",
+    "length": 3.096,
+    "label": "\u6b65\u5eca"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u6b65\u5eca.mp3",
+    "length": 2.592,
+    "label": "\u6b65\u5eca"
+  },
+  {
+    "wav": "../data/vad/6/LwPbDA9e/\u6b65\u5eca.mp3",
+    "length": 2.16,
+    "label": "\u6b65\u5eca"
+  },
+  {
+    "wav": "../data/vad/6/e4Bkq1x7/\u6b65\u5eca.mp3",
+    "length": 1.908,
+    "label": "\u6b65\u5eca"
+  },
+  {
+    "wav": "../data/vad/6/en9Jg5WL/\u6b21\u9ace.mp3",
+    "length": 1.728,
+    "label": "\u6b21\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/M28rAwOL/\u6b21\u9ace.mp3",
+    "length": 2.232,
+    "label": "\u6b21\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/LVJarjzL/\u6b21\u9ace.mp3",
+    "length": 1.548,
+    "label": "\u6b21\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/MWWa8yBM/\u6b21\u9ace.mp3",
+    "length": 1.368,
+    "label": "\u6b21\u9ace"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u5916\u9675.mp3",
+    "length": 2.232,
+    "label": "\u5916\u9675"
+  },
+  {
+    "wav": "../data/vad/8/e4BkRKW7/\u5916\u9675.mp3",
+    "length": 2.16,
+    "label": "\u5916\u9675"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u5916\u9675.mp3",
+    "length": 2.232,
+    "label": "\u5916\u9675"
+  },
+  {
+    "wav": "../data/vad/5/MdPA25AM/\u98ce\u6c60.mp3",
+    "length": 1.8,
+    "label": "\u98ce\u6c60"
+  },
+  {
+    "wav": "../data/vad/5/ev9JXdxL/\u98ce\u6c60.mp3",
+    "length": 2.412,
+    "label": "\u98ce\u6c60"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u98ce\u6c60.mp3",
+    "length": 1.98,
+    "label": "\u98ce\u6c60"
+  },
+  {
+    "wav": "../data/vad/5/MWWa3WbM/\u98ce\u6c60.mp3",
+    "length": 1.656,
+    "label": "\u98ce\u6c60"
+  },
+  {
+    "wav": "../data/vad/8/e4BkZPx7/\u5934\u7ef4.mp3",
+    "length": 3.096,
+    "label": "\u5934\u7ef4"
+  },
+  {
+    "wav": "../data/vad/8/LVJal4RL/\u5934\u7ef4.mp3",
+    "length": 2.484,
+    "label": "\u5934\u7ef4"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JaKOL/\u5934\u7ef4.mp3",
+    "length": 1.368,
+    "label": "\u5934\u7ef4"
+  },
+  {
+    "wav": "../data/vad/1/ekqrx5k7/\u56db\u795e\u806a.mp3",
+    "length": 2.052,
+    "label": "\u56db\u795e\u806a"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u56db\u795e\u806a.mp3",
+    "length": 2.592,
+    "label": "\u56db\u795e\u806a"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BP0zL/\u56db\u795e\u806a.mp3",
+    "length": 3.168,
+    "label": "\u56db\u795e\u806a"
+  },
+  {
+    "wav": "../data/vad/5/Mx2mwRKL/\u56db\u795e\u806a.mp3",
+    "length": 1.116,
+    "label": "\u56db\u795e\u806a"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u56db\u795e\u806a.mp3",
+    "length": 2.484,
+    "label": "\u56db\u795e\u806a"
+  },
+  {
+    "wav": "../data/vad/1/LOyAKp4M/\u56db\u795e\u806a.mp3",
+    "length": 1.548,
+    "label": "\u56db\u795e\u806a"
+  },
+  {
+    "wav": "../data/vad/1/Mo1ywaKL/\u56db\u795e\u806a.mp3",
+    "length": 1.8,
+    "label": "\u56db\u795e\u806a"
+  },
+  {
+    "wav": "../data/vad/8/LwPbKlne/\u6ed1\u8089\u95e8.mp3",
+    "length": 2.232,
+    "label": "\u6ed1\u8089\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/7Ypax0lM/\u6ed1\u8089\u95e8.mp3",
+    "length": 1.476,
+    "label": "\u6ed1\u8089\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/e4BkRKW7/\u6ed1\u8089\u95e8.mp3",
+    "length": 2.916,
+    "label": "\u6ed1\u8089\u95e8"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JaKOL/\u5934\u516b\u5366.mp3",
+    "length": 1.296,
+    "label": "\u5934\u516b\u5366"
+  },
+  {
+    "wav": "../data/vad/8/Lm9B4PxL/\u5934\u516b\u5366.mp3",
+    "length": 2.124,
+    "label": "\u5934\u516b\u5366"
+  },
+  {
+    "wav": "../data/vad/8/eP2aDln7/\u5934\u516b\u5366.mp3",
+    "length": 2.052,
+    "label": "\u5934\u516b\u5366"
+  },
+  {
+    "wav": "../data/vad/3/ekqNzpQ7/\u8033\u548c\u9ace.mp3",
+    "length": 1.98,
+    "label": "\u8033\u548c\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/7BGDP9zL/\u8033\u548c\u9ace.mp3",
+    "length": 2.988,
+    "label": "\u8033\u548c\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/e8YqrkzM/\u8033\u548c\u9ace.mp3",
+    "length": 1.8,
+    "label": "\u8033\u548c\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/Lm9BoaAL/\u901a\u91cc.mp3",
+    "length": 2.844,
+    "label": "\u901a\u91cc"
+  },
+  {
+    "wav": "../data/vad/3/7XAP6QBL/\u901a\u91cc.mp3",
+    "length": 1.368,
+    "label": "\u901a\u91cc"
+  },
+  {
+    "wav": "../data/vad/3/Lm9B0qzL/\u901a\u91cc.mp3",
+    "length": 2.412,
+    "label": "\u901a\u91cc"
+  },
+  {
+    "wav": "../data/vad/8/7Ypax0lM/\u6c34\u7a81.mp3",
+    "length": 1.404,
+    "label": "\u6c34\u7a81"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JaKOL/\u6c34\u7a81.mp3",
+    "length": 1.548,
+    "label": "\u6c34\u7a81"
+  },
+  {
+    "wav": "../data/vad/8/7j9J3zmM/\u6c34\u7a81.mp3",
+    "length": 2.736,
+    "label": "\u6c34\u7a81"
+  },
+  {
+    "wav": "../data/vad/3/M6BywBBM/\u6db2\u95e8.mp3",
+    "length": 2.232,
+    "label": "\u6db2\u95e8"
+  },
+  {
+    "wav": "../data/vad/3/Lm9B0qzL/\u6db2\u95e8.mp3",
+    "length": 1.908,
+    "label": "\u6db2\u95e8"
+  },
+  {
+    "wav": "../data/vad/3/Mo1JV24L/\u6db2\u95e8.mp3",
+    "length": 3.096,
+    "label": "\u6db2\u95e8"
+  },
+  {
+    "wav": "../data/vad/5/LwPb8Zpe/\u6a2a\u9aa8.mp3",
+    "length": 1.656,
+    "label": "\u6a2a\u9aa8"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u6a2a\u9aa8.mp3",
+    "length": 2.16,
+    "label": "\u6a2a\u9aa8"
+  },
+  {
+    "wav": "../data/vad/5/M9Xgry4e/\u6a2a\u9aa8.mp3",
+    "length": 1.476,
+    "label": "\u6a2a\u9aa8"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u98ce\u95e8.mp3",
+    "length": 1.728,
+    "label": "\u98ce\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/e4Bkq1x7/\u98ce\u95e8.mp3",
+    "length": 1.908,
+    "label": "\u98ce\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/MDPDx8gM/\u98ce\u95e8.mp3",
+    "length": 2.052,
+    "label": "\u98ce\u95e8"
+  },
+  {
+    "wav": "../data/vad/6/MRDa6dxL/\u98ce\u95e8.mp3",
+    "length": 2.052,
+    "label": "\u98ce\u95e8"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u957f\u5f3a.mp3",
+    "length": 2.412,
+    "label": "\u957f\u5f3a"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89QL/\u957f\u5f3a.mp3",
+    "length": 1.548,
+    "label": "\u957f\u5f3a"
+  },
+  {
+    "wav": "../data/vad/1/e8YBR90M/\u957f\u5f3a.mp3",
+    "length": 2.304,
+    "label": "\u957f\u5f3a"
+  },
+  {
+    "wav": "../data/vad/1/M6BKxE0M/\u957f\u5f3a.mp3",
+    "length": 2.988,
+    "label": "\u957f\u5f3a"
+  },
+  {
+    "wav": "../data/vad/1/ev9pmJNL/\u8098\u5c16.mp3",
+    "length": 2.484,
+    "label": "\u8098\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/ebqzpPYL/\u8098\u5c16.mp3",
+    "length": 1.98,
+    "label": "\u8098\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/ekqrVQk7/\u8098\u5c16.mp3",
+    "length": 2.664,
+    "label": "\u8098\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/LQ8NzjG7/\u8098\u5c16.mp3",
+    "length": 1.98,
+    "label": "\u8098\u5c16"
+  },
+  {
+    "wav": "../data/vad/3/ekqNzpQ7/\u4e1d\u7af9\u7a7a.mp3",
+    "length": 2.052,
+    "label": "\u4e1d\u7af9\u7a7a"
+  },
+  {
+    "wav": "../data/vad/3/7qXGlmqM/\u4e1d\u7af9\u7a7a.mp3",
+    "length": 2.304,
+    "label": "\u4e1d\u7af9\u7a7a"
+  },
+  {
+    "wav": "../data/vad/3/MWWa5zGM/\u4e1d\u7af9\u7a7a.mp3",
+    "length": 2.16,
+    "label": "\u4e1d\u7af9\u7a7a"
+  },
+  {
+    "wav": "../data/vad/5/eP2a4wN7/\u80a9\u4e95.mp3",
+    "length": 2.988,
+    "label": "\u80a9\u4e95"
+  },
+  {
+    "wav": "../data/vad/5/Lm9BPmzL/\u80a9\u4e95.mp3",
+    "length": 1.98,
+    "label": "\u80a9\u4e95"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vRnL/\u80a9\u4e95.mp3",
+    "length": 2.052,
+    "label": "\u80a9\u4e95"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vDbL/\u80a9\u4e95.mp3",
+    "length": 2.304,
+    "label": "\u80a9\u4e95"
+  },
+  {
+    "wav": "../data/vad/5/LGBDrqE7/\u5927\u8d6b.mp3",
+    "length": 1.368,
+    "label": "\u5927\u8d6b"
+  },
+  {
+    "wav": "../data/vad/5/7qXGBB5M/\u5927\u8d6b.mp3",
+    "length": 1.656,
+    "label": "\u5927\u8d6b"
+  },
+  {
+    "wav": "../data/vad/5/ev9JXdxL/\u5927\u8d6b.mp3",
+    "length": 1.908,
+    "label": "\u5927\u8d6b"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u8170\u4fde.mp3",
+    "length": 1.296,
+    "label": "\u8170\u4fde"
+  },
+  {
+    "wav": "../data/vad/5/7j9JPGOM/\u8170\u4fde.mp3",
+    "length": 2.412,
+    "label": "\u8170\u4fde"
+  },
+  {
+    "wav": "../data/vad/5/e4Bkvxq7/\u8170\u4fde.mp3",
+    "length": 2.232,
+    "label": "\u8170\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/LOyDN1NM/\u8170\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u8170\u4fde"
+  },
+  {
+    "wav": "../data/vad/1/epD8ZDZe/\u8170\u4fde.mp3",
+    "length": 2.736,
+    "label": "\u8170\u4fde"
+  },
+  {
+    "wav": "../data/vad/5/7AxDkVDM/\u8170\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u8170\u4fde"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u8170\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u8170\u4fde"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u592a\u4e59.mp3",
+    "length": 2.916,
+    "label": "\u592a\u4e59"
+  },
+  {
+    "wav": "../data/vad/8/eP2aDln7/\u592a\u4e59.mp3",
+    "length": 1.728,
+    "label": "\u592a\u4e59"
+  },
+  {
+    "wav": "../data/vad/8/e8YqmxXM/\u592a\u4e59.mp3",
+    "length": 0.864,
+    "label": "\u592a\u4e59"
+  },
+  {
+    "wav": "../data/vad/1/LQ8NKoG7/\u75de\u6839.mp3",
+    "length": 2.592,
+    "label": "\u75de\u6839"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89WL/\u75de\u6839.mp3",
+    "length": 2.916,
+    "label": "\u75de\u6839"
+  },
+  {
+    "wav": "../data/vad/1/MRDAK1DL/\u75de\u6839.mp3",
+    "length": 3.204,
+    "label": "\u75de\u6839"
+  },
+  {
+    "wav": "../data/vad/1/M28PmDAL/\u75de\u6839.mp3",
+    "length": 2.844,
+    "label": "\u75de\u6839"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u8155\u9aa8.mp3",
+    "length": 1.656,
+    "label": "\u8155\u9aa8"
+  },
+  {
+    "wav": "../data/vad/3/L0mYX8De/\u8155\u9aa8.mp3",
+    "length": 1.8,
+    "label": "\u8155\u9aa8"
+  },
+  {
+    "wav": "../data/vad/3/MRDaJl6L/\u8155\u9aa8.mp3",
+    "length": 1.656,
+    "label": "\u8155\u9aa8"
+  },
+  {
+    "wav": "../data/vad/1/eP2a2AX7/\u5185\u8e1d\u5c16.mp3",
+    "length": 1.8,
+    "label": "\u5185\u8e1d\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KRDe/\u5185\u8e1d\u5c16.mp3",
+    "length": 2.124,
+    "label": "\u5185\u8e1d\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/MRDAW3QL/\u5185\u8e1d\u5c16.mp3",
+    "length": 2.844,
+    "label": "\u5185\u8e1d\u5c16"
+  },
+  {
+    "wav": "../data/vad/1/LwPp4w2e/\u5185\u8e1d\u5c16.mp3",
+    "length": 2.592,
+    "label": "\u5185\u8e1d\u5c16"
+  },
+  {
+    "wav": "../data/vad/6/eEKDAR97/\u5fc3\u5939\u810a.mp3",
+    "length": 2.304,
+    "label": "\u5fc3\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqDgL/\u5fc3\u5939\u810a.mp3",
+    "length": 2.592,
+    "label": "\u5fc3\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u5fc3\u5939\u810a.mp3",
+    "length": 2.16,
+    "label": "\u5fc3\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/6/Mo1J214L/\u5fc3\u5939\u810a.mp3",
+    "length": 2.16,
+    "label": "\u5fc3\u5939\u810a"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u5341\u4e03\u690e.mp3",
+    "length": 2.988,
+    "label": "\u5341\u4e03\u690e"
+  },
+  {
+    "wav": "../data/vad/1/M1KD8x2L/\u5341\u4e03\u690e.mp3",
+    "length": 3.528,
+    "label": "\u5341\u4e03\u690e"
+  },
+  {
+    "wav": "../data/vad/1/en9Q31mL/\u5341\u4e03\u690e.mp3",
+    "length": 2.988,
+    "label": "\u5341\u4e03\u690e"
+  },
+  {
+    "wav": "../data/vad/1/7AxvdnyM/\u5341\u4e03\u690e.mp3",
+    "length": 3.168,
+    "label": "\u5341\u4e03\u690e"
+  },
+  {
+    "wav": "../data/vad/3/MJnDYn3M/\u52b3\u5bab.mp3",
+    "length": 1.404,
+    "label": "\u52b3\u5bab"
+  },
+  {
+    "wav": "../data/vad/3/M1KXryDL/\u52b3\u5bab.mp3",
+    "length": 2.988,
+    "label": "\u52b3\u5bab"
+  },
+  {
+    "wav": "../data/vad/3/7lOKdqJM/\u52b3\u5bab.mp3",
+    "length": 2.664,
+    "label": "\u52b3\u5bab"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u4e2d\u6781.mp3",
+    "length": 2.916,
+    "label": "\u4e2d\u6781"
+  },
+  {
+    "wav": "../data/vad/2/7qXGO3gM/\u4e2d\u6781.mp3",
+    "length": 2.16,
+    "label": "\u4e2d\u6781"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgqZ7/\u4e2d\u6781.mp3",
+    "length": 2.304,
+    "label": "\u4e2d\u6781"
+  },
+  {
+    "wav": "../data/vad/2/MWWaoRyM/\u4e2d\u6781.mp3",
+    "length": 2.232,
+    "label": "\u4e2d\u6781"
+  },
+  {
+    "wav": "../data/vad/6/7BGDmYZL/\u809d\u4fde.mp3",
+    "length": 1.908,
+    "label": "\u809d\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u809d\u4fde.mp3",
+    "length": 2.232,
+    "label": "\u809d\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u809d\u4fde.mp3",
+    "length": 1.656,
+    "label": "\u809d\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u809d\u4fde.mp3",
+    "length": 2.412,
+    "label": "\u809d\u4fde"
+  },
+  {
+    "wav": "../data/vad/7/e3Bw8WbL/\u5927\u6a2a.mp3",
+    "length": 1.728,
+    "label": "\u5927\u6a2a"
+  },
+  {
+    "wav": "../data/vad/7/LwPbKEve/\u5927\u6a2a.mp3",
+    "length": 1.656,
+    "label": "\u5927\u6a2a"
+  },
+  {
+    "wav": "../data/vad/7/LQ8alv47/\u5927\u6a2a.mp3",
+    "length": 2.736,
+    "label": "\u5927\u6a2a"
+  },
+  {
+    "wav": "../data/vad/6/7YpaQjZM/\u8098\u9ace.mp3",
+    "length": 1.8,
+    "label": "\u8098\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/7BGD2VjL/\u8098\u9ace.mp3",
+    "length": 1.728,
+    "label": "\u8098\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/M28rkaAL/\u8098\u9ace.mp3",
+    "length": 3.672,
+    "label": "\u8098\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/MWWavVyM/\u8098\u9ace.mp3",
+    "length": 2.232,
+    "label": "\u8098\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u8098\u9ace.mp3",
+    "length": 2.412,
+    "label": "\u8098\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u8098\u9ace.mp3",
+    "length": 1.8,
+    "label": "\u8098\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/7KvaPWnM/\u8098\u9ace.mp3",
+    "length": 2.664,
+    "label": "\u8098\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u4e0b\u9ace.mp3",
+    "length": 1.908,
+    "label": "\u4e0b\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/MdPA1y6M/\u4e0b\u9ace.mp3",
+    "length": 1.296,
+    "label": "\u4e0b\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqOzL/\u4e0b\u9ace.mp3",
+    "length": 2.736,
+    "label": "\u4e0b\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/MDPDx8gM/\u4e0b\u9ace.mp3",
+    "length": 1.98,
+    "label": "\u4e0b\u9ace"
+  },
+  {
+    "wav": "../data/vad/4/ekqN3Yb7/\u6e29\u6e9c.mp3",
+    "length": 2.052,
+    "label": "\u6e29\u6e9c"
+  },
+  {
+    "wav": "../data/vad/4/7AxD14QM/\u6e29\u6e9c.mp3",
+    "length": 2.484,
+    "label": "\u6e29\u6e9c"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u6e29\u6e9c.mp3",
+    "length": 2.052,
+    "label": "\u6e29\u6e9c"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO3zL/\u8093\u4fde.mp3",
+    "length": 1.8,
+    "label": "\u8093\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/LwPbDA9e/\u8093\u4fde.mp3",
+    "length": 2.412,
+    "label": "\u8093\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e4Bkq1x7/\u8093\u4fde.mp3",
+    "length": 3.096,
+    "label": "\u8093\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7YpaQjZM/\u8093\u4fde.mp3",
+    "length": 2.304,
+    "label": "\u8093\u4fde"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2ZKL/\u5929\u9f0e.mp3",
+    "length": 2.844,
+    "label": "\u5929\u9f0e"
+  },
+  {
+    "wav": "../data/vad/4/M1KXGEDL/\u5929\u9f0e.mp3",
+    "length": 3.24,
+    "label": "\u5929\u9f0e"
+  },
+  {
+    "wav": "../data/vad/4/ekqN3Yb7/\u5929\u9f0e.mp3",
+    "length": 2.664,
+    "label": "\u5929\u9f0e"
+  },
+  {
+    "wav": "../data/vad/7/LwPbzBYe/\u5929\u7256.mp3",
+    "length": 1.764,
+    "label": "\u5929\u7256"
+  },
+  {
+    "wav": "../data/vad/7/LVJayQzL/\u5929\u7256.mp3",
+    "length": 2.16,
+    "label": "\u5929\u7256"
+  },
+  {
+    "wav": "../data/vad/3/LVJaoPZL/\u5929\u7256.mp3",
+    "length": 2.16,
+    "label": "\u5929\u7256"
+  },
+  {
+    "wav": "../data/vad/3/MJnDYn3M/\u5929\u7256.mp3",
+    "length": 1.44,
+    "label": "\u5929\u7256"
+  },
+  {
+    "wav": "../data/vad/7/M6By2WVM/\u5929\u7256.mp3",
+    "length": 2.7,
+    "label": "\u5929\u7256"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2Qje/\u5929\u7256.mp3",
+    "length": 1.8,
+    "label": "\u5929\u7256"
+  },
+  {
+    "wav": "../data/vad/7/LQ8alv47/\u5929\u7256.mp3",
+    "length": 2.052,
+    "label": "\u5929\u7256"
+  },
+  {
+    "wav": "../data/vad/7/7j9JKOKM/\u5929\u7256.mp3",
+    "length": 2.628,
+    "label": "\u5929\u7256"
+  },
+  {
+    "wav": "../data/vad/4/MWWavVyM/\u592a\u6e0a.mp3",
+    "length": 2.052,
+    "label": "\u592a\u6e0a"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u592a\u6e0a.mp3",
+    "length": 2.592,
+    "label": "\u592a\u6e0a"
+  },
+  {
+    "wav": "../data/vad/4/Mx2mjP0L/\u592a\u6e0a.mp3",
+    "length": 1.98,
+    "label": "\u592a\u6e0a"
+  },
+  {
+    "wav": "../data/vad/8/Lm9BbZOL/\u6761\u53e3.mp3",
+    "length": 2.052,
+    "label": "\u6761\u53e3"
+  },
+  {
+    "wav": "../data/vad/8/L0mYZADe/\u6761\u53e3.mp3",
+    "length": 2.484,
+    "label": "\u6761\u53e3"
+  },
+  {
+    "wav": "../data/vad/8/eP2aDln7/\u6761\u53e3.mp3",
+    "length": 1.548,
+    "label": "\u6761\u53e3"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0lRM/\u504f\u5386.mp3",
+    "length": 2.484,
+    "label": "\u504f\u5386"
+  },
+  {
+    "wav": "../data/vad/4/7Ypajq0M/\u504f\u5386.mp3",
+    "length": 1.044,
+    "label": "\u504f\u5386"
+  },
+  {
+    "wav": "../data/vad/7/e3Bw8WbL/\u504f\u5386.mp3",
+    "length": 1.728,
+    "label": "\u504f\u5386"
+  },
+  {
+    "wav": "../data/vad/4/ev9Jy2VL/\u504f\u5386.mp3",
+    "length": 2.304,
+    "label": "\u504f\u5386"
+  },
+  {
+    "wav": "../data/vad/4/M28rkqDL/\u504f\u5386.mp3",
+    "length": 2.844,
+    "label": "\u504f\u5386"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2g8e/\u504f\u5386.mp3",
+    "length": 1.98,
+    "label": "\u504f\u5386"
+  },
+  {
+    "wav": "../data/vad/4/e3Bwk52L/\u504f\u5386.mp3",
+    "length": 2.232,
+    "label": "\u504f\u5386"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u534e\u76d6.mp3",
+    "length": 1.98,
+    "label": "\u534e\u76d6"
+  },
+  {
+    "wav": "../data/vad/2/eNQ0n8bL/\u534e\u76d6.mp3",
+    "length": 1.8,
+    "label": "\u534e\u76d6"
+  },
+  {
+    "wav": "../data/vad/2/7qXGO3gM/\u534e\u76d6.mp3",
+    "length": 1.908,
+    "label": "\u534e\u76d6"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u534e\u76d6.mp3",
+    "length": 3.096,
+    "label": "\u534e\u76d6"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aDJA7/\u672c\u795e.mp3",
+    "length": 1.728,
+    "label": "\u672c\u795e"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aD8b7/\u672c\u795e.mp3",
+    "length": 2.484,
+    "label": "\u672c\u795e"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u672c\u795e.mp3",
+    "length": 1.116,
+    "label": "\u672c\u795e"
+  },
+  {
+    "wav": "../data/vad/5/e4Bkvxq7/\u672c\u795e.mp3",
+    "length": 2.484,
+    "label": "\u672c\u795e"
+  },
+  {
+    "wav": "../data/vad/8/Lm9B4PxL/\u4e0b\u5de8\u865a.mp3",
+    "length": 2.412,
+    "label": "\u4e0b\u5de8\u865a"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u4e0b\u5de8\u865a.mp3",
+    "length": 3.528,
+    "label": "\u4e0b\u5de8\u865a"
+  },
+  {
+    "wav": "../data/vad/8/7AxDyrDM/\u4e0b\u5de8\u865a.mp3",
+    "length": 2.16,
+    "label": "\u4e0b\u5de8\u865a"
+  },
+  {
+    "wav": "../data/vad/7/eEKD0xJ7/\u79e9\u8fb9.mp3",
+    "length": 1.368,
+    "label": "\u79e9\u8fb9"
+  },
+  {
+    "wav": "../data/vad/7/LGBD0Wp7/\u79e9\u8fb9.mp3",
+    "length": 1.98,
+    "label": "\u79e9\u8fb9"
+  },
+  {
+    "wav": "../data/vad/7/M6By2WVM/\u79e9\u8fb9.mp3",
+    "length": 3.528,
+    "label": "\u79e9\u8fb9"
+  },
+  {
+    "wav": "../data/vad/3/en9JDnAL/\u4e09\u9633\u7edc.mp3",
+    "length": 2.988,
+    "label": "\u4e09\u9633\u7edc"
+  },
+  {
+    "wav": "../data/vad/3/M6BywPxM/\u4e09\u9633\u7edc.mp3",
+    "length": 1.728,
+    "label": "\u4e09\u9633\u7edc"
+  },
+  {
+    "wav": "../data/vad/3/7KvaxvYM/\u4e09\u9633\u7edc.mp3",
+    "length": 2.736,
+    "label": "\u4e09\u9633\u7edc"
+  },
+  {
+    "wav": "../data/vad/4/MWWavjGM/\u5927\u6566.mp3",
+    "length": 2.484,
+    "label": "\u5927\u6566"
+  },
+  {
+    "wav": "../data/vad/4/M6ByNaVM/\u5927\u6566.mp3",
+    "length": 2.988,
+    "label": "\u5927\u6566"
+  },
+  {
+    "wav": "../data/vad/4/7BGD2VjL/\u5927\u6566.mp3",
+    "length": 1.908,
+    "label": "\u5927\u6566"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u5927\u6566.mp3",
+    "length": 2.592,
+    "label": "\u5927\u6566"
+  },
+  {
+    "wav": "../data/vad/7/eP2aYXA7/\u91d1\u95e8.mp3",
+    "length": 2.988,
+    "label": "\u91d1\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/eyP6aBBL/\u91d1\u95e8.mp3",
+    "length": 2.304,
+    "label": "\u91d1\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/Mr5JKNEe/\u91d1\u95e8.mp3",
+    "length": 3.528,
+    "label": "\u91d1\u95e8"
+  },
+  {
+    "wav": "../data/vad/7/L0mYk3Je/\u6606\u4ed1.mp3",
+    "length": 1.728,
+    "label": "\u6606\u4ed1"
+  },
+  {
+    "wav": "../data/vad/7/Mr5JKNEe/\u6606\u4ed1.mp3",
+    "length": 1.44,
+    "label": "\u6606\u4ed1"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0lRM/\u6606\u4ed1.mp3",
+    "length": 2.412,
+    "label": "\u6606\u4ed1"
+  },
+  {
+    "wav": "../data/vad/8/L0mYZADe/\u9634\u5e02.mp3",
+    "length": 2.304,
+    "label": "\u9634\u5e02"
+  },
+  {
+    "wav": "../data/vad/8/MDPDgQoM/\u9634\u5e02.mp3",
+    "length": 1.98,
+    "label": "\u9634\u5e02"
+  },
+  {
+    "wav": "../data/vad/8/Lm9BbZOL/\u9634\u5e02.mp3",
+    "length": 2.16,
+    "label": "\u9634\u5e02"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgqZ7/\u4e2d\u5ead.mp3",
+    "length": 2.304,
+    "label": "\u4e2d\u5ead"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgXO7/\u4e2d\u5ead.mp3",
+    "length": 2.844,
+    "label": "\u4e2d\u5ead"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u4e2d\u5ead.mp3",
+    "length": 2.988,
+    "label": "\u4e2d\u5ead"
+  },
+  {
+    "wav": "../data/vad/2/MDPDRdQM/\u4e2d\u5ead.mp3",
+    "length": 2.484,
+    "label": "\u4e2d\u5ead"
+  },
+  {
+    "wav": "../data/vad/4/ebqD5pkL/\u4e91\u95e8.mp3",
+    "length": 2.592,
+    "label": "\u4e91\u95e8"
+  },
+  {
+    "wav": "../data/vad/4/7lOKgRRM/\u4e91\u95e8.mp3",
+    "length": 2.664,
+    "label": "\u4e91\u95e8"
+  },
+  {
+    "wav": "../data/vad/4/7XAPpVoL/\u4e91\u95e8.mp3",
+    "length": 3.78,
+    "label": "\u4e91\u95e8"
+  },
+  {
+    "wav": "../data/vad/4/ev9Jy2VL/\u4e91\u95e8.mp3",
+    "length": 2.052,
+    "label": "\u4e91\u95e8"
+  },
+  {
+    "wav": "../data/vad/1/epD8NVXe/\u4e2d\u9b41.mp3",
+    "length": 2.592,
+    "label": "\u4e2d\u9b41"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89QL/\u4e2d\u9b41.mp3",
+    "length": 1.476,
+    "label": "\u4e2d\u9b41"
+  },
+  {
+    "wav": "../data/vad/1/LOyAKp4M/\u4e2d\u9b41.mp3",
+    "length": 2.556,
+    "label": "\u4e2d\u9b41"
+  },
+  {
+    "wav": "../data/vad/1/ebqzpPYL/\u4e2d\u9b41.mp3",
+    "length": 1.728,
+    "label": "\u4e2d\u9b41"
+  },
+  {
+    "wav": "../data/vad/5/M6ByJqBM/\u5934\u4e34\u6ce3.mp3",
+    "length": 2.736,
+    "label": "\u5934\u4e34\u6ce3"
+  },
+  {
+    "wav": "../data/vad/5/LGBDrqE7/\u5934\u4e34\u6ce3.mp3",
+    "length": 1.728,
+    "label": "\u5934\u4e34\u6ce3"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u5934\u4e34\u6ce3.mp3",
+    "length": 2.484,
+    "label": "\u5934\u4e34\u6ce3"
+  },
+  {
+    "wav": "../data/vad/5/eyP6vvGL/\u5934\u4e34\u6ce3.mp3",
+    "length": 1.656,
+    "label": "\u5934\u4e34\u6ce3"
+  },
+  {
+    "wav": "../data/vad/3/7BGDP9zL/\u517b\u8001.mp3",
+    "length": 2.808,
+    "label": "\u517b\u8001"
+  },
+  {
+    "wav": "../data/vad/3/e3BwmDEL/\u517b\u8001.mp3",
+    "length": 2.592,
+    "label": "\u517b\u8001"
+  },
+  {
+    "wav": "../data/vad/3/MdPAWkXM/\u517b\u8001.mp3",
+    "length": 1.728,
+    "label": "\u517b\u8001"
+  },
+  {
+    "wav": "../data/vad/2/MDPDRdQM/\u4e0a\u8118.mp3",
+    "length": 2.412,
+    "label": "\u4e0a\u8118"
+  },
+  {
+    "wav": "../data/vad/2/MWWaoRyM/\u4e0a\u8118.mp3",
+    "length": 2.16,
+    "label": "\u4e0a\u8118"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u4e0a\u8118.mp3",
+    "length": 1.656,
+    "label": "\u4e0a\u8118"
+  },
+  {
+    "wav": "../data/vad/2/eNQ0n8bL/\u4e0a\u8118.mp3",
+    "length": 2.16,
+    "label": "\u4e0a\u8118"
+  },
+  {
+    "wav": "../data/vad/8/MJnD5xdM/\u988a\u8f66.mp3",
+    "length": 1.908,
+    "label": "\u988a\u8f66"
+  },
+  {
+    "wav": "../data/vad/8/M1KXZVyL/\u988a\u8f66.mp3",
+    "length": 3.528,
+    "label": "\u988a\u8f66"
+  },
+  {
+    "wav": "../data/vad/8/Lm9Bb8zL/\u988a\u8f66.mp3",
+    "length": 2.232,
+    "label": "\u988a\u8f66"
+  },
+  {
+    "wav": "../data/vad/6/7aQpn867/\u4fde\u5e9c.mp3",
+    "length": 2.304,
+    "label": "\u4fde\u5e9c"
+  },
+  {
+    "wav": "../data/vad/6/epDJ4D8e/\u4fde\u5e9c.mp3",
+    "length": 2.16,
+    "label": "\u4fde\u5e9c"
+  },
+  {
+    "wav": "../data/vad/6/7Ypag6zM/\u4fde\u5e9c.mp3",
+    "length": 1.728,
+    "label": "\u4fde\u5e9c"
+  },
+  {
+    "wav": "../data/vad/6/M6By2O8M/\u4fde\u5e9c.mp3",
+    "length": 2.304,
+    "label": "\u4fde\u5e9c"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u813e\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u813e\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MWWa8yBM/\u813e\u4fde.mp3",
+    "length": 1.476,
+    "label": "\u813e\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MRDabVQL/\u813e\u4fde.mp3",
+    "length": 1.296,
+    "label": "\u813e\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u813e\u4fde.mp3",
+    "length": 1.476,
+    "label": "\u813e\u4fde"
+  },
+  {
+    "wav": "../data/vad/8/Lm9Bb8zL/\u5730\u4ed3.mp3",
+    "length": 1.404,
+    "label": "\u5730\u4ed3"
+  },
+  {
+    "wav": "../data/vad/8/MDPDgQoM/\u5730\u4ed3.mp3",
+    "length": 2.988,
+    "label": "\u5730\u4ed3"
+  },
+  {
+    "wav": "../data/vad/8/e4BkZPx7/\u5730\u4ed3.mp3",
+    "length": 3.6,
+    "label": "\u5730\u4ed3"
+  },
+  {
+    "wav": "../data/vad/5/Mx2mwRKL/\u9633\u9675\u6cc9.mp3",
+    "length": 1.476,
+    "label": "\u9633\u9675\u6cc9"
+  },
+  {
+    "wav": "../data/vad/5/MZqpNkDe/\u9633\u9675\u6cc9.mp3",
+    "length": 1.728,
+    "label": "\u9633\u9675\u6cc9"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u9633\u9675\u6cc9.mp3",
+    "length": 2.592,
+    "label": "\u9633\u9675\u6cc9"
+  },
+  {
+    "wav": "../data/vad/7/Mr5Jblpe/\u9633\u7eb2.mp3",
+    "length": 2.052,
+    "label": "\u9633\u7eb2"
+  },
+  {
+    "wav": "../data/vad/7/ekqNl0Q7/\u9633\u7eb2.mp3",
+    "length": 3.492,
+    "label": "\u9633\u7eb2"
+  },
+  {
+    "wav": "../data/vad/7/M6By2E0M/\u9633\u7eb2.mp3",
+    "length": 1.476,
+    "label": "\u9633\u7eb2"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u5730\u4e94\u4f1a.mp3",
+    "length": 2.844,
+    "label": "\u5730\u4e94\u4f1a"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u5730\u4e94\u4f1a.mp3",
+    "length": 2.052,
+    "label": "\u5730\u4e94\u4f1a"
+  },
+  {
+    "wav": "../data/vad/5/e8YqvvwM/\u5730\u4e94\u4f1a.mp3",
+    "length": 2.052,
+    "label": "\u5730\u4e94\u4f1a"
+  },
+  {
+    "wav": "../data/vad/4/LVJadYaL/\u819d\u5173.mp3",
+    "length": 2.16,
+    "label": "\u819d\u5173"
+  },
+  {
+    "wav": "../data/vad/4/ev9Jy2VL/\u819d\u5173.mp3",
+    "length": 2.16,
+    "label": "\u819d\u5173"
+  },
+  {
+    "wav": "../data/vad/4/7AxD14QM/\u819d\u5173.mp3",
+    "length": 2.664,
+    "label": "\u819d\u5173"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAd9L/\u767e\u4f1a.mp3",
+    "length": 1.908,
+    "label": "\u767e\u4f1a"
+  },
+  {
+    "wav": "../data/vad/2/7Ypa5RaM/\u767e\u4f1a.mp3",
+    "length": 2.052,
+    "label": "\u767e\u4f1a"
+  },
+  {
+    "wav": "../data/vad/2/LQ8NEQB7/\u767e\u4f1a.mp3",
+    "length": 2.232,
+    "label": "\u767e\u4f1a"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u767e\u4f1a.mp3",
+    "length": 2.664,
+    "label": "\u767e\u4f1a"
+  },
+  {
+    "wav": "../data/vad/8/M1KXZVyL/\u6c14\u51b2.mp3",
+    "length": 3.276,
+    "label": "\u6c14\u51b2"
+  },
+  {
+    "wav": "../data/vad/8/eEKD23J7/\u6c14\u51b2.mp3",
+    "length": 2.052,
+    "label": "\u6c14\u51b2"
+  },
+  {
+    "wav": "../data/vad/8/LOyDGJpM/\u6c14\u51b2.mp3",
+    "length": 1.368,
+    "label": "\u6c14\u51b2"
+  },
+  {
+    "wav": "../data/vad/2/e3BwdqRL/\u77f3\u95e8.mp3",
+    "length": 2.844,
+    "label": "\u77f3\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAqEL/\u77f3\u95e8.mp3",
+    "length": 2.052,
+    "label": "\u77f3\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u77f3\u95e8.mp3",
+    "length": 1.8,
+    "label": "\u77f3\u95e8"
+  },
+  {
+    "wav": "../data/vad/2/MDPdk0lM/\u77f3\u95e8.mp3",
+    "length": 2.304,
+    "label": "\u77f3\u95e8"
+  },
+  {
+    "wav": "../data/vad/5/MdPA25AM/\u5929\u51b2.mp3",
+    "length": 1.98,
+    "label": "\u5929\u51b2"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u5929\u51b2.mp3",
+    "length": 2.052,
+    "label": "\u5929\u51b2"
+  },
+  {
+    "wav": "../data/vad/5/MZqprWGe/\u5929\u51b2.mp3",
+    "length": 2.232,
+    "label": "\u5929\u51b2"
+  },
+  {
+    "wav": "../data/vad/5/ev9JXdxL/\u5929\u51b2.mp3",
+    "length": 3.096,
+    "label": "\u5929\u51b2"
+  },
+  {
+    "wav": "../data/vad/7/e3Bw8WbL/\u80f8\u4e61.mp3",
+    "length": 1.908,
+    "label": "\u80f8\u4e61"
+  },
+  {
+    "wav": "../data/vad/7/ekqNl0Q7/\u80f8\u4e61.mp3",
+    "length": 2.88,
+    "label": "\u80f8\u4e61"
+  },
+  {
+    "wav": "../data/vad/8/LVJalpzL/\u80f8\u4e61.mp3",
+    "length": 3.528,
+    "label": "\u80f8\u4e61"
+  },
+  {
+    "wav": "../data/vad/8/M1KXZVyL/\u80f8\u4e61.mp3",
+    "length": 3.6,
+    "label": "\u80f8\u4e61"
+  },
+  {
+    "wav": "../data/vad/8/Mr5JKdYe/\u80f8\u4e61.mp3",
+    "length": 2.664,
+    "label": "\u80f8\u4e61"
+  },
+  {
+    "wav": "../data/vad/7/LVJayQzL/\u80f8\u4e61.mp3",
+    "length": 2.34,
+    "label": "\u80f8\u4e61"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2Qje/\u80f8\u4e61.mp3",
+    "length": 1.908,
+    "label": "\u80f8\u4e61"
+  },
+  {
+    "wav": "../data/vad/3/M6BywPxM/\u56db\u6e0e.mp3",
+    "length": 1.8,
+    "label": "\u56db\u6e0e"
+  },
+  {
+    "wav": "../data/vad/3/M6By6aBM/\u56db\u6e0e.mp3",
+    "length": 1.548,
+    "label": "\u56db\u6e0e"
+  },
+  {
+    "wav": "../data/vad/3/M1KXryDL/\u56db\u6e0e.mp3",
+    "length": 2.988,
+    "label": "\u56db\u6e0e"
+  },
+  {
+    "wav": "../data/vad/6/7Ypag6zM/\u80c3\u4fde.mp3",
+    "length": 1.728,
+    "label": "\u80c3\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MRDa6dxL/\u80c3\u4fde.mp3",
+    "length": 2.16,
+    "label": "\u80c3\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/epDJ4D8e/\u80c3\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u80c3\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/M28rAwOL/\u80c3\u4fde.mp3",
+    "length": 1.98,
+    "label": "\u80c3\u4fde"
+  },
+  {
+    "wav": "../data/vad/7/MRDalnQL/\u5546\u4e18.mp3",
+    "length": 1.368,
+    "label": "\u5546\u4e18"
+  },
+  {
+    "wav": "../data/vad/7/LGBD0Wp7/\u5546\u4e18.mp3",
+    "length": 1.548,
+    "label": "\u5546\u4e18"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2g8e/\u5546\u4e18.mp3",
+    "length": 1.656,
+    "label": "\u5546\u4e18"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVz2e/\u60ac\u67a2.mp3",
+    "length": 2.484,
+    "label": "\u60ac\u67a2"
+  },
+  {
+    "wav": "../data/vad/2/Mx2bJ85L/\u60ac\u67a2.mp3",
+    "length": 2.232,
+    "label": "\u60ac\u67a2"
+  },
+  {
+    "wav": "../data/vad/2/M6BKO93M/\u60ac\u67a2.mp3",
+    "length": 2.916,
+    "label": "\u60ac\u67a2"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u60ac\u67a2.mp3",
+    "length": 2.304,
+    "label": "\u60ac\u67a2"
+  },
+  {
+    "wav": "../data/vad/8/LVJal4RL/\u4e73\u4e2d.mp3",
+    "length": 2.412,
+    "label": "\u4e73\u4e2d"
+  },
+  {
+    "wav": "../data/vad/8/M6ByZEdM/\u4e73\u4e2d.mp3",
+    "length": 2.16,
+    "label": "\u4e73\u4e2d"
+  },
+  {
+    "wav": "../data/vad/8/Mr5JKdYe/\u4e73\u4e2d.mp3",
+    "length": 1.908,
+    "label": "\u4e73\u4e2d"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u81ba\u7a97.mp3",
+    "length": 2.592,
+    "label": "\u81ba\u7a97"
+  },
+  {
+    "wav": "../data/vad/8/Mo1JY8OL/\u81ba\u7a97.mp3",
+    "length": 2.232,
+    "label": "\u81ba\u7a97"
+  },
+  {
+    "wav": "../data/vad/8/LVJa3qpL/\u81ba\u7a97.mp3",
+    "length": 2.592,
+    "label": "\u81ba\u7a97"
+  },
+  {
+    "wav": "../data/vad/8/e4BkRKW7/\u81ba\u7a97.mp3",
+    "length": 2.736,
+    "label": "\u81ba\u7a97"
+  },
+  {
+    "wav": "../data/vad/7/ekqNbGz7/\u9644\u5206.mp3",
+    "length": 1.98,
+    "label": "\u9644\u5206"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2Qje/\u9644\u5206.mp3",
+    "length": 1.728,
+    "label": "\u9644\u5206"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0lRM/\u9644\u5206.mp3",
+    "length": 1.872,
+    "label": "\u9644\u5206"
+  },
+  {
+    "wav": "../data/vad/7/eEKD0xJ7/\u98df\u7aa6.mp3",
+    "length": 1.728,
+    "label": "\u98df\u7aa6"
+  },
+  {
+    "wav": "../data/vad/7/M6By2WVM/\u98df\u7aa6.mp3",
+    "length": 2.844,
+    "label": "\u98df\u7aa6"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0VnM/\u98df\u7aa6.mp3",
+    "length": 1.908,
+    "label": "\u98df\u7aa6"
+  },
+  {
+    "wav": "../data/vad/2/MDPdk0lM/\u56df\u4f1a.mp3",
+    "length": 1.908,
+    "label": "\u56df\u4f1a"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mqkL/\u56df\u4f1a.mp3",
+    "length": 2.592,
+    "label": "\u56df\u4f1a"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVz2e/\u56df\u4f1a.mp3",
+    "length": 1.728,
+    "label": "\u56df\u4f1a"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykk4L/\u56df\u4f1a.mp3",
+    "length": 3.78,
+    "label": "\u56df\u4f1a"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u7709\u51b2.mp3",
+    "length": 2.412,
+    "label": "\u7709\u51b2"
+  },
+  {
+    "wav": "../data/vad/6/Lm9BqOzL/\u7709\u51b2.mp3",
+    "length": 2.052,
+    "label": "\u7709\u51b2"
+  },
+  {
+    "wav": "../data/vad/6/epDJ4D8e/\u7709\u51b2.mp3",
+    "length": 2.16,
+    "label": "\u7709\u51b2"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u7709\u51b2.mp3",
+    "length": 2.052,
+    "label": "\u7709\u51b2"
+  },
+  {
+    "wav": "../data/vad/3/M6By6aBM/\u81d1\u4fde.mp3",
+    "length": 1.656,
+    "label": "\u81d1\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/MJnDYn3M/\u81d1\u4fde.mp3",
+    "length": 1.512,
+    "label": "\u81d1\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u81d1\u4fde.mp3",
+    "length": 1.728,
+    "label": "\u81d1\u4fde"
+  },
+  {
+    "wav": "../data/vad/3/eNQ0G6gL/\u5c11\u6cfd.mp3",
+    "length": 1.548,
+    "label": "\u5c11\u6cfd"
+  },
+  {
+    "wav": "../data/vad/3/7qXGlmqM/\u5c11\u6cfd.mp3",
+    "length": 2.232,
+    "label": "\u5c11\u6cfd"
+  },
+  {
+    "wav": "../data/vad/3/7KvaxvYM/\u5c11\u6cfd.mp3",
+    "length": 2.052,
+    "label": "\u5c11\u6cfd"
+  },
+  {
+    "wav": "../data/vad/6/Mr5JnxBe/\u7389\u6795.mp3",
+    "length": 2.16,
+    "label": "\u7389\u6795"
+  },
+  {
+    "wav": "../data/vad/6/7aQpn867/\u7389\u6795.mp3",
+    "length": 2.232,
+    "label": "\u7389\u6795"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u7389\u6795.mp3",
+    "length": 2.592,
+    "label": "\u7389\u6795"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u7389\u6795.mp3",
+    "length": 1.908,
+    "label": "\u7389\u6795"
+  },
+  {
+    "wav": "../data/vad/7/MgEpolwL/\u4e09\u9634\u4ea4.mp3",
+    "length": 2.232,
+    "label": "\u4e09\u9634\u4ea4"
+  },
+  {
+    "wav": "../data/vad/7/7XAPqmdL/\u4e09\u9634\u4ea4.mp3",
+    "length": 2.304,
+    "label": "\u4e09\u9634\u4ea4"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2Qje/\u4e09\u9634\u4ea4.mp3",
+    "length": 2.232,
+    "label": "\u4e09\u9634\u4ea4"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u7075\u589f.mp3",
+    "length": 2.484,
+    "label": "\u7075\u589f"
+  },
+  {
+    "wav": "../data/vad/6/Mx2mzO9L/\u7075\u589f.mp3",
+    "length": 3.168,
+    "label": "\u7075\u589f"
+  },
+  {
+    "wav": "../data/vad/6/MRDabVQL/\u7075\u589f.mp3",
+    "length": 1.116,
+    "label": "\u7075\u589f"
+  },
+  {
+    "wav": "../data/vad/6/7qXGby6M/\u7075\u589f.mp3",
+    "length": 1.8,
+    "label": "\u7075\u589f"
+  },
+  {
+    "wav": "../data/vad/3/Lm9B04OL/\u5929\u9ace.mp3",
+    "length": 2.16,
+    "label": "\u5929\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/MDPDrxgM/\u5929\u9ace.mp3",
+    "length": 1.548,
+    "label": "\u5929\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/7YpaGDbM/\u5929\u9ace.mp3",
+    "length": 1.908,
+    "label": "\u5929\u9ace"
+  },
+  {
+    "wav": "../data/vad/2/ev9Jn0AL/\u9676\u9053.mp3",
+    "length": 2.988,
+    "label": "\u9676\u9053"
+  },
+  {
+    "wav": "../data/vad/2/MdPAkB6M/\u9676\u9053.mp3",
+    "length": 2.052,
+    "label": "\u9676\u9053"
+  },
+  {
+    "wav": "../data/vad/2/7aQpgXO7/\u9676\u9053.mp3",
+    "length": 3.42,
+    "label": "\u9676\u9053"
+  },
+  {
+    "wav": "../data/vad/2/Lm9kYXAL/\u9676\u9053.mp3",
+    "length": 2.592,
+    "label": "\u9676\u9053"
+  },
+  {
+    "wav": "../data/vad/5/e4BkvPq7/\u592a\u6eaa.mp3",
+    "length": 2.16,
+    "label": "\u592a\u6eaa"
+  },
+  {
+    "wav": "../data/vad/5/LVJa6WpL/\u592a\u6eaa.mp3",
+    "length": 2.16,
+    "label": "\u592a\u6eaa"
+  },
+  {
+    "wav": "../data/vad/5/MWWa3WbM/\u592a\u6eaa.mp3",
+    "length": 1.548,
+    "label": "\u592a\u6eaa"
+  },
+  {
+    "wav": "../data/vad/5/MdPA25AM/\u4fa0\u6eaa.mp3",
+    "length": 1.728,
+    "label": "\u4fa0\u6eaa"
+  },
+  {
+    "wav": "../data/vad/5/e4Bkvxq7/\u4fa0\u6eaa.mp3",
+    "length": 1.908,
+    "label": "\u4fa0\u6eaa"
+  },
+  {
+    "wav": "../data/vad/5/MWWa020M/\u4fa0\u6eaa.mp3",
+    "length": 3.6,
+    "label": "\u4fa0\u6eaa"
+  },
+  {
+    "wav": "../data/vad/3/7AxD1n6M/\u5927\u9675.mp3",
+    "length": 1.656,
+    "label": "\u5927\u9675"
+  },
+  {
+    "wav": "../data/vad/3/Mx2m9l5L/\u5927\u9675.mp3",
+    "length": 2.16,
+    "label": "\u5927\u9675"
+  },
+  {
+    "wav": "../data/vad/3/e8YqZxxM/\u5927\u9675.mp3",
+    "length": 1.908,
+    "label": "\u5927\u9675"
+  },
+  {
+    "wav": "../data/vad/4/en9JxaAL/\u6276\u7a81.mp3",
+    "length": 3.528,
+    "label": "\u6276\u7a81"
+  },
+  {
+    "wav": "../data/vad/4/7AxD14QM/\u6276\u7a81.mp3",
+    "length": 2.412,
+    "label": "\u6276\u7a81"
+  },
+  {
+    "wav": "../data/vad/4/7XAP6nwL/\u6276\u7a81.mp3",
+    "length": 1.152,
+    "label": "\u6276\u7a81"
+  },
+  {
+    "wav": "../data/vad/5/e4BkvPq7/\u4e18\u589f.mp3",
+    "length": 2.052,
+    "label": "\u4e18\u589f"
+  },
+  {
+    "wav": "../data/vad/5/7YpaNdwM/\u4e18\u589f.mp3",
+    "length": 2.736,
+    "label": "\u4e18\u589f"
+  },
+  {
+    "wav": "../data/vad/5/7YpaXRxM/\u4e18\u589f.mp3",
+    "length": 2.412,
+    "label": "\u4e18\u589f"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u5173\u5143\u4fde.mp3",
+    "length": 2.16,
+    "label": "\u5173\u5143\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u5173\u5143\u4fde.mp3",
+    "length": 2.412,
+    "label": "\u5173\u5143\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MWWawoBM/\u5173\u5143\u4fde.mp3",
+    "length": 2.448,
+    "label": "\u5173\u5143\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO4EL/\u5173\u5143\u4fde.mp3",
+    "length": 2.052,
+    "label": "\u5173\u5143\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/M28rAj8L/\u80c6\u4fde.mp3",
+    "length": 2.664,
+    "label": "\u80c6\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7KvaOvnM/\u80c6\u4fde.mp3",
+    "length": 2.484,
+    "label": "\u80c6\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MWWawoBM/\u80c6\u4fde.mp3",
+    "length": 2.808,
+    "label": "\u80c6\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbJ2M/\u80c6\u4fde.mp3",
+    "length": 1.548,
+    "label": "\u80c6\u4fde"
+  },
+  {
+    "wav": "../data/vad/8/e3Bwb92L/\u5927\u5de8.mp3",
+    "length": 2.988,
+    "label": "\u5927\u5de8"
+  },
+  {
+    "wav": "../data/vad/8/7YpaxVWM/\u5927\u5de8.mp3",
+    "length": 2.988,
+    "label": "\u5927\u5de8"
+  },
+  {
+    "wav": "../data/vad/8/eP2aDln7/\u5927\u5de8.mp3",
+    "length": 1.908,
+    "label": "\u5927\u5de8"
+  },
+  {
+    "wav": "../data/vad/6/M6By2O8M/\u5546\u66f2.mp3",
+    "length": 2.16,
+    "label": "\u5546\u66f2"
+  },
+  {
+    "wav": "../data/vad/6/en9Jg5WL/\u5546\u66f2.mp3",
+    "length": 1.8,
+    "label": "\u5546\u66f2"
+  },
+  {
+    "wav": "../data/vad/6/Mx2mzO9L/\u5546\u66f2.mp3",
+    "length": 2.484,
+    "label": "\u5546\u66f2"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u5546\u66f2.mp3",
+    "length": 2.988,
+    "label": "\u5546\u66f2"
+  },
+  {
+    "wav": "../data/vad/2/MdPAkB6M/\u9634\u4ea4.mp3",
+    "length": 1.548,
+    "label": "\u9634\u4ea4"
+  },
+  {
+    "wav": "../data/vad/2/7j9J00dM/\u9634\u4ea4.mp3",
+    "length": 2.592,
+    "label": "\u9634\u4ea4"
+  },
+  {
+    "wav": "../data/vad/2/Mx2bJ85L/\u9634\u4ea4.mp3",
+    "length": 2.304,
+    "label": "\u9634\u4ea4"
+  },
+  {
+    "wav": "../data/vad/2/eNQ0n8bL/\u9634\u4ea4.mp3",
+    "length": 1.98,
+    "label": "\u9634\u4ea4"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAd9L/\u524d\u9876.mp3",
+    "length": 2.16,
+    "label": "\u524d\u9876"
+  },
+  {
+    "wav": "../data/vad/2/ekqrB1Y7/\u524d\u9876.mp3",
+    "length": 1.368,
+    "label": "\u524d\u9876"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u524d\u9876.mp3",
+    "length": 2.736,
+    "label": "\u524d\u9876"
+  },
+  {
+    "wav": "../data/vad/2/eNQ0n8bL/\u524d\u9876.mp3",
+    "length": 2.232,
+    "label": "\u524d\u9876"
+  },
+  {
+    "wav": "../data/vad/2/LQ8NEQB7/\u4e2d\u8118.mp3",
+    "length": 2.232,
+    "label": "\u4e2d\u8118"
+  },
+  {
+    "wav": "../data/vad/2/ekqN94A7/\u4e2d\u8118.mp3",
+    "length": 1.044,
+    "label": "\u4e2d\u8118"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVz2e/\u4e2d\u8118.mp3",
+    "length": 1.8,
+    "label": "\u4e2d\u8118"
+  },
+  {
+    "wav": "../data/vad/2/Lz9p0X17/\u4e2d\u8118.mp3",
+    "length": 2.736,
+    "label": "\u4e2d\u8118"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u7763\u4fde.mp3",
+    "length": 2.304,
+    "label": "\u7763\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e8YqAExM/\u7763\u4fde.mp3",
+    "length": 2.232,
+    "label": "\u7763\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/MRDa6dxL/\u7763\u4fde.mp3",
+    "length": 2.16,
+    "label": "\u7763\u4fde"
+  },
+  {
+    "wav": "../data/vad/6/e3Bw85NL/\u7763\u4fde.mp3",
+    "length": 2.16,
+    "label": "\u7763\u4fde"
+  },
+  {
+    "wav": "../data/vad/2/epDJYW3e/\u81bb\u4e2d.mp3",
+    "length": 2.304,
+    "label": "\u81bb\u4e2d"
+  },
+  {
+    "wav": "../data/vad/2/Lz9p0X17/\u81bb\u4e2d.mp3",
+    "length": 2.736,
+    "label": "\u81bb\u4e2d"
+  },
+  {
+    "wav": "../data/vad/2/Mx2bJn0L/\u81bb\u4e2d.mp3",
+    "length": 3.852,
+    "label": "\u81bb\u4e2d"
+  },
+  {
+    "wav": "../data/vad/2/eyPpAd9L/\u81bb\u4e2d.mp3",
+    "length": 1.548,
+    "label": "\u81bb\u4e2d"
+  },
+  {
+    "wav": "../data/vad/4/M6ByNaVM/\u5929\u5e9c.mp3",
+    "length": 2.664,
+    "label": "\u5929\u5e9c"
+  },
+  {
+    "wav": "../data/vad/4/MWWavjGM/\u5929\u5e9c.mp3",
+    "length": 1.548,
+    "label": "\u5929\u5e9c"
+  },
+  {
+    "wav": "../data/vad/4/Mx2mjP0L/\u5929\u5e9c.mp3",
+    "length": 2.052,
+    "label": "\u5929\u5e9c"
+  },
+  {
+    "wav": "../data/vad/4/7XAPpVoL/\u5929\u5e9c.mp3",
+    "length": 3.672,
+    "label": "\u5929\u5e9c"
+  },
+  {
+    "wav": "../data/vad/5/MgEpPO5L/\u5c45\u9ace.mp3",
+    "length": 1.512,
+    "label": "\u5c45\u9ace"
+  },
+  {
+    "wav": "../data/vad/5/LwPb8Zpe/\u5c45\u9ace.mp3",
+    "length": 1.8,
+    "label": "\u5c45\u9ace"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aD8b7/\u5c45\u9ace.mp3",
+    "length": 1.98,
+    "label": "\u5c45\u9ace"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u5c45\u9ace.mp3",
+    "length": 1.8,
+    "label": "\u5c45\u9ace"
+  },
+  {
+    "wav": "../data/vad/3/e3BwmDEL/\u5929\u7a97.mp3",
+    "length": 2.844,
+    "label": "\u5929\u7a97"
+  },
+  {
+    "wav": "../data/vad/3/e8YqZxxM/\u5929\u7a97.mp3",
+    "length": 1.656,
+    "label": "\u5929\u7a97"
+  },
+  {
+    "wav": "../data/vad/3/ev9JoRXL/\u5929\u7a97.mp3",
+    "length": 1.98,
+    "label": "\u5929\u7a97"
+  },
+  {
+    "wav": "../data/vad/1/ebqzpPYL/\u7389\u6db2.mp3",
+    "length": 1.476,
+    "label": "\u7389\u6db2"
+  },
+  {
+    "wav": "../data/vad/1/M1KD89QL/\u7389\u6db2.mp3",
+    "length": 1.548,
+    "label": "\u7389\u6db2"
+  },
+  {
+    "wav": "../data/vad/1/eyP6Z9vL/\u7389\u6db2.mp3",
+    "length": 2.052,
+    "label": "\u7389\u6db2"
+  },
+  {
+    "wav": "../data/vad/1/MRDAK1DL/\u7389\u6db2.mp3",
+    "length": 3.312,
+    "label": "\u7389\u6db2"
+  },
+  {
+    "wav": "../data/vad/3/Mo1JV24L/\u9633\u8c37.mp3",
+    "length": 2.664,
+    "label": "\u9633\u8c37"
+  },
+  {
+    "wav": "../data/vad/3/ev9JolNL/\u9633\u8c37.mp3",
+    "length": 2.412,
+    "label": "\u9633\u8c37"
+  },
+  {
+    "wav": "../data/vad/3/M6By6aBM/\u9633\u8c37.mp3",
+    "length": 1.908,
+    "label": "\u9633\u8c37"
+  },
+  {
+    "wav": "../data/vad/1/Mr5g9AVe/\u767e\u866b\u7a9d.mp3",
+    "length": 2.916,
+    "label": "\u767e\u866b\u7a9d"
+  },
+  {
+    "wav": "../data/vad/1/7BGdAAKL/\u767e\u866b\u7a9d.mp3",
+    "length": 3.42,
+    "label": "\u767e\u866b\u7a9d"
+  },
+  {
+    "wav": "../data/vad/1/LQ8NKoG7/\u767e\u866b\u7a9d.mp3",
+    "length": 2.592,
+    "label": "\u767e\u866b\u7a9d"
+  },
+  {
+    "wav": "../data/vad/1/LOyDN1NM/\u767e\u866b\u7a9d.mp3",
+    "length": 3.096,
+    "label": "\u767e\u866b\u7a9d"
+  },
+  {
+    "wav": "../data/vad/7/e4BkqO17/\u627f\u5c71.mp3",
+    "length": 1.368,
+    "label": "\u627f\u5c71"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2Qje/\u627f\u5c71.mp3",
+    "length": 2.412,
+    "label": "\u627f\u5c71"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0VnM/\u627f\u5c71.mp3",
+    "length": 2.412,
+    "label": "\u627f\u5c71"
+  },
+  {
+    "wav": "../data/vad/6/7qXGbgpM/\u80be\u5173.mp3",
+    "length": 1.8,
+    "label": "\u80be\u5173"
+  },
+  {
+    "wav": "../data/vad/6/7Ypag6zM/\u80be\u5173.mp3",
+    "length": 1.728,
+    "label": "\u80be\u5173"
+  },
+  {
+    "wav": "../data/vad/6/e4Bkq1x7/\u80be\u5173.mp3",
+    "length": 2.304,
+    "label": "\u80be\u5173"
+  },
+  {
+    "wav": "../data/vad/6/7BGDO4EL/\u80be\u5173.mp3",
+    "length": 1.908,
+    "label": "\u80be\u5173"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0lRM/\u5468\u8363.mp3",
+    "length": 3.096,
+    "label": "\u5468\u8363"
+  },
+  {
+    "wav": "../data/vad/7/eyP6aBBL/\u5468\u8363.mp3",
+    "length": 2.412,
+    "label": "\u5468\u8363"
+  },
+  {
+    "wav": "../data/vad/7/MZqp2Qje/\u5468\u8363.mp3",
+    "length": 1.476,
+    "label": "\u5468\u8363"
+  },
+  {
+    "wav": "../data/vad/4/MZqpGnye/\u8fce\u9999.mp3",
+    "length": 2.268,
+    "label": "\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/4/7KvaRXlM/\u8fce\u9999.mp3",
+    "length": 1.908,
+    "label": "\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2GxL/\u8fce\u9999.mp3",
+    "length": 3.096,
+    "label": "\u8fce\u9999"
+  },
+  {
+    "wav": "../data/vad/2/Mx2bJ85L/\u5927\u690e.mp3",
+    "length": 2.232,
+    "label": "\u5927\u690e"
+  },
+  {
+    "wav": "../data/vad/2/Mo1ykrRL/\u5927\u690e.mp3",
+    "length": 2.16,
+    "label": "\u5927\u690e"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u5927\u690e.mp3",
+    "length": 1.728,
+    "label": "\u5927\u690e"
+  },
+  {
+    "wav": "../data/vad/2/7j9J00dM/\u5927\u690e.mp3",
+    "length": 2.412,
+    "label": "\u5927\u690e"
+  },
+  {
+    "wav": "../data/vad/8/LwPbKlne/\u4e30\u9686.mp3",
+    "length": 2.376,
+    "label": "\u4e30\u9686"
+  },
+  {
+    "wav": "../data/vad/8/e3Bwb92L/\u4e30\u9686.mp3",
+    "length": 3.348,
+    "label": "\u4e30\u9686"
+  },
+  {
+    "wav": "../data/vad/8/LVJal4RL/\u4e30\u9686.mp3",
+    "length": 2.664,
+    "label": "\u4e30\u9686"
+  },
+  {
+    "wav": "../data/vad/8/eEKD23J7/\u4e30\u9686.mp3",
+    "length": 2.232,
+    "label": "\u4e30\u9686"
+  },
+  {
+    "wav": "../data/vad/8/M1KXk9nL/\u5de8\u9ace.mp3",
+    "length": 2.664,
+    "label": "\u5de8\u9ace"
+  },
+  {
+    "wav": "../data/vad/8/Lm9B4PxL/\u5de8\u9ace.mp3",
+    "length": 3.492,
+    "label": "\u5de8\u9ace"
+  },
+  {
+    "wav": "../data/vad/8/eEKD23J7/\u5de8\u9ace.mp3",
+    "length": 2.736,
+    "label": "\u5de8\u9ace"
+  },
+  {
+    "wav": "../data/vad/6/Mx2mzO9L/\u5927\u677c.mp3",
+    "length": 3.42,
+    "label": "\u5927\u677c"
+  },
+  {
+    "wav": "../data/vad/6/Mo1J214L/\u5927\u677c.mp3",
+    "length": 1.728,
+    "label": "\u5927\u677c"
+  },
+  {
+    "wav": "../data/vad/6/7KvaOvnM/\u5927\u677c.mp3",
+    "length": 2.664,
+    "label": "\u5927\u677c"
+  },
+  {
+    "wav": "../data/vad/6/eEKDAR97/\u5927\u677c.mp3",
+    "length": 1.908,
+    "label": "\u5927\u677c"
+  },
+  {
+    "wav": "../data/vad/6/7KvaOvnM/\u4e2d\u6ce8.mp3",
+    "length": 1.908,
+    "label": "\u4e2d\u6ce8"
+  },
+  {
+    "wav": "../data/vad/6/MRDa6dxL/\u4e2d\u6ce8.mp3",
+    "length": 2.304,
+    "label": "\u4e2d\u6ce8"
+  },
+  {
+    "wav": "../data/vad/6/eyP6bJGL/\u4e2d\u6ce8.mp3",
+    "length": 2.304,
+    "label": "\u4e2d\u6ce8"
+  },
+  {
+    "wav": "../data/vad/6/7qXGdDlM/\u4e2d\u6ce8.mp3",
+    "length": 2.34,
+    "label": "\u4e2d\u6ce8"
+  },
+  {
+    "wav": "../data/vad/4/7XAP6nwL/\u4e0a\u5ec9.mp3",
+    "length": 1.368,
+    "label": "\u4e0a\u5ec9"
+  },
+  {
+    "wav": "../data/vad/4/Lm9B2ZKL/\u4e0a\u5ec9.mp3",
+    "length": 2.412,
+    "label": "\u4e0a\u5ec9"
+  },
+  {
+    "wav": "../data/vad/4/M6ByNaVM/\u4e0a\u5ec9.mp3",
+    "length": 1.98,
+    "label": "\u4e0a\u5ec9"
+  },
+  {
+    "wav": "../data/vad/2/7XA0XxjL/\u795e\u5ead.mp3",
+    "length": 2.412,
+    "label": "\u795e\u5ead"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mmzL/\u795e\u5ead.mp3",
+    "length": 3.42,
+    "label": "\u795e\u5ead"
+  },
+  {
+    "wav": "../data/vad/2/LQ8NEQB7/\u795e\u5ead.mp3",
+    "length": 2.232,
+    "label": "\u795e\u5ead"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u795e\u5ead.mp3",
+    "length": 2.664,
+    "label": "\u795e\u5ead"
+  },
+  {
+    "wav": "../data/vad/4/7XAP6nwL/\u6025\u8109.mp3",
+    "length": 0.936,
+    "label": "\u6025\u8109"
+  },
+  {
+    "wav": "../data/vad/4/M1KXGEDL/\u6025\u8109.mp3",
+    "length": 2.664,
+    "label": "\u6025\u8109"
+  },
+  {
+    "wav": "../data/vad/4/7XAPpVoL/\u6025\u8109.mp3",
+    "length": 3.348,
+    "label": "\u6025\u8109"
+  },
+  {
+    "wav": "../data/vad/2/M6BKO93M/\u5151\u7aef.mp3",
+    "length": 2.412,
+    "label": "\u5151\u7aef"
+  },
+  {
+    "wav": "../data/vad/2/MgEpgr8L/\u5151\u7aef.mp3",
+    "length": 3.816,
+    "label": "\u5151\u7aef"
+  },
+  {
+    "wav": "../data/vad/2/LVJ0mqkL/\u5151\u7aef.mp3",
+    "length": 2.232,
+    "label": "\u5151\u7aef"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u5151\u7aef.mp3",
+    "length": 1.728,
+    "label": "\u5151\u7aef"
+  },
+  {
+    "wav": "../data/vad/5/ev9JXdxL/\u66f2\u9b13.mp3",
+    "length": 2.484,
+    "label": "\u66f2\u9b13"
+  },
+  {
+    "wav": "../data/vad/5/eP2a4wN7/\u66f2\u9b13.mp3",
+    "length": 2.412,
+    "label": "\u66f2\u9b13"
+  },
+  {
+    "wav": "../data/vad/5/LQ8aWwd7/\u66f2\u9b13.mp3",
+    "length": 1.8,
+    "label": "\u66f2\u9b13"
+  },
+  {
+    "wav": "../data/vad/5/e4Bkvxq7/\u66f2\u9b13.mp3",
+    "length": 2.592,
+    "label": "\u66f2\u9b13"
+  },
+  {
+    "wav": "../data/vad/1/LOyAXj1M/\u8170\u9633\u5173.mp3",
+    "length": 2.664,
+    "label": "\u8170\u9633\u5173"
+  },
+  {
+    "wav": "../data/vad/1/7XA0Kz8L/\u8170\u9633\u5173.mp3",
+    "length": 2.988,
+    "label": "\u8170\u9633\u5173"
+  },
+  {
+    "wav": "../data/vad/1/Mx2bdg5L/\u8170\u9633\u5173.mp3",
+    "length": 1.728,
+    "label": "\u8170\u9633\u5173"
+  },
+  {
+    "wav": "../data/vad/1/MJnoBp1M/\u8170\u9633\u5173.mp3",
+    "length": 2.412,
+    "label": "\u8170\u9633\u5173"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KRDe/\u7ff3\u660e.mp3",
+    "length": 1.44,
+    "label": "\u7ff3\u660e"
+  },
+  {
+    "wav": "../data/vad/1/LQ8NKoG7/\u7ff3\u660e.mp3",
+    "length": 2.412,
+    "label": "\u7ff3\u660e"
+  },
+  {
+    "wav": "../data/vad/1/M28PmDAL/\u7ff3\u660e.mp3",
+    "length": 1.98,
+    "label": "\u7ff3\u660e"
+  },
+  {
+    "wav": "../data/vad/5/en9JK0AL/\u7ff3\u660e.mp3",
+    "length": 1.548,
+    "label": "\u7ff3\u660e"
+  },
+  {
+    "wav": "../data/vad/1/MZq0KQ1e/\u7ff3\u660e.mp3",
+    "length": 3.276,
+    "label": "\u7ff3\u660e"
+  },
+  {
+    "wav": "../data/vad/1/L0mvy0Ne/\u7ff3\u660e.mp3",
+    "length": 3.168,
+    "label": "\u7ff3\u660e"
+  },
+  {
+    "wav": "../data/vad/5/MWWa020M/\u7ff3\u660e.mp3",
+    "length": 3.528,
+    "label": "\u7ff3\u660e"
+  },
+  {
+    "wav": "../data/vad/7/LGBD0Wp7/\u98de\u626c.mp3",
+    "length": 1.728,
+    "label": "\u98de\u626c"
+  },
+  {
+    "wav": "../data/vad/7/eP2aYXA7/\u98de\u626c.mp3",
+    "length": 2.988,
+    "label": "\u98de\u626c"
+  },
+  {
+    "wav": "../data/vad/7/Mo1Jl56L/\u98de\u626c.mp3",
+    "length": 1.728,
+    "label": "\u98de\u626c"
+  },
+  {
+    "wav": "../data/vad/2/LwPbVQne/\u95f4\u4f7f.mp3",
+    "length": 2.16,
+    "label": "\u95f4\u4f7f"
+  },
+  {
+    "wav": "../data/vad/2/M6BKO93M/\u95f4\u4f7f.mp3",
+    "length": 1.656,
+    "label": "\u95f4\u4f7f"
+  },
+  {
+    "wav": "../data/vad/2/ebqzvlNL/\u95f4\u4f7f.mp3",
+    "length": 3.6,
+    "label": "\u95f4\u4f7f"
+  },
+  {
+    "wav": "../data/vad/2/ebqzv6yL/\u95f4\u4f7f.mp3",
+    "length": 2.412,
+    "label": "\u95f4\u4f7f"
+  },
+  {
+    "wav": "../data/vad/4/7AxDZGAM/\u9634\u5ec9.mp3",
+    "length": 1.98,
+    "label": "\u9634\u5ec9"
+  },
+  {
+    "wav": "../data/vad/4/ebqD5pkL/\u9634\u5ec9.mp3",
+    "length": 2.592,
+    "label": "\u9634\u5ec9"
+  },
+  {
+    "wav": "../data/vad/4/7Ypa1mzM/\u9634\u5ec9.mp3",
+    "length": 2.52,
+    "label": "\u9634\u5ec9"
+  },
+  {
+    "wav": "../data/vad/7/Mr5Jblpe/\u80a9\u9ac3.mp3",
+    "length": 2.052,
+    "label": "\u80a9\u9ac3"
+  },
+  {
+    "wav": "../data/vad/7/e4BkqO17/\u80a9\u9ac3.mp3",
+    "length": 1.728,
+    "label": "\u80a9\u9ac3"
+  },
+  {
+    "wav": "../data/vad/4/MWWavVyM/\u80a9\u9ac3.mp3",
+    "length": 2.232,
+    "label": "\u80a9\u9ac3"
+  },
+  {
+    "wav": "../data/vad/7/MJnDjkBM/\u80a9\u9ac3.mp3",
+    "length": 1.872,
+    "label": "\u80a9\u9ac3"
+  },
+  {
+    "wav": "../data/vad/4/7Ypa1mzM/\u80a9\u9ac3.mp3",
+    "length": 2.916,
+    "label": "\u80a9\u9ac3"
+  },
+  {
+    "wav": "../data/vad/7/MJnD0lRM/\u80a9\u9ac3.mp3",
+    "length": 2.232,
+    "label": "\u80a9\u9ac3"
+  },
+  {
+    "wav": "../data/vad/4/7BGD2VjL/\u80a9\u9ac3.mp3",
+    "length": 1.8,
+    "label": "\u80a9\u9ac3"
+  }
+]
