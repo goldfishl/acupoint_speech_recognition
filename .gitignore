@@ -4,4 +4,4 @@ __pycache__
 *.wav
 *.seg
 *.txt
-data/
+*.egg-info
