@@ -8,17 +8,17 @@ python -m pip install -e ./
 
 # about data
 
-It will automatically download all the files it needs.
+It will automatically download all the files it needs from my server.
 
 # rule-based segmentator evaluation
 
-## generate combined prescription audio data
+generate combined prescription audio data
 
 ```shell
 python -m acpsr generate
 ```
 
-## evualation
+evualation
 
 ```shell
 python -m acpsr evaluation
