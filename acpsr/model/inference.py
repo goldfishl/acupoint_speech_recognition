@@ -1,13 +1,14 @@
 import torch
 import pandas as pd
 import torchaudio
-import audio_proc as ap
+import acpsr.model.audio_proc as ap
 #import ast_models
 
 
 
 class Discriminator():
-    def __init__(self, model_path, labels_csv, device=None):
+    def __init__(self, model_path='./models/audio_model.pth', 
+            labels_csv='./models/class_labels_indices.csv', device=None):
         if device is None:
             self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.target_length = 420
