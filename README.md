@@ -21,5 +21,5 @@ python -m acpsr generate
 evualation
 
 ```shell
-python -m acpsr evaluation
+python -m acpsr evaluation > ./result/rule_based_eval.txt && cat ./result/rule_based_eval.txt
 ```
