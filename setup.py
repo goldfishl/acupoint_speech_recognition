@@ -16,5 +16,6 @@ setup(
         'matplotlib',
         'timm==0.4.5',
         'wget',
+        'zipfile',
     ],
 )
