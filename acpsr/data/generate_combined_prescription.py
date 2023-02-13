@@ -209,9 +209,9 @@ def start_generation():
     # generation
     all_gen = []
     for pres, opt in tqdm.tqdm(raw_pres):
-        all_gen += pres_generate((pres, []), all_words, max_permut=1, repeat=1)
+        all_gen += pres_generate((pres, []), all_words, max_permut=4, repeat=2)
         for item in opt:
-            all_gen += pres_generate((pres, item), all_words, max_permut=1, repeat=1)
+            all_gen += pres_generate((pres, item), all_words, max_permut=4, repeat=2)
     
 
     random.shuffle(all_gen)

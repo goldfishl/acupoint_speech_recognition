@@ -5,3 +5,4 @@ __pycache__
 *.seg
 *.txt
 *.egg-info
+data/acupoint

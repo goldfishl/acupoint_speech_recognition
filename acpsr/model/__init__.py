@@ -15,3 +15,5 @@ if not os.path.exists('./models/audio_model.pth'):
     fetch_content('audio_model.pth', './models')
 if not os.path.exists('./models/class_labels_indices.csv'):
     fetch_content('class_labels_indices.csv', './models')
+if not os.path.exists('./models/rnn_segmentator.pth'):
+    fetch_content('rnn_segmentator.pth', './models')
