@@ -53,7 +53,7 @@ F1:        0.927368
 
 Follow the steps below to conduct your own evaluation.
 
-## Generating data {#generate}
+## Generating data
 
 First you need to generate combined prescription audio data, the default setting generates 9330 samples, this will take a while.
 
@@ -88,7 +88,7 @@ The `val loss` and `test loss` information for each epoch during training is sho
 
 ## Generating data
 
-Follow the [Generating data](#generate) part of the evaluation.
+Follow the [Generating data](#Generating-data) part of the evaluation.
 
 ## training the model
 
