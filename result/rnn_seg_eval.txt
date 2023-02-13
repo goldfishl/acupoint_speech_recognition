@@ -1,0 +1,5 @@
+The average editing distance is 14.218649517684888
+The average accuracy of editing distance is 0.9893145572964336
+Precision: 0.927368
+Recall:    0.927368
+F1:        0.927368

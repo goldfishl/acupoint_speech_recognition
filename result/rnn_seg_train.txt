@@ -1,0 +1,80 @@
+loss: 1.125632  [    0/  249]
+loss: 0.145941  [   50/  249]
+loss: 0.133982  [  100/  249]
+loss: 0.126244  [  150/  249]
+loss: 0.099349  [  200/  249]
+Epoch: 01 | Time: 3m 15s
+	Train Loss: 0.163 | Train PPL:   1.177
+	 Val. Loss: 0.090 |  Val. PPL:   1.094
+loss: 0.096840  [    0/  249]
+loss: 0.076854  [   50/  249]
+loss: 0.077520  [  100/  249]
+loss: 0.080524  [  150/  249]
+loss: 0.081867  [  200/  249]
+Epoch: 02 | Time: 3m 15s
+	Train Loss: 0.081 | Train PPL:   1.084
+	 Val. Loss: 0.057 |  Val. PPL:   1.059
+loss: 0.072575  [    0/  249]
+loss: 0.074225  [   50/  249]
+loss: 0.054104  [  100/  249]
+loss: 0.054397  [  150/  249]
+loss: 0.060157  [  200/  249]
+Epoch: 03 | Time: 3m 11s
+	Train Loss: 0.061 | Train PPL:   1.063
+	 Val. Loss: 0.840 |  Val. PPL:   2.315
+loss: 0.069921  [    0/  249]
+loss: 0.053967  [   50/  249]
+loss: 0.044927  [  100/  249]
+loss: 0.050249  [  150/  249]
+loss: 0.049025  [  200/  249]
+Epoch: 04 | Time: 3m 15s
+	Train Loss: 0.052 | Train PPL:   1.053
+	 Val. Loss: 0.052 |  Val. PPL:   1.053
+loss: 0.046579  [    0/  249]
+loss: 0.045279  [   50/  249]
+loss: 0.061621  [  100/  249]
+loss: 0.044257  [  150/  249]
+loss: 0.049418  [  200/  249]
+Epoch: 05 | Time: 3m 16s
+	Train Loss: 0.048 | Train PPL:   1.049
+	 Val. Loss: 0.038 |  Val. PPL:   1.039
+loss: 0.046122  [    0/  249]
+loss: 0.034894  [   50/  249]
+loss: 0.044180  [  100/  249]
+loss: 0.041538  [  150/  249]
+loss: 0.040575  [  200/  249]
+Epoch: 06 | Time: 3m 16s
+	Train Loss: 0.044 | Train PPL:   1.045
+	 Val. Loss: 0.042 |  Val. PPL:   1.043
+loss: 0.040540  [    0/  249]
+loss: 0.045626  [   50/  249]
+loss: 0.048962  [  100/  249]
+loss: 0.042253  [  150/  249]
+loss: 0.041525  [  200/  249]
+Epoch: 07 | Time: 3m 14s
+	Train Loss: 0.042 | Train PPL:   1.043
+	 Val. Loss: 0.309 |  Val. PPL:   1.362
+loss: 0.037386  [    0/  249]
+loss: 0.036413  [   50/  249]
+loss: 0.037156  [  100/  249]
+loss: 0.035435  [  150/  249]
+loss: 0.036635  [  200/  249]
+Epoch: 08 | Time: 3m 14s
+	Train Loss: 0.039 | Train PPL:   1.040
+	 Val. Loss: 0.035 |  Val. PPL:   1.036
+loss: 0.037762  [    0/  249]
+loss: 0.038244  [   50/  249]
+loss: 0.041895  [  100/  249]
+loss: 0.038412  [  150/  249]
+loss: 0.032457  [  200/  249]
+Epoch: 09 | Time: 3m 16s
+	Train Loss: 0.039 | Train PPL:   1.039
+	 Val. Loss: 2.287 |  Val. PPL:   9.841
+loss: 0.036641  [    0/  249]
+loss: 0.035294  [   50/  249]
+loss: 0.044737  [  100/  249]
+loss: 0.039375  [  150/  249]
+loss: 0.031491  [  200/  249]
+Epoch: 10 | Time: 3m 14s
+	Train Loss: 0.037 | Train PPL:   1.038
+	 Val. Loss: 0.256 |  Val. PPL:   1.291
