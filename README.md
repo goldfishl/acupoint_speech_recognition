@@ -18,7 +18,21 @@ The two evaluations together can take up to one-half hour, which may vary depend
 
 My rule-based evalution results are in [rule_based_eval.txt](./result/rule_based_eval.txt).
 
+```
+Precision: 0.896329
+Recall:    0.912349
+F1:        0.904268
+```
+
 My rnn-based evalution results are in [rnn_seg_eval.txt](./result/rnn_seg_eval.txt).
+
+```
+The average editing distance is 14.218649517684888
+The average accuracy of editing distance is 0.9893145572964336
+Precision: 0.927368
+Recall:    0.927368
+F1:        0.927368
+```
 
 Follow the steps below to conduct your own evaluation.
 
