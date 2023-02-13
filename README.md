@@ -6,9 +6,9 @@ I not really sure if it's necessary.
 python -m pip install -e ./
 ```
 
-# about data
+# data and pre-trained model
 
-It will automatically download all the files it needs from my server.
+It will automatically download all the required files including audio `.wav` data and pre-trained model `.pth` file.
 
 # segmentator evaluation
 
