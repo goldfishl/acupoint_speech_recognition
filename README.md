@@ -5,6 +5,23 @@ I not really sure if it's necessary.
 ```shell
 python -m pip install -e ./
 ```
+# usage
+
+Let's infer a prescription audio as an example:
+
+```python
+from acpsr import Discriminator
+
+model = Discriminator()
+file_path = "./sample_data/sample_4738.wav"
+
+## rule-based inference
+model.inference(file_path, seg_method='rule')
+
+## rnn-segmentor inference
+model.inference(file_path, seg_method='rule')
+```
+
 
 # data and pre-trained model
 
@@ -63,15 +80,15 @@ cat ./result/rnn_seg_eval.txt
 
 Training can take up to 37 minutes(on my machine with Tesla v100).
 
-Model structure in [model.py](./acpsr/train/model.py#L111-L117).
+Model structure in [model.py](./acpsr/train/model.py#L110-L115).
 
-The hyperparameters of the training are set at [train.py](./acpsr/train/train.py#L8-L24).
+The hyperparameters of the training are set at [train.py](./acpsr/train/train.py#L12-L24).
 
 The `val loss` and `test loss` information for each epoch during training is shown in [rnn_seg_train.txt](./result/rnn_seg_train.txt)
 
 ## Generating data
 
-Follow the [Generating data](README.md#L25) part of the evaluation.
+Follow the [Generating data](README.md#L39) part of the evaluation.
 
 ## training the model
 
