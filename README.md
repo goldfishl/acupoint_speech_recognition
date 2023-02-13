@@ -88,7 +88,7 @@ The `val loss` and `test loss` information for each epoch during training is sho
 
 ## Generating data
 
-Follow the [Generating data](README.md#L39) part of the evaluation.
+Follow the [Generating data](## Generating data) part of the evaluation.
 
 ## training the model
 
