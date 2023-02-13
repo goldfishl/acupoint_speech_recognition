@@ -80,9 +80,9 @@ cat ./result/rnn_seg_eval.txt
 
 Training can take up to 37 minutes(on my machine with Tesla v100).
 
-Model structure in [model.py](./acpsr/train/model.py#L110-L115).
+Model structure in [model.py](./acpsr/train/model.py#L12-L24).
 
-The hyperparameters of the training are set at [train.py](./acpsr/train/train.py#L12-L24).
+The hyperparameters of the training are set at [train.py](./acpsr/train/train.py#L111-L115).
 
 The `val loss` and `test loss` information for each epoch during training is shown in [rnn_seg_train.txt](./result/rnn_seg_train.txt)
 
@@ -96,5 +96,6 @@ Training takes the data generated above and loads it from the hard drive into me
 
 ```shell
 python -m acpsr train rnn_seg > ./result/rnn_seg_train.txt
+
 cat ./result/rnn_seg_train.txt 
 ```
