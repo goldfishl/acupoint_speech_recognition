@@ -1,0 +1,20 @@
+-----------------acupoint-----------------
+dataset split rate: 0.80 0.11 0.10
+train data count: 13447
+train time: 30110.44 seconds, 8.36 hours
+valid data count: 1783
+valid time: 3959.06 seconds, 1.10 hours
+test data count: 1600
+test time: 3617.21 seconds, 1.00 hours
+total data count: 16830
+total time: 37686.71 seconds, 10.47 hours
+-----------------combined_prescription-----------------
+dataset split rate: 0.80 0.10 0.10
+training data count: 7464
+training time: 101216.39 seconds, 28.12 hours
+validation data count: 933
+validation time: 12641.55 seconds, 3.51 hours
+testing data count: 933
+testing time: 12635.01 seconds, 3.51 hours
+total data count: 9330
+total time: 126492.95 seconds, 35.14 hours
