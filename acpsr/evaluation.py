@@ -1,4 +1,3 @@
-
 import tqdm
 import os
 import torch
@@ -36,12 +35,18 @@ def editing_distance(a, b):
     return D[-1][-1]
 
 
-def start_evaluate(seg_method):
+def start_evaluate(combined_pres, seg_method):
     # Load the model
     model = Discriminator()
-    gener_path = os.path.join('./data', 'combined_prescription')
+    if combined_pres:
+        gener_path = os.path.join('./data', 'combined_prescription')
+        file_pref = os.path.join(gener_path, 'data')
+    else:
+        gener_path = os.path.join('./data', 'prescription')
+        file_pref = gener_path
+ 
 
-    if seg_method == 'rnn_seg':
+    if combined_pres and seg_method == 'rnn_seg':
         total_dis = 0
         total_acc = 0
         path = os.path.join('./data', 'combined_prescription')
@@ -62,10 +67,14 @@ def start_evaluate(seg_method):
     
 
 
-    with open(os.path.join(gener_path, 'sample_num'), 'r') as f:
-        total_samples=int(f.read())
+    # with open(os.path.join(gener_path, 'sample_num'), 'r') as f:
+    #     total_samples=int(f.read())
+    total_samples = 0
+    for filename in os.listdir(file_pref):
+        if filename.endswith('.wav'):
+            total_samples += 1
 
-    file_pref = os.path.join(gener_path, 'data')
+
 
     all_samples = [(file_pref+"/sample_" + str(i) + ".wav",
                     "".join(open(file_pref+"/sample_" + str(i) + ".txt"))) for i in range(total_samples)]

@@ -24,6 +24,7 @@ def get_whitelist(dir_path, include_train=False):
         with open(os.path.join(dir_path,split+".json"), 'r') as fp:
             data_json = json.load(fp)
             whitelist += [sd["wav"][12:-4]+".wav" for sd in data_json]
+    print(whitelist)
     return whitelist
 
 

@@ -198,7 +198,8 @@ def plot_audio_data(data, fs=default_fs, spectrogram=False, intensity=False):
         plt.show()
 
 
-def generate_noise(ms, max_amp=0.001, fs=default_fs):
+def generate_noise(ms, max_amp=0.01, fs=default_fs):
+# def generate_noise(ms, max_amp=0.001, fs=default_fs):
     amplitude = 11
     noise = stats.truncnorm(-1, 1, scale=min(2**16, 2**max_amp)).rvs(ms * fs // 1000)
     noise = noise.astype(np.int16)

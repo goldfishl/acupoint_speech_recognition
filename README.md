@@ -53,7 +53,7 @@ F1:        0.927368
 
 Follow the steps below to conduct your own evaluation.
 
-## Generating data
+## generating data
 
 First you need to generate combined prescription audio data, the default setting generates 9330 samples, this will take a while.
 
@@ -86,7 +86,7 @@ The hyperparameters of the training are set at [train.py](./acpsr/train/train.py
 
 The `val loss` and `test loss` information for each epoch during training is shown in [rnn_seg_train.txt](./result/rnn_seg_train.txt)
 
-## Generating data
+## training data
 
 Follow the [Generating data](#Generating-data) part of the evaluation.
 

@@ -72,6 +72,12 @@ class Discriminator():
             return pred
 
         if seg_method == "rnn":
+            waveform, fs = torchaudio.load(file_path)
+            embed = embedding(waveform).to(device)
+            out = self.rnn_seg.model(embed)
+            out = torch.argmax(out, dim=1).tolist()
+            print(out)
+
             segments, fs = self.rnn_seg(file_path)
             norm_mean = -6.845978
             norm_std = 5.5654526

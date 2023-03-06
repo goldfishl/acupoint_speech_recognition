@@ -87,6 +87,7 @@ def pres_generate(pres, all_words, max_permut=10, repeat=2):
     
     # Generate audio data
     result = []
+    print(all_permuts)
     for pres in all_permuts:
         for i in range(repeat):
             # Generate a single complete audio clip
@@ -186,6 +187,7 @@ def start_generation():
     print("Start generating")
     all_words = reader.get_all_wav(include_train=True)
     raw_pres = reader.get_raw_pres()
+    print(raw_pres)
     gener_path = os.path.join('./data', 'combined_prescription')
 
     # Generating a list of missing words
