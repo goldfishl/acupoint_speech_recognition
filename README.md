@@ -48,17 +48,17 @@ Metrics on the *generation* test set
 
 Metrics on the *real* test set
 
-| $recall$ | $precision$ | $f1$ |
-| -------- | -------- | -------- |
-| 91.23%  | 89.63%  | 90.42%  |
+| $recall$ | $precision$ | $f1$ | 
+| -------- | -------- | -------- | 
+| 53.49%  | 60.72%  | 58.2%  | 
 
 ### RNN-based segmenter
 
 Metrics on the *generation* test set
 
-| $recall$ | $precision$ | $f1$ | 
-| -------- | -------- | -------- | 
-| 53.49%  | 60.72%  | 58.2%  | 
+| $recall$ | $precision$ | $f1$ |
+| -------- | -------- | -------- |
+| 92.73%  | 92.73%  | 92.73%  |
 
 Metrics on the *real* test set
 
