@@ -84,7 +84,7 @@ Metrics on the *generation* test set
 | base | 74M | 34.58 | 35.94 |
 | small | 244M | 1.8 | 2.86 |
 
-Metrics on the *generation* test set
+Metrics on the *real* test set
 
 | Model Size | Parameters |Test WER |
 | --- | --- | --- |
