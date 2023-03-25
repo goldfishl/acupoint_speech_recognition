@@ -1,101 +1,91 @@
-# build the package
+# Experiments on Acupoints(isolated words)
+The purpose of these experiments is to train a model for classifying an audio recording that contains an isolated word to its corresponding label.
 
-I not really sure if it's necessary.
+## Dataset
 
-```shell
-python -m pip install -e ./
-```
-# usage
+This dataset consists of 16,830 speech samples, collected from 287 contributors, specifically focusing on 418 acupuncture points. The total duration of the dataset is 10.47 hours.
 
-Let's infer a prescription audio as an example:
+Taking into account the size of our dataset, we partition it into training, validation, and test sets using a **balanced** 0.7:0.15:0.15 ratio. To ensure an even distribution, we randomly select samples from each class for every subset, maintaining a balanced representation of all classes.
 
-```python
-from acpsr import Discriminator
+## Results on AST/SSAST
 
-model = Discriminator()
-file_path = "./sample_data/sample_4738.wav"
+Metrics on the test set
 
-## rule-based inference
-model.inference(file_path, seg_method='rule')
+| $recall$ | $precision$ | $f1$ | $accuracy$ | $AP$ |
+| -------- | -------- | -------- | -------- |  -------- | 
+| 95.35%  | 96.01%  | 95.34%  | 95.35% | 97.15% |
 
-## rnn-segmentor inference
-model.inference(file_path, seg_method='rule')
-```
+## Results on TDNN
+
+Metrics on the test set
+
+| $recall$ | $precision$ | $f1$ | $accuracy$ | $AP$ |
+| -------- | -------- | -------- | -------- |  -------- | 
+| 88.99%  | 90.16%  | 88.67%  | 88.99% | 95.91% |
+
+## VAD Experiments
 
 
-# data and pre-trained model
+# Experiments on Acupuncture prescription(sequence of isolated words)
 
-It will automatically download all the required files including audio `.wav` data and pre-trained model `.pth` file.
+The purpose of these experiments was to train a model to transcribe acupuncture prescription speech into text.
 
-# segmentator evaluation
+## Dataset
 
-Evaluating `rule` and `rnn` based segmentator.
+There are two datasets - one is generated and is referred to as the *generation* dataset, and the other is collected from crowdsourcing platforms and is referred to as the *real* dataset.
 
-The two evaluations together can take up to one-half hour, which may vary depending on your machine.
+## Results on segmenter + classifier
 
-My rule-based evalution results are in [rule_based_eval.txt](./result/rule_based_eval.txt).
+The following two experiments use the same AST/SSAST classifier but different segmenters.
 
-```
-Precision: 0.896329
-Recall:    0.912349
-F1:        0.904268
-```
+### rule-based segmenter
 
-My rnn-based evalution results are in [rnn_seg_eval.txt](./result/rnn_seg_eval.txt).
+Metrics on the *generation* test set
 
-```
-The average editing distance is 14.218649517684888
-The average accuracy of editing distance is 0.9893145572964336
-Precision: 0.927368
-Recall:    0.927368
-F1:        0.927368
-```
+| $recall$ | $precision$ | $f1$ |
+| -------- | -------- | -------- |
+| 91.23%  | 89.63%  | 90.42%  |
 
-Follow the steps below to conduct your own evaluation.
+Metrics on the *real* test set
 
-## generating data
+| $recall$ | $precision$ | $f1$ |
+| -------- | -------- | -------- |
+| 91.23%  | 89.63%  | 90.42%  |
 
-First you need to generate combined prescription audio data, the default setting generates 9330 samples, this will take a while.
+### RNN-based segmenter
 
-```shell
-python -m acpsr generate
-```
+Metrics on the *generation* test set
 
-## rule-based segmentator evaluation 
+| $recall$ | $precision$ | $f1$ | 
+| -------- | -------- | -------- | 
+| 53.49%  | 60.72%  | 58.2%  | 
 
-```shell
-python -m acpsr evaluate rule_seg > ./result/rule_based_eval.txt
+Metrics on the *real* test set
 
-cat ./result/rule_based_eval.txt
-```
-## rnn-based segmentator evaluation 
+| $recall$ | $precision$ | $f1$ | 
+| -------- | -------- | -------- | 
+| 0.032%  | 0.024%  | 0.021%  | 
 
-```shell
-python -m acpsr evaluate rnn_seg > ./result/rnn_seg_eval.txt
+## Wav2Vec2 + CTC + n-gram
 
-cat ./result/rnn_seg_eval.txt
-```
+Metrics on the *generation* test set
 
-# train rnn segmentator from scratch
+| Best Val WER | Test WER |
+| --- | --- | 
+| 93.30 | 96.35 |
 
-Training can take up to 37 minutes(on my machine with Tesla v100).
+## Whisper
 
-Model structure in [model.py](./acpsr/train/model.py#L12-L24).
+Metrics on the *generation* test set
 
-The hyperparameters of the training are set at [train.py](./acpsr/train/train.py#L111-L115).
+| Model Size | Parameters | Best Val WER | Test WER |
+| --- | --- | --- | --- |
+| tiny | 39M | 17.07 | 16.17 |
+| base | 74M | 34.58 | 35.94 |
+| small | 244M | 1.8 | 2.86 |
 
-The `val loss` and `test loss` information for each epoch during training is shown in [rnn_seg_train.txt](./result/rnn_seg_train.txt)
+Metrics on the *generation* test set
 
-## training data
-
-Follow the [Generating data](#Generating-data) part of the evaluation.
-
-## training the model
-
-Training takes the data generated above and loads it from the hard drive into memory, which can take a lot of time. This may require 13G or more of RAM.
-
-```shell
-python -m acpsr train rnn_seg > ./result/rnn_seg_train.txt
-
-cat ./result/rnn_seg_train.txt 
-```
+| Model Size | Parameters |Test WER |
+| --- | --- | --- |
+| small | 244M | 48.86 |

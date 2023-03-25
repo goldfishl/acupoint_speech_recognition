@@ -8,6 +8,8 @@ from acpsr.data.statistic import start_statistic
 from acpsr.train.train import start_train
 from acpsr.train.dataset import split_dataset
 
+from acpsr.train.audio_classifier.ast.train import ssast_start_train
+
 
 if __name__ == "__main__":
     # Create an ArgumentParser object
@@ -48,6 +50,9 @@ if __name__ == "__main__":
             print('Start to load data in hard drive into memory, it takes a lot of time!')
             # Call the "start_train" function
             start_train()
+        if args.command[1] == "ssast":
+            print("Start to train the SSAST model.")
+            ssast_start_train()
 
     elif args.command[0] == "statistic":
         # Call the "reader.statistic" function
